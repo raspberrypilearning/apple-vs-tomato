@@ -1,23 +1,20 @@
-## Step title
+<html>
+<div id="video-container">
+    <iframe id="youtube-video" width="560" height="315" src="https://www.youtube.com/embed/m6By70PqVbc" frameborder="0" allowfullscreen cc_load_policy=1>
+    </iframe>
+    
+<video id="fallback-video" width="960" height="540" controls>
+    <source src="images/step1.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+</video>
+</div>
 
-Add an introductory sentence. What will learners achieve by the end of this step?
+<script>
+    document.getElementById('youtube-video').onerror = function() {
+        document.getElementById('youtube-video').style.display = 'none';
+        document.getElementById('fallback-video').style.display = 'block';
+    };
+</script>
+<html>
 
---- task ---
 
-If working **online**, open the [starter project](https://rpf.io/p/en/projectName-on){:target="_blank"} in Scratch.
- 
-If working **offline**, open the project [starter file](https://rpf.io/p/en/projectName-get){:target="_blank"} in the Scratch offline editor. If you need to download and install Scratch, you can find it [here](https://scratch.mit.edu/download){:target="_blank"}.
-
-You should see...
- 
-![starter project](images/starter_project.png)
-
---- /task ---
-
---- task ---
-
-Step content...
-
---- /task ---
-
---- save ---

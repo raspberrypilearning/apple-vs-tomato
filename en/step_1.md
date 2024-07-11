@@ -1,59 +1,23 @@
-## Introduction
+## What you will make
 
-Add project description here. What will learners be making? Broadly what skills will they be learning?
+Teach a computer to tell the !
 
-### What you will make
+**TODO** 
+Video of Pete in supermarket using checkout. Bright idea! Let's use automated-checkout computer-vision system!
 
---- no-print ---
-Add instructions for interacting with the embedded content here.
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
---- /no-print ---
+**TODO** Replace with video
+![An object is held up to a web camera. In the output panel underneath the video, the confidence score is displayed as to whether an apple or a tomato is being shown.](images/apple_or_tomato.gif)
 
---- print-only ---
-![Complete project](images/showcase_static.png)
---- /print-only ---
+You will need a **webcam**, and **apple** and a **tomato**.
 
---- collapse ---
----
-title: What you will need
----
-### Hardware
+TM project in Google Drive 
+https://drive.google.com/file/d/1uLIfx9T6GeL3H4ePZvtLrzmA4QvOw6px/view
 
-+ A computer or tablet capable of running Scratch 3
-
-### Software
-
-+ Scratch 3 (either [online](https://scratch.mit.edu/){:target="_blank"} or [offline](https://scratch.mit.edu/download){:target="_blank"})
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
-
-### Downloads
-
-+ Download the project [starter file](https://rpf.io/p/en/projectName-go){:target="_blank"} if working offline
-
---- /collapse ---
-
---- collapse ---
----
-title: What you will learn
----
-
-+ Learning objective 1
-+ Learning objective 2
-+ Learning objective 3
-
---- /collapse ---
-
---- collapse ---
----
-title: Additional information for educators
----
-
-You can download the completed project [here](https://rpf.io/p/en/projectName-get){:target="_blank"}.
-
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/projectName/print){:target="_blank"}.
-
---- /collapse ---
+- Use image bank of apples and tomatoes. (All red)
+- See if it can recognise red apple.
+- See if it can recognise a green apple?
+- Explain training data is bias as it only trained on red objects.
+- Note to educators re: ethical bias?
+- Add examples of other coloured apples to the training data.
+- Can use data in test folder if no actual apple or tomato.
