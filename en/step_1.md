@@ -1,23 +1,15 @@
 ## What you will make
 
-Teach a computer to tell the !
+**TODO** Does this need to be Make a supermarket auto-detect thing?
 
-**TODO** 
-Video of Pete in supermarket using checkout. Bright idea! Let's use automated-checkout computer-vision system!
+Fish or foul? 
 
+Or just: 
 
-**TODO** Replace with video
-![An object is held up to a web camera. In the output panel underneath the video, the confidence score is displayed as to whether an apple or a tomato is being shown.](images/apple_or_tomato.gif)
+Build a better classifier, using more diverse training data.
 
-You will need a **webcam**, and **apple** and a **tomato**.
+**TODO** Trailer:
+Video of green apple recognised as an apple, a red tomato being recognised as a tomato, but confusion with a red apple. More data added. New comparisons show better outcomes.
 
-TM project in Google Drive 
-https://drive.google.com/file/d/1uLIfx9T6GeL3H4ePZvtLrzmA4QvOw6px/view
-
-- Use image bank of apples and tomatoes. (All red)
-- See if it can recognise red apple.
-- See if it can recognise a green apple?
-- Explain training data is bias as it only trained on red objects.
-- Note to educators re: ethical bias?
-- Add examples of other coloured apples to the training data.
-- Can use data in test folder if no actual apple or tomato.
+You will need a **webcam**, a **red apple**, a **green apple** and a **red tomato**.
+If you do not have these, you can complete the project using the test images provided.

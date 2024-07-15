@@ -1,11 +1,18 @@
-title: default-project-template
+title: Apple vs tomato
 hero_image: images/banner.png
-description: default-project-template description
+description: Improve a classifier to give better results.
 version: 4
 listed: false
 copyedit: false
-last_tested: "2022-05-19"
+last_tested: "2024-07-02"
 steps:
-  - title: Introduction
-  - title: Step title
-  - title: What next?
+  - title: What you will make
+  - title: Test an existing model
+    completion:
+    - engaged
+  - title: Improve the model
+    completion:
+    - internal
+  - title: What can you do now?
+    completion:
+    - external
