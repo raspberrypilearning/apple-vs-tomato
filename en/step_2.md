@@ -1,8 +1,10 @@
-## Test an existing model
+## Create a model
 
-### Follow our video guide
-
-<iframe width="640" height="360" src="https://www.youtube.com/embed/XXXXXXXXXXXXX?rel=0&cc_load_policy=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<html>
+  <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
+    <iframe style="position: absolute; top: 0; left: 0; right: 0; width: 100%; height: 100%; border: none;" src="https://www.youtube.com/embed/XXXXXXXXXXX?rel=0&cc_load_policy=1" allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>
+  </div>
+</html>
 
 --- collapse ---
 ---
@@ -10,71 +12,73 @@ title: I cannot access YouTube
 ---
 
 <video width="640" height="360" controls>
-  <source src="images/dance-detector-part1.mp4" type="video/mp4">
+  <source src="images/XXXXXXXXXXX.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 
 --- /collapse ---
 
-### Follow our step-by-step guide
+### Download sample images
 
 --- task ---
 
-Open the [starter project](https://teachablemachine.withgoogle.com/train/image/1ebW5aMmz4W3IdsLdswRfg8eS0HvfEMM-)
+Download the folder containing the [starter images](https://drive.google.com/drive/folders/1HrXSmxNgoXrfHJDfdyOyQxV9aPCaWdAZ)
+
+--- /task ---
+
+### Add sample images
+
+--- task ---
+
+Open [Teachable Machine](https://rpf.io/tm).
 
 --- /task ---
 
 --- task ---
 
-Allow Google Drive permissions.
-
---- /task ---
-
-The starter project contains two classes:
-- The 'Apple' class contains images of **green** apples.
-- The 'Tomato' class contains images of **red** tomatoes.
-
---- task ---
-
-Train the model.
+- Rename `Class 1` to `Apple` 
+- Rename `Class 2` to `Tomato`
 
 --- /task ---
 
 --- task ---
 
-Test the model by holding up a **green** apple to your webcam.
-
-The model should make a **confident** prediction that it is an apple.
+Upload the green **apple** images to the 'Apple' class.
 
 --- /task ---
 
 --- task ---
 
-Test the model by holding up a red **tomato** to your webcam.
+Upload the red **tomato** images to the 'Tomato' class.
 
-The model should make a **confident** prediction that it is a tomato.
+--- /task ---
+
+### Train the model
+
+--- task ---
+
+Click **Train Model**.
+
+**Note**: Be patient! It can take 10 to 20 seconds to complete.
+
+![The 'Train Model' button.](images/train_model.png)
+
+--- /task ---
+
+### Test the model
+
+--- task ---
+
+Hold up your **green** apple to your webcam.
+
+The model should make a **confident** prediction that it is an *apple*.
 
 --- /task ---
 
 --- task ---
 
-Test the model by holding up a **red** apple to your webcam.
+Hold up your **red** tomato to your webcam.
 
-The model should **not** make a confident prediction that it is an apple.
+The model should make a **confident** prediction that it is a *tomato*.
 
 --- /task ---
-
-The training data is biased, as it only trained on green apples.
-
-In the next step, you will improve your model by adding examples of other coloured apples to the training data used for the 'Apple' class.
-
---- collapse ---
----
-title: Note to educators
----
-
-If appropriate, you may choose to introduce learners to the concept of the ethical bias that can result from the use of biased training data.
-
---- /collapse ---
-
-- Can use data in test folder if no actual apple or tomato.

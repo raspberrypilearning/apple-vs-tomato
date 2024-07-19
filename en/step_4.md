@@ -1,3 +1,70 @@
-## What can you do now?
+## Improve the model
 
-If you want to have more fun exploring **artificial intelligence**, then you could try out any of [these projects](https://projects.raspberrypi.org/en/projects?interests%5B%5D=ai).
+<html>
+  <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
+    <iframe style="position: absolute; top: 0; left: 0; right: 0; width: 100%; height: 100%; border: none;" src="https://www.youtube.com/embed/XXXXXXXXXXX?rel=0&cc_load_policy=1" allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>
+  </div>
+</html>
+
+--- collapse ---
+---
+title: I cannot access YouTube
+---
+
+<video width="640" height="360" controls>
+  <source src="images/XXXXXXXXXXX.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+--- /collapse ---
+
+The training data is biased, as it is only trained on green apples.
+
+To reduce the bias, you need to add extra examples of apples to the 'Apple' class.
+
+--- task ---
+
+Download a folder of images that looks most like your **red** apple.
+
+![Red](https://drive.google.com/drive/folders/1iSQETo_a1JQAZYkL2ls9hNtVIPmbeRww) apples
+![Reddy-green](https://drive.google.com/drive/folders/19_FIbLmo1-LAg9DUNOAJtMY_t-kLGyRy) apples
+![Reddy-yellow](https://drive.google.com/drive/folders/1J6XCnMVnz3M82To18shWj9gQyW-JXO1x) apples
+
+--- /task ---
+
+--- task ---
+
+In the 'Apple' class, add some samples of images from the folder you have just downloaded.
+
+**Tip**: You can also use your webcam to take images of your red apple.
+
+**Tip**: You only need to add a few extra samples.
+
+--- /task ---
+
+### Train the model again
+
+--- task ---
+
+Click **Train Model**.
+
+![The 'Train Model' button.](images/train_model.png)
+
+--- /task ---
+
+When the model is trained, the preview panel will open.
+
+Test the model again by holding up your **red** apple to your webcam.
+
+The model should make a ***more* confident** prediction that it is an *apple*.
+
+--- /task ---
+
+--- collapse ---
+---
+title: Note to educators
+---
+
+You may choose to introduce learners to the concept of the ethical bias that can result from the use of biased training data.
+
+--- /collapse ---
