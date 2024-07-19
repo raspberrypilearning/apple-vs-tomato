@@ -4,12 +4,13 @@ description: Improve a classifier to give better results.
 version: 4
 listed: false
 copyedit: false
-last_tested: "2024-07-02"
+last_tested: "2024-07-19"
 steps:
   - title: What you will make
-  - title: Test an existing model
+  - title: Create a model
     completion:
     - engaged
+  - title: A different apple
   - title: Improve the model
     completion:
     - internal
