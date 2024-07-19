@@ -58,8 +58,6 @@ Test the model again by holding up your **red** apple to your webcam.
 
 The model should make a ***more* confident** prediction that it is an *apple*.
 
---- /task ---
-
 --- collapse ---
 ---
 title: Note to educators
