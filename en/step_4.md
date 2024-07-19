@@ -54,9 +54,13 @@ Click **Train Model**.
 
 When the model is trained, the preview panel will open.
 
+--- task ---
+
 Test the model again by holding up your **red** apple to your webcam.
 
 The model should make a ***more* confident** prediction that it is an *apple*.
+
+--- /task ---
 
 --- collapse ---
 ---
