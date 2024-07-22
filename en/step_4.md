@@ -26,9 +26,9 @@ To reduce the bias, you need to add extra examples of apples to the 'Apple' clas
 
 Download a folder of images that looks most like your **red** apple.
 
-[Red](https://drive.google.com/drive/folders/1iSQETo_a1JQAZYkL2ls9hNtVIPmbeRww) apples
-[Reddy-green](https://drive.google.com/drive/folders/19_FIbLmo1-LAg9DUNOAJtMY_t-kLGyRy) apples
-[Reddy-yellow](https://drive.google.com/drive/folders/1J6XCnMVnz3M82To18shWj9gQyW-JXO1x) apples
+[Red](https://drive.google.com/drive/folders/1iSQETo_a1JQAZYkL2ls9hNtVIPmbeRww){:target="_blank"} apples.
+[Reddy-green](https://drive.google.com/drive/folders/19_FIbLmo1-LAg9DUNOAJtMY_t-kLGyRy){:target="_blank"} apples.
+[Reddy-yellow](https://drive.google.com/drive/folders/1J6XCnMVnz3M82To18shWj9gQyW-JXO1x){:target="_blank"} apples.
 
 --- /task ---
 

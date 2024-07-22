@@ -1,6 +1,8 @@
 ## What you will make
 
-Build a better classifier, using more diverse training data.
+You will teach a computer to tell you if you are holding an apple or a tomato.
+
+Then you will improve the classifier, using more diverse training data.
 
 **TODO**: Trailer:
 Video of green apple recognised as an apple, a red tomato being recognised as a tomato, but confusion with a red apple. More data added. New comparisons show better outcomes.
@@ -12,3 +14,4 @@ Video of green apple recognised as an apple, a red tomato being recognised as a 
 </html>
 
 You will need a **webcam**, a **red apple**, a **green apple** and a **red tomato**.
+You will need to be able to save files to your computer.
