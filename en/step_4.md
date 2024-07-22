@@ -1,4 +1,6 @@
-## Improve the model
+## A different apple
+
+Test the model using a different apple.
 
 <html>
   <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
@@ -18,55 +20,12 @@ Your browser does not support the video tag.
 
 --- /collapse ---
 
-The training data is biased, as it is only trained on green apples.
-
-To reduce the bias, you need to add extra examples of apples to the 'Apple' class.
-
 --- task ---
 
-Download a folder of images that looks most like your **red** apple.
+Test the model by holding up your **red** apple to your webcam.
 
-[Red](https://drive.google.com/drive/folders/1iSQETo_a1JQAZYkL2ls9hNtVIPmbeRww){:target="_blank"} apples.
-[Reddy-green](https://drive.google.com/drive/folders/19_FIbLmo1-LAg9DUNOAJtMY_t-kLGyRy){:target="_blank"} apples.
-[Reddy-yellow](https://drive.google.com/drive/folders/1J6XCnMVnz3M82To18shWj9gQyW-JXO1x){:target="_blank"} apples.
+The model should **not** make a confident prediction that it is an apple.
 
---- /task ---
-
---- task ---
-
-In the 'Apple' class, add some samples of images from the folder you have just downloaded.
-
-**Tip**: You can also use your webcam to take images of your red apple.
-
-**Tip**: You only need to add a few extra samples.
+It will probably predict that it is a **tomato**!
 
 --- /task ---
-
-### Train the model again
-
---- task ---
-
-Click **Train Model**.
-
-![The 'Train Model' button.](images/train_model.png)
-
---- /task ---
-
-When the model is trained, the preview panel will open.
-
---- task ---
-
-Test the model again by holding up your **red** apple to your webcam.
-
-The model should make a ***more* confident** prediction that it is an *apple*.
-
---- /task ---
-
---- collapse ---
----
-title: Note to educators
----
-
-You may choose to introduce learners to the concept of the ethical bias that can result from the use of biased training data.
-
---- /collapse ---

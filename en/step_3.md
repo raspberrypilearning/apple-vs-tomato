@@ -1,4 +1,6 @@
-## A different apple
+## Train and test
+
+Train a model to detect what you are holding.
 
 <html>
   <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
@@ -18,14 +20,32 @@ Your browser does not support the video tag.
 
 --- /collapse ---
 
-Test the model using a different apple.
+### Train the model
 
 --- task ---
 
-Test the model by holding up your **red** apple to your webcam.
+Click **Train Model**.
 
-The model should **not** make a confident prediction that it is an apple.
+**Note**: Be patient! It can take 10 to 20 seconds to complete.
 
-It will probably predict that it is a **tomato**!
+![The 'Train Model' button.](images/train_model.png)
+
+--- /task ---
+
+### Test the model
+
+--- task ---
+
+Hold up your **green** apple to your webcam.
+
+The model should make a **confident** prediction that it is an *apple*.
+
+--- /task ---
+
+--- task ---
+
+Hold up your **red** tomato to your webcam.
+
+The model should make a **confident** prediction that it is a *tomato*.
 
 --- /task ---

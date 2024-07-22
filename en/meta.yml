@@ -1,6 +1,6 @@
 title: Apple vs tomato
 hero_image: images/banner.png
-description: Improve a classifier to give better results.
+description: Teach a computer to tell you if you are holding an apple or a tomato, then improve it by including more diverse training data.
 version: 4
 listed: false
 copyedit: false
@@ -10,6 +10,7 @@ steps:
   - title: Create a model
     completion:
     - engaged
+  - title: Train and test
   - title: A different apple
   - title: Improve the model
     completion:

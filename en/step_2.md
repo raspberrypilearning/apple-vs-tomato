@@ -1,6 +1,6 @@
 ## Create a model
 
-Add sample images of apples and tomatoes and train a model to detect which you are holding.
+Add sample images of apples and tomatoes.
 
 <html>
   <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
@@ -20,15 +20,7 @@ Your browser does not support the video tag.
 
 --- /collapse ---
 
-### Download sample images
-
---- task ---
-
-Download the folder containing the [starter images](https://drive.google.com/drive/folders/1HrXSmxNgoXrfHJDfdyOyQxV9aPCaWdAZ){:target="_blank"}.
-
---- /task ---
-
-### Add sample images
+### Set up the model
 
 --- task ---
 
@@ -43,6 +35,51 @@ Open [Teachable Machine](https://rpf.io/tm){:target="_blank"}.
 
 --- /task ---
 
+### Download sample images
+
+--- task ---
+
+Download the folder containing the [starter images](https://drive.google.com/drive/folders/1HrXSmxNgoXrfHJDfdyOyQxV9aPCaWdAZ){:target="_blank"}.
+
+--- /task ---
+
+The images will download as a `.zip` file.
+
+--- task ---
+
+Unzip the images.
+
+--- /task ---
+
+--- collapse ---
+
+---
+title: How to unzip
+---
+ 
+ **Windows**
+ - Open your 'Downloads' folder.
+ - Right-click the `.zip` file and select 'Extract All'
+
+ **Chromebook**
+ - Open `Files`. 
+ - Double-click the zipped file. 
+ - On the left, you’ll find the ZIP file.
+ - Drag and drop the files/folders into a new folder of your choice.
+
+ **Mac**
+ - Open your 'Downloads' folder.
+ - Double click the `.zip` file. 
+ - A new folder will be created that contains the uncompressed files/folders.
+
+**Linux**
+- Open the 'Downloads' folder.
+- Right-click on the `.zip` file and choose 'Extract Here'.
+
+--- /collapse ---
+
+### Add sample images
+
 --- task ---
 
 Upload the green **apple** images to the 'Apple' class.
@@ -52,35 +89,5 @@ Upload the green **apple** images to the 'Apple' class.
 --- task ---
 
 Upload the red **tomato** images to the 'Tomato' class.
-
---- /task ---
-
-### Train the model
-
---- task ---
-
-Click **Train Model**.
-
-**Note**: Be patient! It can take 10 to 20 seconds to complete.
-
-![The 'Train Model' button.](images/train_model.png)
-
---- /task ---
-
-### Test the model
-
---- task ---
-
-Hold up your **green** apple to your webcam.
-
-The model should make a **confident** prediction that it is an *apple*.
-
---- /task ---
-
---- task ---
-
-Hold up your **red** tomato to your webcam.
-
-The model should make a **confident** prediction that it is a *tomato*.
 
 --- /task ---
