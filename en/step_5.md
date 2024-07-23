@@ -63,6 +63,16 @@ When the model is trained, the preview panel will open.
 Test the model again by holding up your **red** apple to your webcam.
 
 The model should make a ***more* confident** prediction that it is an *apple*.
+ 
+--- /task ---
+
+--- task ---
+
+Hold up your tomato to your webcam.
+
+The model might make a ***less* confident** prediction that it is a *tomato*.
+
+This is because you have added training data to the apple class of images that look more like tomatoes.
 
 --- /task ---
 

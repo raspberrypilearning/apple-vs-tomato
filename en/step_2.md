@@ -39,7 +39,7 @@ Open [Teachable Machine](https://rpf.io/tm){:target="_blank"}.
 
 --- task ---
 
-Download the folder containing the [starter images](https://drive.google.com/drive/folders/1HrXSmxNgoXrfHJDfdyOyQxV9aPCaWdAZ){:target="_blank"}.
+Download the folder containing the [starter images](https://rpf.io/tams){:target="_blank"}.
 
 --- /task ---
 
