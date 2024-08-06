@@ -30,8 +30,9 @@ Open [Teachable Machine](https://rpf.io/tm){:target="_blank"}.
 
 --- task ---
 
-- Rename `Class 1` to `Apple` 
-- Rename `Class 2` to `Tomato`
+Rename `Class 1` to `Apple`.
+
+Rename `Class 2` to `Tomato`.
 
 --- /task ---
 
@@ -39,15 +40,15 @@ Open [Teachable Machine](https://rpf.io/tm){:target="_blank"}.
 
 --- task ---
 
-Download the folder containing the [starter images](https://rpf.io/tams){:target="_blank"}.
+Download the [folder containing the starter images](https://rpf.io/tams){:target="_blank"}.
 
 --- /task ---
 
-The images will download as a `.zip` file.
+The folder will download as a zip file.
 
 --- task ---
 
-Unzip the images.
+Unzip the folder.
 
 --- /task ---
 
@@ -57,24 +58,23 @@ Unzip the images.
 title: How to unzip
 ---
  
- **Windows**
+ **Microsoft Windows**
  - Open your 'Downloads' folder.
- - Right-click the `.zip` file and select 'Extract All'
+ - Right-click on the zip file and select **Extract All**.
 
- **Chromebook**
- - Open `Files`. 
- - Double-click the zipped file. 
- - On the left, you’ll find the ZIP file.
+ **ChromeOS**
+ - Open Files.
+ - On the left, you will find the zip file. Double-click on the zip file.
  - Drag and drop the files/folders into a new folder of your choice.
 
- **Mac**
+ **macOS**
  - Open your 'Downloads' folder.
- - Double click the `.zip` file. 
- - A new folder will be created that contains the uncompressed files/folders.
+ - Double-click on the zip file.
+ - A new folder will be created that contains the decompressed files/folders.
 
 **Linux**
-- Open the 'Downloads' folder.
-- Right-click on the `.zip` file and choose 'Extract Here'.
+- Open your 'Downloads' folder.
+- Right-click on the zip file and select **Extract Here**.
 
 --- /collapse ---
 

@@ -18,19 +18,19 @@ Your browser does not support the video tag.
 
 --- /collapse ---
 
-The training data is biased, as it is only trained on green apples.
+The training data is biased, as it only includes green apples.
 
 To reduce the bias, you need to add extra examples of apples to the 'Apple' class.
 
 --- task ---
 
-Download a folder of [more images of apples](https://drive.google.com/drive/folders/1OIuoG7go72c7QririIpykJ4tW-arrtfA){:target="_blank"}.
+Download a [folder of more images of apples](https://drive.google.com/drive/folders/1OIuoG7go72c7QririIpykJ4tW-arrtfA){:target="_blank"}.
 
 --- /task ---
 
 --- task ---
 
-Unzip the new images.
+Unzip the new folder.
 
 --- /task ---
 
@@ -40,9 +40,9 @@ In the 'Apple' class, add some samples of images from one of the folders you hav
 
 Choose images that look most like your **red** apple.
 
-**Tip**: You can also use your webcam to take images of your red apple.
+**Tip:** You can also use your webcam to take images of your red apple.
 
-**Tip**: You only need to add a few extra samples.
+**Tip:** You only need to add a few extra samples to your 'Apple' class.
 
 --- /task ---
 
@@ -50,7 +50,7 @@ Choose images that look most like your **red** apple.
 
 --- task ---
 
-Click **Train Model**.
+Click on **Train Model**.
 
 ![The 'Train Model' button.](images/train_model.png)
 
@@ -60,9 +60,9 @@ When the model is trained, the preview panel will open.
 
 --- task ---
 
-Test the model again by holding up your **red** apple to your webcam.
+Hold up your **red** apple to your webcam to test the model again.
 
-The model should make a ***more* confident** prediction that it is an *apple*.
+The model should produce a prediction with a **higher confidence score** that it is an **apple**.
  
 --- /task ---
 
@@ -70,9 +70,9 @@ The model should make a ***more* confident** prediction that it is an *apple*.
 
 Hold up your tomato to your webcam.
 
-The model might make a ***less* confident** prediction that it is a *tomato*.
+The model might produce a prediction with a **lower confidence score** that it is a **tomato**.
 
-This is because you have added training data to the apple class of images that look more like tomatoes.
+This is because you have added training data to the 'Apple' class of images that look more like tomatoes.
 
 --- /task ---
 

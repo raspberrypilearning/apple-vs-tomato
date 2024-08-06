@@ -24,9 +24,9 @@ Your browser does not support the video tag.
 
 --- task ---
 
-Click **Train Model**.
+Click on **Train Model**.
 
-**Note**: Be patient! It can take 10 to 20 seconds to complete.
+**Note:** Be patient! It can take 10 to 20 seconds to complete.
 
 ![The 'Train Model' button.](images/train_model.png)
 
@@ -38,7 +38,7 @@ Click **Train Model**.
 
 Hold up your **green** apple to your webcam.
 
-The model should make a **confident** prediction that it is an *apple*.
+The model should produce a prediction with a **high confidence score** that it is an **apple**.
 
 --- /task ---
 
@@ -46,6 +46,6 @@ The model should make a **confident** prediction that it is an *apple*.
 
 Hold up your **red** tomato to your webcam.
 
-The model should make a **confident** prediction that it is a *tomato*.
+The model should produce a prediction with a **high confidence score** that it is a **tomato**.
 
 --- /task ---

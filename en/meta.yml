@@ -1,6 +1,6 @@
 title: Apple vs tomato
 hero_image: images/banner.png
-description: Teach a computer to tell you if you are holding an apple or a tomato, then improve it by including more diverse training data.
+description: Train a machine learning model to detect if you are holding an apple or a tomato, then improve it by including more diverse training data
 version: 4
 listed: false
 copyedit: false
@@ -15,6 +15,6 @@ steps:
   - title: Improve the model
     completion:
     - internal
-  - title: What can you do now?
+  - title: What next?
     completion:
     - external

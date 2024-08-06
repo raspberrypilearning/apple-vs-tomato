@@ -1,10 +1,8 @@
 ## What you will make
 
-You will teach a computer to tell you if you are holding an apple or a tomato.
+Train a machine learning model to detect if you are holding an apple or a tomato. Then, improve the classifier by using more diverse training data.
 
-Then you will improve the classifier, using more diverse training data.
-
-You will need a **webcam**, a **red apple**, a **green apple** and a **red tomato**.
+You will need a **webcam**, a **red apple**, a **green apple**, and a **red tomato**.
 
 You will need to be able to download and save files to your computer.
 
@@ -16,9 +14,9 @@ You will need to be able to download and save files to your computer.
 --- collapse ---
 
 ---
-title: License
+title: Licence
 ---
 
-We’d like to thank [Samuel Cortinhas](https://www.kaggle.com/datasets/samuelcortinhas/apples-or-tomatoes-image-classification/data){:target="_blank"} for the concept and images for this project.
+We would like to thank [Samuel Cortinhas](https://www.kaggle.com/datasets/samuelcortinhas/apples-or-tomatoes-image-classification/data){:target="_blank"} for the concept and images for this project.
 
 --- /collapse ---

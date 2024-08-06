@@ -1,6 +1,6 @@
 ## A different apple
 
-Test the model using a different apple.
+Use a different apple to test the model.
 
 <html>
   <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
@@ -22,10 +22,10 @@ Your browser does not support the video tag.
 
 --- task ---
 
-Test the model by holding up your **red** apple to your webcam.
+Hold up your **red** apple to your webcam to test the model.
 
-The model should **not** make a confident prediction that it is an apple.
+The model should **not** produce a prediction with a high confidence score that it is an apple.
 
-It will probably predict that it is a **tomato**!
+It will probably produce a prediction that it is a **tomato**!
 
 --- /task ---
