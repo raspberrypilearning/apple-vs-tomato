@@ -8,18 +8,6 @@ Use a different apple to test the model.
   </div>
 </html>
 
---- collapse ---
----
-title: I cannot access YouTube
----
-
-<video width="640" height="360" controls>
-  <source src="images/XXXXXXXXXXX.mp4" type="video/mp4">
-Your browser does not support the video tag.
-</video>
-
---- /collapse ---
-
 --- task ---
 
 Hold up your **red** apple to your webcam to test the model.

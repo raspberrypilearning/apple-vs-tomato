@@ -6,18 +6,6 @@
   </div>
 </html>
 
---- collapse ---
----
-title: I cannot access YouTube
----
-
-<video width="640" height="360" controls>
-  <source src="images/XXXXXXXXXXX.mp4" type="video/mp4">
-Your browser does not support the video tag.
-</video>
-
---- /collapse ---
-
 The training data is biased, as it only includes green apples.
 
 To reduce the bias, you need to add extra examples of apples to the 'Apple' class.
