@@ -1,4 +1,4 @@
-## Improve the model
+## Améliorer le modèle
 
 <html>
   <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
@@ -6,68 +6,68 @@
   </div>
 </html>
 
-The training data is biased, as it only includes green apples.
+Les données d'apprentissage sont biaisées, car elles ne comprennent que des pommes vertes.
 
-To reduce the bias, you need to add extra examples of apples to the 'Apple' class.
+Pour réduire le biais, il faut ajouter des exemples supplémentaires de pommes à la catégorie « Pomme ».
 
 \--- task ---
 
-Download a [folder of more images of apples](https://drive.google.com/drive/folders/1OIuoG7go72c7QririIpykJ4tW-arrtfA){:target="_blank"}.
+Télécharge un [dossier contenant plus d'images de pommes](https://drive.google.com/drive/folders/1OIuoG7go72c7QririIpykJ4tW-arrtfA){:target="_blank"}.
 
 \--- /task ---
 
 \--- task ---
 
-Unzip the new folder.
+Décompresse le nouveau dossier.
 
 \--- /task ---
 
 \--- task ---
 
-In the 'Apple' class, add some samples of images from one of the folders you have just downloaded.
+Dans la classe « Pomme », ajoute des échantillons d'images provenant d'un des dossiers que tu viens de télécharger.
 
-Choose images that look most like your **red** apple.
+Choisis les images qui ressemblent le plus à ta pomme **rouge**.
 
-**Tip:** You can also use your webcam to take images of your red apple.
+**Astuce :** tu peux aussi utiliser ta webcam pour prendre des images de ta pomme rouge.
 
-**Tip:** You only need to add a few extra samples to your 'Apple' class.
-
-\--- /task ---
-
-### Train the model again
-
-\--- task ---
-
-Click on **Train Model**.
-
-![The 'Train Model' button.](images/train_model.png)
+**Astuce :** il te suffit d'ajouter quelques échantillons supplémentaires à ta classe « Pomme ».
 
 \--- /task ---
 
-When the model is trained, the preview panel will open.
+### Entraîner à nouveau le modèle
 
 \--- task ---
 
-Hold up your **red** apple to your webcam to test the model again.
+Clique sur **Modèle d'entraînement**.
 
-The model should produce a prediction with a **higher confidence score** that it is an **apple**.
+![Le bouton "Entraîner le modèle".](images/train_model.png)
+
+\--- /task ---
+
+Lorsque le modèle est entraîné, le panneau d'aperçu s'ouvre.
+
+\--- task ---
+
+Tiens ta pomme **rouge** devant ta webcam pour tester à nouveau le modèle.
+
+Le modèle devrait produire une prédiction avec un **score de confiance plus élevé** qu'il s'agit d'une **pomme**.
 
 \--- /task ---
 
 \--- task ---
 
-Hold up your tomato to your webcam.
+Tiens ta tomate devant ta webcam.
 
-The model might produce a prediction with a **lower confidence score** that it is a **tomato**.
+Le modèle pourrait produire une prédiction avec un **score de confiance inférieur** qu'il s'agit d'une **tomate**.
 
-This is because you have added training data to the 'Apple' class of images that look more like tomatoes.
+C'est parce que tu as ajouté des données d'entraînement à la classe « Pomme » des images qui ressemblent plutôt à des tomates.
 
 \--- /task ---
 
 ## --- collapse ---
 
-## title: Note to educators
+## title: Note aux éducateurs
 
-You may choose to introduce learners to the concept of the ethical bias that can result from the use of biased training data.
+Vous pouvez choisir d'introduire les apprenants au concept de biais éthique qui peut résulter de l'utilisation de données de formation biaisées.
 
 \--- /collapse ---
