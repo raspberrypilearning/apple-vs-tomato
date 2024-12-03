@@ -1,6 +1,6 @@
-## Create a model
+## Créer un modèle
 
-Add sample images of apples and tomatoes.
+Ajoute des images de pommes et de tomates.
 
 <html>
   <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
@@ -8,35 +8,35 @@ Add sample images of apples and tomatoes.
   </div>
 </html>
 
-### Set up the model
+### Configurer le modèle
 
 \--- task ---
 
-Open [Teachable Machine](https://rpf.io/tm){:target="_blank"}.
+Ouvre [Teachable Machine](https://rpf.io/tm){:target="_blank"}.
 
 \--- /task ---
 
 \--- task ---
 
-Rename `Class 1` to `Apple`.
+Renomme « Class 1 » en « Pomme ».
 
-Rename `Class 2` to `Tomato`.
-
-\--- /task ---
-
-### Download sample images
-
-\--- task ---
-
-Download the [folder containing the starter images](https://rpf.io/tams){:target="_blank"}.
+Renomme « Class 2 » en « Tomate ».
 
 \--- /task ---
 
-The folder will download as a zip file.
+### Télécharger les exemples d'images
 
 \--- task ---
 
-Unzip the folder.
+Télécharge le [dossier contenant les images de démarrage](https://rpf.io/tams){:target="_blank"}.
+
+\--- /task ---
+
+Le dossier sera téléchargé en tant que fichier zip.
+
+\--- task ---
+
+Décompresse le dossier.
 
 \--- /task ---
 
@@ -44,43 +44,43 @@ Unzip the folder.
 
 ---
 
-## title: How to unzip
+## title: Comment décompresser
 
 **Microsoft Windows**
 
-- Open your 'Downloads' folder.
-- Right-click on the zip file and select **Extract All**.
+- Ouvre ton dossier « Téléchargements ».
+- Fais un clic droit sur le fichier zip et sélectionne **Extraire tout**.
 
 **ChromeOS**
 
-- Open Files.
-- Double-click on the zip file.
-- On the left, you will find the zip file.
-- Drag and drop the files/folders into a new folder of your choice.
+- Ouvre les fichiers.
+- Double-clique sur le fichier zip.
+- À gauche, tu trouveras le fichier zip.
+- Glisse et dépose les fichiers/dossiers dans un nouveau dossier de ton choix.
 
 **macOS**
 
-- Open your 'Downloads' folder.
-- Double-click on the zip file.
-- A new folder will be created that contains the decompressed files/folders.
+- Ouvre ton dossier « Téléchargements ».
+- Double-clique sur le fichier zip.
+- Un nouveau dossier contenant les fichiers/dossiers décompressés sera créé.
 
 **Linux**
 
-- Open your 'Downloads' folder.
-- Right-click on the zip file and select **Extract Here**.
+- Ouvre ton dossier « Téléchargements ».
+- Fais un clic droit sur le fichier zip et sélectionne **Extraire ici**.
 
 \--- /collapse ---
 
-### Add sample images
+### Ajouter des exemples d'images
 
 \--- task ---
 
-Upload the green **apple** images to the 'Apple' class.
+Charge les images **pomme** verte dans la classe « Pomme ».
 
 \--- /task ---
 
 \--- task ---
 
-Upload the red **tomato** images to the 'Tomato' class.
+Charge les images **tomate** rouge dans la classe « Tomate ».
 
 \--- /task ---
