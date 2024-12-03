@@ -1,6 +1,6 @@
-## A different apple
+## Une pomme différente
 
-Use a different apple to test the model.
+Utilise une pomme différente pour tester le modèle.
 
 <html>
   <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
@@ -10,10 +10,10 @@ Use a different apple to test the model.
 
 \--- task ---
 
-Hold up your **red** apple to your webcam to test the model.
+Tiens ta pomme **rouge** devant ta webcam pour tester le modèle.
 
-The model should **not** produce a prediction with a high confidence score that it is an apple.
+Le modèle ne devrait **pas** produire une prédiction avec un score de confiance élevé indiquant qu'il s'agit d'une pomme.
 
-It will probably produce a prediction that it is a **tomato**!
+Il produira probablement une prédiction qu'il s'agit d'une **tomate** !
 
 \--- /task ---
