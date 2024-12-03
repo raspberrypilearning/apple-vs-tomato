@@ -1,26 +1,26 @@
-title: Apple vs tomato
+title: Pomme ou tomate
 hero_image: images/banner.png
-description: Train a machine learning model to detect if you are holding an apple or a tomato, then improve it by including more diverse training data
+description: Entraîne un modèle d'apprentissage automatique pour détecter si tu tiens une pomme ou une tomate, puis améliore-le en incluant des données d'entraînement plus variées
 version: 4
 listed: false
 copyedit: false
 last_tested: "2024-07-19"
 steps:
   - 
-    title: What you will make
+    title: Ce que tu vas faire
   - 
-    title: Create a model
+    title: Créer un modèle
     completion:
       - engaged
   - 
-    title: Train and test
+    title: Entraîner et tester
   - 
-    title: A different apple
+    title: Une pomme différente
   - 
-    title: Improve the model
+    title: Améliorer le modèle
     completion:
       - internal
   - 
-    title: What can you do now?
+    title: Que peux-tu faire maintenant ?
     completion:
       - external
