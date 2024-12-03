@@ -1,6 +1,6 @@
-## Train and test
+## Entraîner et tester
 
-Train a model to detect what you are holding.
+Entraîne un modèle pour détecter ce que tu tiens.
 
 <html>
   <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
@@ -8,32 +8,32 @@ Train a model to detect what you are holding.
   </div>
 </html>
 
-### Train the model
+### Entraîner le modèle
 
 \--- task ---
 
-Click on **Train Model**.
+Clique sur **Modèle d'entraînement**.
 
-**Note:** Be patient! It can take 10 to 20 seconds to complete.
+**Remarque :** Patience ! Cela peut prendre entre 10 et 20 secondes.
 
-![The 'Train Model' button.](images/train_model.png)
+![Le bouton "Entraîner le modèle".](images/train_model.png)
 
 \--- /task ---
 
-### Test the model
+### Tester le modèle
 
 \--- task ---
 
-Hold up your **green** apple to your webcam.
+Tiens ta pomme \*_verte_ devant ta webcam.
 
-The model should produce a prediction with a **high confidence score** that it is an **apple**.
+Le modèle devrait produire une prédiction avec un **score de confiance élevé** qu'il s'agit d'une **pomme**.
 
 \--- /task ---
 
 \--- task ---
 
-Hold up your **red** tomato to your webcam.
+Tiens ta tomate \*_rouge_ devant ta webcam.
 
-The model should produce a prediction with a **high confidence score** that it is a **tomato**.
+Le modèle devrait produire une prédiction avec un **score de confiance élevé** qu'il s'agit d'une **tomate**.
 
 \--- /task ---
