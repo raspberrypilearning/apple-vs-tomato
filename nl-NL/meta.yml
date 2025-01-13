@@ -1,26 +1,26 @@
-title: Apple vs tomato
+title: Appel vs tomaat
 hero_image: images/banner.png
-description: Train a machine learning model to detect if you are holding an apple or a tomato, then improve it by including more diverse training data
+description: Train een machine learning-model om te detecteren of je een appel of een tomaat vasthoudt, en verbeter het vervolgens door meer diverse trainingsgegevens op te nemen
 version: 4
 listed: false
 copyedit: false
 last_tested: "2024-07-19"
 steps:
   - 
-    title: What you will make
+    title: Wat ga je maken
   - 
-    title: Create a model
+    title: Maak een model
     completion:
       - engaged
   - 
-    title: Train and test
+    title: Trainen en testen
   - 
-    title: A different apple
+    title: Een andere appel
   - 
-    title: Improve the model
+    title: Verbeter het model
     completion:
       - internal
   - 
-    title: What can you do now?
+    title: Wat kun je nu doen?
     completion:
       - external
