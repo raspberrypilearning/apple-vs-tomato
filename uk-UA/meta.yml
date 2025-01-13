@@ -1,26 +1,26 @@
-title: Apple vs tomato
+title: Яблуко чи помідор?
 hero_image: images/banner.png
-description: Train a machine learning model to detect if you are holding an apple or a tomato, then improve it by including more diverse training data
+description: Навчи модель машинного навчання визначати, що ти тримаєш у руці, а потім зроби її кращою за допомогою різноманітніших даних
 version: 4
 listed: false
 copyedit: false
 last_tested: "2024-07-19"
 steps:
   - 
-    title: What you will make
+    title: Що ти зробиш
   - 
-    title: Create a model
+    title: Створи модель
     completion:
       - engaged
   - 
-    title: Train and test
+    title: Навчи і протестуй
   - 
-    title: A different apple
+    title: Інше яблуко
   - 
-    title: Improve the model
+    title: Удоскональ модель
     completion:
       - internal
   - 
-    title: What can you do now?
+    title: Що ти тепер вмієш?
     completion:
       - external
