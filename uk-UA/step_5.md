@@ -1,4 +1,4 @@
-## Improve the model
+## Удоскональ модель
 
 <html>
   <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
@@ -6,68 +6,68 @@
   </div>
 </html>
 
-The training data is biased, as it only includes green apples.
+Навчальні дані необ'єктивні, оскільки містять лише зелені яблука.
 
-To reduce the bias, you need to add extra examples of apples to the 'Apple' class.
+Щоб зробити їх більш обʼєктивними, ти маєш додати приклади інших яблук до класу «Яблуко».
 
 \--- task ---
 
-Download a [folder of more images of apples](https://drive.google.com/drive/folders/1OIuoG7go72c7QririIpykJ4tW-arrtfA){:target="_blank"}.
+Завантаж [папку з більшою кількістю зображень яблук](https://drive.google.com/drive/folders/1OIuoG7go72c7QririIpykJ4tW-arrtfA){:target="_blank"}.
 
 \--- /task ---
 
 \--- task ---
 
-Unzip the new folder.
+Розархівуй нову папку.
 
 \--- /task ---
 
 \--- task ---
 
-In the 'Apple' class, add some samples of images from one of the folders you have just downloaded.
+Додай кілька зображень з однієї із щойно завантажених папок до класу «Яблуко».
 
-Choose images that look most like your **red** apple.
+Вибери зображення, які найбільше схожі на твоє **червоне** яблуко.
 
-**Tip:** You can also use your webcam to take images of your red apple.
+**Порада:** ти також можеш отримати фотографії свого червоного яблука за допомогою вебкамери.
 
-**Tip:** You only need to add a few extra samples to your 'Apple' class.
-
-\--- /task ---
-
-### Train the model again
-
-\--- task ---
-
-Click on **Train Model**.
-
-![The 'Train Model' button.](images/train_model.png)
+**Порада:** тобі потрібно додати лише декілька додаткових зображень до класу «Яблуко».
 
 \--- /task ---
 
-When the model is trained, the preview panel will open.
+### Навчи модель ще раз
 
 \--- task ---
 
-Hold up your **red** apple to your webcam to test the model again.
+Натисни на **Train Model** («Навчити модель»).
 
-The model should produce a prediction with a **higher confidence score** that it is an **apple**.
+![Кнопка «Навчити модель».](images/train_model.png)
+
+\--- /task ---
+
+Коли модель закінчить навчання, відкриється панель попереднього перегляду.
+
+\--- task ---
+
+Піднеси **червоне** яблуко до вебкамери, щоб знову протестувати модель.
+
+Цього разу модель має передбачити з **вищим рівнем упевненості**, що це **яблуко**.
 
 \--- /task ---
 
 \--- task ---
 
-Hold up your tomato to your webcam.
+Піднеси до вебкамери помідор.
 
-The model might produce a prediction with a **lower confidence score** that it is a **tomato**.
+Модель може передбачити, що це **помідор**, із **нижчим рівнем упевненості**.
 
-This is because you have added training data to the 'Apple' class of images that look more like tomatoes.
+Це тому, що ти додав/-ла до класу «Яблуко» навчальні дані, які більше схожі на помідори.
 
 \--- /task ---
 
 ## --- collapse ---
 
-## title: Note to educators
+## title: Примітка для вчителів
 
-You may choose to introduce learners to the concept of the ethical bias that can result from the use of biased training data.
+Ви можете познайомити учнів із концепцією етичного упередження, яке може виникнути в результаті використання необ’єктивних навчальних даних.
 
 \--- /collapse ---
