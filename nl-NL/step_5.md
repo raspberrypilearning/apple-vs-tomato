@@ -1,4 +1,4 @@
-## Improve the model
+## Verbeter het model
 
 <html>
   <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
@@ -6,68 +6,68 @@
   </div>
 </html>
 
-The training data is biased, as it only includes green apples.
+De trainingsgegevens zijn eenzijdig, omdat ze alleen groene appels bevatten.
 
-To reduce the bias, you need to add extra examples of apples to the 'Apple' class.
+Om de vertekening te verminderen, moet je extra voorbeelden van appels toevoegen aan de class 'Appel'.
 
 \--- task ---
 
-Download a [folder of more images of apples](https://drive.google.com/drive/folders/1OIuoG7go72c7QririIpykJ4tW-arrtfA){:target="_blank"}.
+Download een [map met meer afbeeldingen van appels](https://drive.google.com/drive/folders/1OIuoG7go72c7QririIpykJ4tW-arrtfA){:target="_blank"}.
 
 \--- /task ---
 
 \--- task ---
 
-Unzip the new folder.
+Unzip de nieuwe map.
 
 \--- /task ---
 
 \--- task ---
 
-In the 'Apple' class, add some samples of images from one of the folders you have just downloaded.
+Voeg in de class 'Appel' enkele voorbeelden toe van afbeeldingen uit een van de mappen die je zojuist hebt gedownload.
 
-Choose images that look most like your **red** apple.
+Kies afbeeldingen die het meest lijken op jouw **rode** appel.
 
-**Tip:** You can also use your webcam to take images of your red apple.
+**Tip:** Je kunt ook je webcam gebruiken om foto's te maken van je rode appel.
 
-**Tip:** You only need to add a few extra samples to your 'Apple' class.
-
-\--- /task ---
-
-### Train the model again
-
-\--- task ---
-
-Click on **Train Model**.
-
-![The 'Train Model' button.](images/train_model.png)
+**Tip:** Je hoeft maar een paar extra samples toe te voegen aan je 'Appel' class.
 
 \--- /task ---
 
-When the model is trained, the preview panel will open.
+### Train het model opnieuw
 
 \--- task ---
 
-Hold up your **red** apple to your webcam to test the model again.
+Klik op **Model trainen**.
 
-The model should produce a prediction with a **higher confidence score** that it is an **apple**.
+![De 'Model trainen' knop.](images/train_model.png)
+
+\--- /task ---
+
+Zodra het model is getraind, wordt het voorbeeldvenster geopend.
+
+\--- task ---
+
+Houd je **rode** appel voor je webcam om het model opnieuw te testen.
+
+Het model moet een voorspelling met een **hogere betrouwbaarheidsscore** produceren dat het een **appel** is.
 
 \--- /task ---
 
 \--- task ---
 
-Hold up your tomato to your webcam.
+Houd je tomaat voor je webcam.
 
-The model might produce a prediction with a **lower confidence score** that it is a **tomato**.
+Het model kan een voorspelling doen met een **lagere betrouwbaarheidsscore**, dat het een **tomaat** is.
 
-This is because you have added training data to the 'Apple' class of images that look more like tomatoes.
+Dit is omdat je trainingsgegevens hebt toegevoegd aan de 'Appel'-class van afbeeldingen die er meer als tomaten uitzien.
 
 \--- /task ---
 
 ## --- collapse ---
 
-## title: Note to educators
+## title: Opmerking voor docenten
 
-You may choose to introduce learners to the concept of the ethical bias that can result from the use of biased training data.
+Je kunt ervoor kiezen om leerlingen kennis te laten maken met het concept van de ethische vooringenomenheid die het gevolg kan zijn van het gebruik van eenzijdige trainingsgegevens.
 
 \--- /collapse ---
