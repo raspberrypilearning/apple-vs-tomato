@@ -4,7 +4,7 @@ Entraîner le modèle
 
 2
 00:00:06,840 --> 00:00:10,440
-Hold up your green apple tzo your webcam
+Hold up your green apple to your webcam
 
 3
 00:00:10,440 --> 00:00:12,440
