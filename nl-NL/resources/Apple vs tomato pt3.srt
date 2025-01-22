@@ -1,17 +1,17 @@
 1
 00:00:02,920 --> 00:00:06,920
-Test the model by holding up 
-your red apple to your webcam
+Test het model door
+je rode appel voor je webcam te houden
 
 2
 00:00:06,920 --> 00:00:09,200
-The model should not make a confident prediction
+Het model mag geen betrouwbare voorspelling doen
 
 3
 00:00:09,200 --> 00:00:10,680
-that it is an apple
+dat het een appel is
 
 4
 00:00:10,680 --> 00:00:17,200
-It will probably predict that it is a tomato!
+Waarschijnlijk voorspelt het dat het een tomaat is!
 
