@@ -1,26 +1,26 @@
 title: Apple vs tomato
 hero_image: images/banner.png
-description: Train a machine learning model to detect if you are holding an apple or a tomato, then improve it by including more diverse training data
+description: Hyfforddwch fodel dysgu peiriant i ganfod a ydych chi'n dal afal neu domato, yna ei wella trwy gynnwys data hyfforddi mwy amrywiol
 version: 4
 listed: false
 copyedit: false
 last_tested: "2024-07-19"
 steps:
   - 
-    title: What you will make
+    title: Beth fyddwch chi'n ei wneud
   - 
-    title: Create a model
+    title: Creu model
     completion:
       - engaged
   - 
-    title: Train and test
+    title: Hyfforddi a phrofi
   - 
-    title: A different apple
+    title: Afal gwahanol
   - 
-    title: Improve the model
+    title: Gwella'r model
     completion:
       - internal
   - 
-    title: What can you do now?
+    title: Beth allwch chi ei wneud nawr?
     completion:
       - external
