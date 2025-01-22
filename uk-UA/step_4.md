@@ -1,6 +1,6 @@
-## A different apple
+## Інше яблуко
 
-Use a different apple to test the model.
+Тепер протестуй модель з іншим яблуком.
 
 <html>
   <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
@@ -10,10 +10,10 @@ Use a different apple to test the model.
 
 \--- task ---
 
-Hold up your **red** apple to your webcam to test the model.
+Піднеси **червоне** яблуко до вебкамери, щоб протестувати модель.
 
-The model should **not** produce a prediction with a high confidence score that it is an apple.
+Модель **не має** передбачити, що це яблуко, з високим рівнем впевненості.
 
-It will probably produce a prediction that it is a **tomato**!
+Ймовірно, вона передбачить, що це **помідор**!
 
 \--- /task ---
