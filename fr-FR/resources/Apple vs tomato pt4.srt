@@ -1,0 +1,68 @@
+1
+00:00:03,360 --> 00:00:06,480
+Télécharge un dossier d'images de différentes pommes
+
+2
+00:00:06,480 --> 00:00:08,000
+Décompresse le dossier
+
+3
+00:00:08,000 --> 00:00:09,320
+Dans la classe « Pomme »
+
+4
+00:00:09,320 --> 00:00:10,880
+ajoute quelques échantillons d'images
+
+5
+00:00:10,880 --> 00:00:14,240
+à partir d'un des dossiers que tu viens de télécharger
+
+6
+00:00:14,240 --> 00:00:18,120
+Choisis les images qui ressemblent le plus à ta pomme rouge
+
+7
+00:00:18,120 --> 00:00:21,720
+Entraîner le modèle
+
+8
+00:00:21,720 --> 00:00:24,440
+Teste à nouveau le modèle en tenant ta pomme rouge
+
+9
+00:00:24,440 --> 00:00:26,040
+devant ta webcam
+
+10
+00:00:26,040 --> 00:00:28,160
+Le modèle devrait faire une prédiction plus fiable
+
+11
+00:00:28,160 --> 00:00:30,400
+que c'est une pomme
+
+12
+00:00:30,400 --> 00:00:32,720
+Tiens ta tomate devant ta webcam
+
+13
+00:00:32,720 --> 00:00:34,840
+Le modèle pourrait rendre une prédiction moins fiable
+
+14
+00:00:34,840 --> 00:00:37,000
+que c'est une tomate
+
+15
+00:00:37,000 --> 00:00:39,000
+C'est parce que tu as ajouté des données d'entraînement
+
+16
+00:00:39,000 --> 00:00:40,240
+à la classe pomme
+
+17
+00:00:40,240 --> 00:00:47,000
+des images qui ressemblent plus aux tomates
+

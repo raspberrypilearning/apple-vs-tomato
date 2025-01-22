@@ -1,0 +1,28 @@
+1
+00:00:03,320 --> 00:00:06,840
+Entraîner le modèle
+
+2
+00:00:06,840 --> 00:00:10,440
+Tiens ta pomme verte devant ta webcam
+
+3
+00:00:10,440 --> 00:00:12,440
+Le modèle devrait faire une prédiction fiable
+
+4
+00:00:12,440 --> 00:00:14,360
+que c'est une pomme
+
+5
+00:00:14,360 --> 00:00:17,320
+Tiens ta tomate rouge devant ta webcam
+
+6
+00:00:17,320 --> 00:00:19,120
+Le modèle devrait faire une prédiction fiable
+
+7
+00:00:19,120 --> 00:00:24,120
+que c'est une tomate
+

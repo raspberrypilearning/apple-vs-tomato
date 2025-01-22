@@ -1,0 +1,68 @@
+1
+00:00:03,360 --> 00:00:06,480
+Lawrlwythwch ffolder o ddelweddau o wahanol afalau
+
+2
+00:00:06,480 --> 00:00:08,000
+Dadsipio'r ffolder
+
+3
+00:00:08,000 --> 00:00:09,320
+Yn y dosbarth 'Afal'
+
+4
+00:00:09,320 --> 00:00:10,880
+ychwanegwch ychydig o samplau o ddelweddau
+
+5
+00:00:10,880 --> 00:00:14,240
+o un o'r ffolderi rydych newydd eu lawrlwytho
+
+6
+00:00:14,240 --> 00:00:18,120
+Dewiswch ddelweddau sy'n edrych fwyaf fel eich afal coch
+
+7
+00:00:18,120 --> 00:00:21,720
+Hyfforddwch y model
+
+8
+00:00:21,720 --> 00:00:24,440
+Profwch y model eto trwy ddal eich afal coch i fyny
+
+9
+00:00:24,440 --> 00:00:26,040
+i'ch gwe-gamera
+
+10
+00:00:26,040 --> 00:00:28,160
+Dylai'r model wneud rhagfynegiad fwy hyderus
+
+11
+00:00:28,160 --> 00:00:30,400
+mai afal ydyw
+
+12
+00:00:30,400 --> 00:00:32,720
+Daliwch eich tomato i fyny at eich gwe-gamera
+
+13
+00:00:32,720 --> 00:00:34,840
+Efallai y bydd y model yn gwneud rhagfynegiad llai hyderus
+
+14
+00:00:34,840 --> 00:00:37,000
+mai tomato ydyw
+
+15
+00:00:37,000 --> 00:00:39,000
+Mae hyn oherwydd eich bod wedi ychwanegu data hyfforddi
+
+16
+00:00:39,000 --> 00:00:40,240
+i'r dosbarth 'Afal'
+
+17
+00:00:40,240 --> 00:00:47,000
+o ddelweddau sy'n edrych yn fwy fel tomatos
+

@@ -1,0 +1,17 @@
+1
+00:00:02,920 --> 00:00:06,920
+Test het model door
+je rode appel voor je webcam te houden
+
+2
+00:00:06,920 --> 00:00:09,200
+Het model mag geen betrouwbare voorspelling doen
+
+3
+00:00:09,200 --> 00:00:10,680
+dat het een appel is
+
+4
+00:00:10,680 --> 00:00:17,200
+Waarschijnlijk voorspelt het dat het een tomaat is!
+

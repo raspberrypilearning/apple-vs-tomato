@@ -1,0 +1,28 @@
+1
+00:00:03,320 --> 00:00:06,840
+Train het model
+
+2
+00:00:06,840 --> 00:00:10,440
+Houd je groene appel voor je webcam
+
+3
+00:00:10,440 --> 00:00:12,440
+Het model moet een betrouwbare voorspelling doen
+
+4
+00:00:12,440 --> 00:00:14,360
+dat het een appel is
+
+5
+00:00:14,360 --> 00:00:17,320
+Houd je rode tomaat voor je webcam
+
+6
+00:00:17,320 --> 00:00:19,120
+Het model moet een betrouwbare voorspelling doen
+
+7
+00:00:19,120 --> 00:00:24,120
+dat het een tomaat is
+

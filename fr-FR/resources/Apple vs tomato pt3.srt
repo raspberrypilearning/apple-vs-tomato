@@ -1,0 +1,17 @@
+1
+00:00:02,920 --> 00:00:06,920
+Teste le modèle en tenant 
+ta pomme rouge devant ta webcam
+
+2
+00:00:06,920 --> 00:00:09,200
+Le modèle ne devrait pas faire une prédiction fiable
+
+3
+00:00:09,200 --> 00:00:10,680
+que c'est une pomme
+
+4
+00:00:10,680 --> 00:00:17,200
+Il va probablement prédire qu'il s'agit d'une tomate !
+
