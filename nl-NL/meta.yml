@@ -2,7 +2,7 @@ title: Appel vs tomaat
 hero_image: images/banner.png
 description: Train een machine learning-model om te detecteren of je een appel of een tomaat vasthoudt, en verbeter het vervolgens door meer diverse trainingsgegevens op te nemen
 version: 4
-listed: false
+listed: true
 copyedit: false
 last_tested: "2024-07-19"
 steps:
@@ -20,7 +20,6 @@ steps:
     title: Verbeter het model
     completion:
       - internal
+      - external
   - 
     title: Wat kun je nu doen?
-    completion:
-      - external
