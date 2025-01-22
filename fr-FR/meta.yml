@@ -2,7 +2,7 @@ title: Pomme ou tomate
 hero_image: images/banner.png
 description: Entraîne un modèle d'apprentissage automatique pour détecter si tu tiens une pomme ou une tomate, puis améliore-le en incluant des données d'entraînement plus variées
 version: 4
-listed: false
+listed: true
 copyedit: false
 last_tested: "2024-07-19"
 steps:
@@ -20,7 +20,6 @@ steps:
     title: Améliorer le modèle
     completion:
       - internal
+      - external
   - 
     title: Que peux-tu faire maintenant ?
-    completion:
-      - external
