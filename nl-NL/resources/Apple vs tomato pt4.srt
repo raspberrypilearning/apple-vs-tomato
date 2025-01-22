@@ -1,26 +1,26 @@
 1
 00:00:03,360 --> 00:00:06,480
-Download a folder of images of different apples
+Download een map met afbeeldingen van verschillende appels
 
 2
 00:00:06,480 --> 00:00:08,000
-Unzip the folder
+Unzip de map
 
 3
 00:00:08,000 --> 00:00:09,320
-In the ‘Apple’ class
+In de 'Appel'-klasse
 
 4
 00:00:09,320 --> 00:00:10,880
-add some samples of images
+voeg enkele voorbeelden van afbeeldingen toe
 
 5
 00:00:10,880 --> 00:00:14,240
-from one of the folders you have just downloaded
+uit een van de mappen die je zojuist hebt gedownload
 
 6
 00:00:14,240 --> 00:00:18,120
-Choose images that look most like your red apple
+Kies afbeeldingen die het meest lijken op je rode appel
 
 7
 00:00:18,120 --> 00:00:21,720
@@ -28,41 +28,41 @@ Train het model
 
 8
 00:00:21,720 --> 00:00:24,440
-Test the model again by holding up your red apple
+Test het model opnieuw door je rode appel voor
 
 9
 00:00:24,440 --> 00:00:26,040
-to your webcam
+je webcam te houden
 
 10
 00:00:26,040 --> 00:00:28,160
-The model should make a more confident prediction
+Het model zou een betrouwbaardere voorspelling moeten doen
 
 11
 00:00:28,160 --> 00:00:30,400
-that it is an apple
+dat het een appel is
 
 12
 00:00:30,400 --> 00:00:32,720
-Hold up your tomato to your webcam
+Houd je tomaat voor je webcam
 
 13
 00:00:32,720 --> 00:00:34,840
-The model might make a less confident prediction
+Het model kan een minder betrouwbare voorspelling doen
 
 14
 00:00:34,840 --> 00:00:37,000
-that it is a tomato
+dat het een tomaat is
 
 15
 00:00:37,000 --> 00:00:39,000
-This is because you have added training data
+Dit komt omdat je trainingsgegevens hebt toegevoegd
 
 16
 00:00:39,000 --> 00:00:40,240
-to the apple class
+aan de appelklasse
 
 17
 00:00:40,240 --> 00:00:47,000
-of images that look more like tomatoes
+van afbeeldingen die meer op tomaten lijken
 
