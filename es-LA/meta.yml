@@ -2,7 +2,7 @@ title: Apple vs tomato
 hero_image: images/banner.png
 description: Train a machine learning model to detect if you are holding an apple or a tomato, then improve it by including more diverse training data
 version: 4
-listed: false
+listed: true
 copyedit: false
 last_tested: "2024-07-19"
 steps:
@@ -20,7 +20,6 @@ steps:
     title: Improve the model
     completion:
       - internal
+      - external
   - 
     title: What can you do now?
-    completion:
-      - external
