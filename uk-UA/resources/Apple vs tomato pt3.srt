@@ -1,17 +1,16 @@
 1
 00:00:02,920 --> 00:00:06,920
-Test the model by holding up 
-your red apple to your webcam
+Перевір модель, піднісши червоне яблуко до вебкамери.
 
 2
 00:00:06,920 --> 00:00:09,200
-The model should not make a confident prediction
+Модель не повинна впевнено передбачити,
 
 3
 00:00:09,200 --> 00:00:10,680
-that it is an apple
+що це яблуко.
 
 4
 00:00:10,680 --> 00:00:17,200
-It will probably predict that it is a tomato!
+Ймовірно, вона передбачить, що це помідор!
 
