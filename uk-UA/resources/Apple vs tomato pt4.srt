@@ -1,68 +1,68 @@
 1
 00:00:03,360 --> 00:00:06,480
-Download a folder of images of different apples
+Завантаж папку з зображеннями різних яблук
 
 2
 00:00:06,480 --> 00:00:08,000
-Unzip the folder
+Розпакуй папку.
 
 3
 00:00:08,000 --> 00:00:09,320
-In the ‘Apple’ class
+У класі «Яблуко»
 
 4
 00:00:09,320 --> 00:00:10,880
-add some samples of images
+додай декілька зразків зображень
 
 5
 00:00:10,880 --> 00:00:14,240
-from one of the folders you have just downloaded
+з однієї із завантажених папок.
 
 6
 00:00:14,240 --> 00:00:18,120
-Choose images that look most like your red apple
+Вибери зображення, найбільше схожі на твоє червоне яблуко.
 
 7
 00:00:18,120 --> 00:00:21,720
-Навчи модель
+Навчи модель.
 
 8
 00:00:21,720 --> 00:00:24,440
-Test the model again by holding up your red apple
+Перевір модель ще раз
 
 9
 00:00:24,440 --> 00:00:26,040
-to your webcam
+і покажи червоне яблуко.
 
 10
 00:00:26,040 --> 00:00:28,160
-The model should make a more confident prediction
+Модель має зробити більш впевнений прогноз,
 
 11
 00:00:28,160 --> 00:00:30,400
-that it is an apple
+що це яблуко.
 
 12
 00:00:30,400 --> 00:00:32,720
-Hold up your tomato to your webcam
+Піднеси помідор до вебкамери.
 
 13
 00:00:32,720 --> 00:00:34,840
-The model might make a less confident prediction
+Модель може зробити менш впевнений прогноз,
 
 14
 00:00:34,840 --> 00:00:37,000
-that it is a tomato
+що це помідор.
 
 15
 00:00:37,000 --> 00:00:39,000
-This is because you have added training data
+Це тому що ти додав/-ла навчальні дані
 
 16
 00:00:39,000 --> 00:00:40,240
-to the apple class
+до класу зображень «Яблуко»,
 
 17
 00:00:40,240 --> 00:00:47,000
-of images that look more like tomatoes
+які більше схожі на помідори.
 
