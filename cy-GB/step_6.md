@@ -1,3 +1,3 @@
-## What can you do now?
+## Beth allwch chi ei wneud nawr?
 
-There are lots of other machine learning and AI projects in the [artificial intelligence](https://projects.raspberrypi.org/en/pathways/ai-toolkit) toolkit.
+Mae llawer o brosiectau dysgu peirianyddol a deallusrwydd artiffisial eraill yn y pecyn cymorth [deallusrwydd artiffisial](https://projects.raspberrypi.org/en/pathways/ai-toolkit).
