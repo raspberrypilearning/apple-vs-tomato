@@ -2,7 +2,7 @@ title: Яблуко чи помідор?
 hero_image: images/banner.png
 description: Навчи модель машинного навчання визначати, що ти тримаєш у руці, а потім зроби її кращою за допомогою різноманітніших даних
 version: 4
-listed: false
+listed: true
 copyedit: false
 last_tested: "2024-07-19"
 steps:
@@ -20,7 +20,6 @@ steps:
     title: Удоскональ модель
     completion:
       - internal
+      - external
   - 
     title: Що ти тепер вмієш?
-    completion:
-      - external
