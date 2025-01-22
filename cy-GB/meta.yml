@@ -2,7 +2,7 @@ title: Apple vs tomato
 hero_image: images/banner.png
 description: Hyfforddwch fodel dysgu peiriant i ganfod a ydych chi'n dal afal neu domato, yna ei wella trwy gynnwys data hyfforddi mwy amrywiol
 version: 4
-listed: false
+listed: true
 copyedit: false
 last_tested: "2024-07-19"
 steps:
@@ -20,7 +20,6 @@ steps:
     title: Gwella'r model
     completion:
       - internal
+      - external
   - 
     title: Beth allwch chi ei wneud nawr?
-    completion:
-      - external
