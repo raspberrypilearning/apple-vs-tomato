@@ -1,0 +1,68 @@
+1
+00:00:03,360 --> 00:00:06,480
+Download een map met afbeeldingen van verschillende appels
+
+2
+00:00:06,480 --> 00:00:08,000
+Unzip de map
+
+3
+00:00:08,000 --> 00:00:09,320
+In de 'Appel'-klasse
+
+4
+00:00:09,320 --> 00:00:10,880
+voeg enkele voorbeelden van afbeeldingen toe
+
+5
+00:00:10,880 --> 00:00:14,240
+uit een van de mappen die je zojuist hebt gedownload
+
+6
+00:00:14,240 --> 00:00:18,120
+Kies afbeeldingen die het meest lijken op je rode appel
+
+7
+00:00:18,120 --> 00:00:21,720
+Train het model
+
+8
+00:00:21,720 --> 00:00:24,440
+Test het model opnieuw door je rode appel voor
+
+9
+00:00:24,440 --> 00:00:26,040
+je webcam te houden
+
+10
+00:00:26,040 --> 00:00:28,160
+Het model zou een betrouwbaardere voorspelling moeten doen
+
+11
+00:00:28,160 --> 00:00:30,400
+dat het een appel is
+
+12
+00:00:30,400 --> 00:00:32,720
+Houd je tomaat voor je webcam
+
+13
+00:00:32,720 --> 00:00:34,840
+Het model kan een minder betrouwbare voorspelling doen
+
+14
+00:00:34,840 --> 00:00:37,000
+dat het een tomaat is
+
+15
+00:00:37,000 --> 00:00:39,000
+Dit komt omdat je trainingsgegevens hebt toegevoegd
+
+16
+00:00:39,000 --> 00:00:40,240
+aan de appelklasse
+
+17
+00:00:40,240 --> 00:00:47,000
+van afbeeldingen die meer op tomaten lijken
+

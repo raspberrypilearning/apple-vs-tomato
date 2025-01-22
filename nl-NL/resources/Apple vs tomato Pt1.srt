@@ -1,0 +1,24 @@
+1
+00:00:02,880 --> 00:00:04,120
+Ga naar rpf.io/tm
+
+2
+00:00:06,600 --> 00:00:09,560
+Hernoem de klassen naar 'Appel' en 'Tomaat'
+
+3
+00:00:09,560 --> 00:00:11,720
+Download de afbeeldingen van de starterstraining
+
+4
+00:00:11,720 --> 00:00:15,280
+Unzip de map
+
+5
+00:00:15,280 --> 00:00:18,480
+Upload de groene appel-afbeeldingen naar de 'Appel'-class
+
+6
+00:00:18,480 --> 00:00:24,520
+Upload de rode tomaten-afbeeldingen naar de 'Tomaat'-klasse
+

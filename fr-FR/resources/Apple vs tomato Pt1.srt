@@ -1,0 +1,24 @@
+1
+00:00:02,880 --> 00:00:04,120
+Va sur rpf.io/tm
+
+2
+00:00:06,600 --> 00:00:09,560
+Renomme les classes en « Pomme » et « Tomate »
+
+3
+00:00:09,560 --> 00:00:11,720
+Télécharge les images d'entraînement de démarrage
+
+4
+00:00:11,720 --> 00:00:15,280
+Décompresse le dossier
+
+5
+00:00:15,280 --> 00:00:18,480
+Charge les images de pomme verte dans la classe « Pomme »
+
+6
+00:00:18,480 --> 00:00:24,520
+Charge les images de tomate rouge dans la classe « Tomate »
+
