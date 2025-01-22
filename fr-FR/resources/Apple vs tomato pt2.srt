@@ -4,25 +4,25 @@ Entraîner le modèle
 
 2
 00:00:06,840 --> 00:00:10,440
-Hold up your green apple to your webcam
+Tiens ta pomme verte devant ta webcam
 
 3
 00:00:10,440 --> 00:00:12,440
-The model should make a confident prediction
+Le modèle devrait faire une prédiction fiable
 
 4
 00:00:12,440 --> 00:00:14,360
-that it is an apple
+que c'est une pomme
 
 5
 00:00:14,360 --> 00:00:17,320
-Hold up your red tomato to your webcam
+Tiens ta tomate rouge devant ta webcam
 
 6
 00:00:17,320 --> 00:00:19,120
-The model should make a confident prediction
+Le modèle devrait faire une prédiction fiable
 
 7
 00:00:19,120 --> 00:00:24,120
-that it is a tomato
+que c'est une tomate
 
