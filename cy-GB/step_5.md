@@ -1,4 +1,4 @@
-## Improve the model
+## Gwella'r model
 
 <html>
   <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
@@ -6,68 +6,68 @@
   </div>
 </html>
 
-The training data is biased, as it only includes green apples.
+Mae'r data hyfforddi yn rhagfarnllyd, gan ei fod yn cynnwys afalau gwyrdd yn unig.
 
-To reduce the bias, you need to add extra examples of apples to the 'Apple' class.
+Er mwyn lleihau'r rhagfarn, mae angen i chi ychwanegu enghreifftiau ychwanegol o afalau i'r dosbarth 'Afal'.
 
 \--- task ---
 
-Download a [folder of more images of apples](https://drive.google.com/drive/folders/1OIuoG7go72c7QririIpykJ4tW-arrtfA){:target="_blank"}.
+Lawrlwythwch [ffolder o fwy o ddelweddau o afalau](https://drive.google.com/drive/folders/1OIuoG7go72c7QririIpykJ4tW-arrtfA){:target="_blank"}.
 
 \--- /task ---
 
 \--- task ---
 
-Unzip the new folder.
+Dadsipio'r ffolder newydd.
 
 \--- /task ---
 
 \--- task ---
 
-In the 'Apple' class, add some samples of images from one of the folders you have just downloaded.
+Yn y dosbarth 'Afal', ychwanegwch rai samplau o ddelweddau o un o'r ffolderi rydych chi newydd eu lawrlwytho.
 
-Choose images that look most like your **red** apple.
+Dewiswch ddelweddau sy'n edrych fwyaf fel eich afal **coch**.
 
-**Tip:** You can also use your webcam to take images of your red apple.
+**Awgrym:** Gallwch hefyd ddefnyddio'ch gwe-gamera i dynnu lluniau o'ch afal coch.
 
-**Tip:** You only need to add a few extra samples to your 'Apple' class.
-
-\--- /task ---
-
-### Train the model again
-
-\--- task ---
-
-Click on **Train Model**.
-
-![The 'Train Model' button.](images/train_model.png)
+**Awgrym:** Dim ond ychydig o samplau ychwanegol sydd angen i chi eu hychwanegu at eich dosbarth 'Afal'.
 
 \--- /task ---
 
-When the model is trained, the preview panel will open.
+### Hyfforddwch y model eto
 
 \--- task ---
 
-Hold up your **red** apple to your webcam to test the model again.
+Cliciwch ar **Train Model**.
 
-The model should produce a prediction with a **higher confidence score** that it is an **apple**.
+![Y botwm 'Train Model'.](images/train_model.png)
+
+\--- /task ---
+
+Pan fydd y model wedi'i hyfforddi, bydd y panel rhagolwg yn agor.
+
+\--- task ---
+
+Daliwch eich afal **coch** i fyny i'ch gwe-gamera i brofi'r model eto.
+
+Dylai'r model gynhyrchu rhagfynegiad gyda **sgôr hyder uchel** mai **afal** ydyw.
 
 \--- /task ---
 
 \--- task ---
 
-Hold up your tomato to your webcam.
+Daliwch eich tomato i fyny at eich gwe-gamera.
 
-The model might produce a prediction with a **lower confidence score** that it is a **tomato**.
+Gallai'r model gynhyrchu rhagfynegiad gyda **sgôr hyder is** mai **tomato** ydyw.
 
-This is because you have added training data to the 'Apple' class of images that look more like tomatoes.
+Mae hyn oherwydd eich bod wedi ychwanegu data hyfforddi at y dosbarth 'Afal' o ddelweddau sy'n edrych yn debycach i domatos.
 
 \--- /task ---
 
 ## --- collapse ---
 
-## title: Note to educators
+## title: Nodyn i addysgwyr
 
-You may choose to introduce learners to the concept of the ethical bias that can result from the use of biased training data.
+Efallai y byddwch yn dewis cyflwyno i'r dysgwyr y cysyniad o'r duedd foesegol a all ddeillio o ddefnyddio data hyfforddi rhagfarnllyd.
 
 \--- /collapse ---
