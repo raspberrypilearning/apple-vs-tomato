@@ -1,26 +1,26 @@
 1
 00:00:03,360 --> 00:00:06,480
-Download a folder of images of different apples
+Télécharge un dossier d'images de différentes pommes
 
 2
 00:00:06,480 --> 00:00:08,000
-Unzip the folder
+Décompresse le dossier
 
 3
 00:00:08,000 --> 00:00:09,320
-In the ‘Apple’ class
+Dans la classe « Pomme »
 
 4
 00:00:09,320 --> 00:00:10,880
-add some samples of images
+ajoute quelques échantillons d'images
 
 5
 00:00:10,880 --> 00:00:14,240
-from one of the folders you have just downloaded
+à partir d'un des dossiers que tu viens de télécharger
 
 6
 00:00:14,240 --> 00:00:18,120
-Choose images that look most like your red apple
+Choisis les images qui ressemblent le plus à ta pomme rouge
 
 7
 00:00:18,120 --> 00:00:21,720
@@ -28,41 +28,41 @@ Entraîner le modèle
 
 8
 00:00:21,720 --> 00:00:24,440
-Test the model again by holding up your red apple
+Teste à nouveau le modèle en tenant ta pomme rouge
 
 9
 00:00:24,440 --> 00:00:26,040
-to your webcam
+devant ta webcam
 
 10
 00:00:26,040 --> 00:00:28,160
-The model should make a more confident prediction
+Le modèle devrait faire une prédiction plus fiable
 
 11
 00:00:28,160 --> 00:00:30,400
-that it is an apple
+que c'est une pomme
 
 12
 00:00:30,400 --> 00:00:32,720
-Hold up your tomato to your webcam
+Tiens ta tomate devant ta webcam
 
 13
 00:00:32,720 --> 00:00:34,840
-The model might make a less confident prediction
+Le modèle pourrait rendre une prédiction moins fiable
 
 14
 00:00:34,840 --> 00:00:37,000
-that it is a tomato
+que c'est une tomate
 
 15
 00:00:37,000 --> 00:00:39,000
-This is because you have added training data
+C'est parce que tu as ajouté des données d'entraînement
 
 16
 00:00:39,000 --> 00:00:40,240
-to the apple class
+à la classe pomme
 
 17
 00:00:40,240 --> 00:00:47,000
-of images that look more like tomatoes
+des images qui ressemblent plus aux tomates
 
