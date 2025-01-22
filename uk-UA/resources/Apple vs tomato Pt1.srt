@@ -1,24 +1,24 @@
 1
 00:00:02,880 --> 00:00:04,120
-Go to rpf.io/tm
+Перейди на rpf.io/tm.
 
 2
 00:00:06,600 --> 00:00:09,560
-Rename the classes to 'Apple' and 'Tomato'
+Перейменуй класи на «Яблуко» і «Помідор».
 
 3
 00:00:09,560 --> 00:00:11,720
-Download the starter training images
+Завантаж початкові зображення для навчання.
 
 4
 00:00:11,720 --> 00:00:15,280
-Unzip the folder
+Розпакуй папку.
 
 5
 00:00:15,280 --> 00:00:18,480
-Upload the green apple images to the ‘Apple’ class
+Завантаж зображення зелених яблук до класу «Яблуко».
 
 6
 00:00:18,480 --> 00:00:24,520
-Upload the red tomato images to the ‘Tomato’ class
+Завантаж зображення червоних помідорів до класу «Помідор».
 
