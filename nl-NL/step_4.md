@@ -1,6 +1,6 @@
-## A different apple
+## Een andere appel
 
-Use a different apple to test the model.
+Gebruik een andere appel om het model te testen.
 
 <html>
   <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
@@ -10,10 +10,10 @@ Use a different apple to test the model.
 
 \--- task ---
 
-Hold up your **red** apple to your webcam to test the model.
+Houd je **rode** appel voor je webcam om het model te testen.
 
-The model should **not** produce a prediction with a high confidence score that it is an apple.
+Het model mag **geen** voorspelling met een hoge betrouwbaarheidsscore doen dat het om een appel gaat.
 
-It will probably produce a prediction that it is a **tomato**!
+Waarschijnlijk zal de voorspelling zijn dat het een **tomaat** is!
 
 \--- /task ---
