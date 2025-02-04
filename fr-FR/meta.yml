@@ -20,6 +20,7 @@ steps:
     title: Améliorer le modèle
     completion:
       - internal
-      - external
   - 
     title: Que peux-tu faire maintenant ?
+    completion:
+      - external
