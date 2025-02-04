@@ -1,6 +1,6 @@
-## Create a model
+## Maak een model
 
-Add sample images of apples and tomatoes.
+Voeg voorbeeldfoto's van appels en tomaten toe.
 
 <html>
   <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
@@ -8,7 +8,7 @@ Add sample images of apples and tomatoes.
   </div>
 </html>
 
-### Set up the model
+### Het model opzetten
 
 \--- task ---
 
@@ -18,25 +18,25 @@ Open [Teachable Machine](https://rpf.io/tm){:target="_blank"}.
 
 \--- task ---
 
-Rename `Class 1` to `Apple`.
+Hernoem `Class 1` naar `Appel`.
 
-Rename `Class 2` to `Tomato`.
-
-\--- /task ---
-
-### Download sample images
-
-\--- task ---
-
-Download the [folder containing the starter images](https://rpf.io/tams){:target="_blank"}.
+Hernoem `Class 2` naar `Tomaat`.
 
 \--- /task ---
 
-The folder will download as a zip file.
+### Voorbeeld afbeeldingen downloaden
 
 \--- task ---
 
-Unzip the folder.
+Download de [map met de starterafbeeldingen](https://rpf.io/tams){:target="_blank"}.
+
+\--- /task ---
+
+De map wordt gedownload als een zipbestand.
+
+\--- task ---
+
+Unzip de map.
 
 \--- /task ---
 
@@ -44,43 +44,43 @@ Unzip the folder.
 
 ---
 
-## title: How to unzip
+## title: Hoe werkt unzippen?
 
 **Microsoft Windows**
 
-- Open your 'Downloads' folder.
-- Right-click on the zip file and select **Extract All**.
+- Open de map 'Downloads'.
+- Klik met de rechtermuisknop op het zip-bestand en selecteer **Alles uitpakken**.
 
-**ChromeOS**
+**Chrome OS**
 
-- Open Files.
-- Double-click on the zip file.
-- On the left, you will find the zip file.
-- Drag and drop the files/folders into a new folder of your choice.
+- Open bestanden.
+- Dubbelklik op het zip-bestand.
+- Aan de linkerkant vind je het zip-bestand.
+- Versleep de bestanden/mappen naar de nieuwe map van jouw keuze.
 
 **macOS**
 
-- Open your 'Downloads' folder.
-- Double-click on the zip file.
-- A new folder will be created that contains the decompressed files/folders.
+- Open de map 'Downloads'.
+- Dubbelklik op het zip-bestand.
+- Er wordt een nieuwe map aangemaakt die de gedecomprimeerde bestanden/mappen bevat.
 
 **Linux**
 
-- Open your 'Downloads' folder.
-- Right-click on the zip file and select **Extract Here**.
+- Open de map 'Downloads'.
+- Klik met de rechtermuisknop op het zip-bestand en selecteer **Extract Here**.
 
 \--- /collapse ---
 
-### Add sample images
+### Voorbeeld afbeeldingen toevoegen
 
 \--- task ---
 
-Upload the green **apple** images to the 'Apple' class.
+Upload de groene **appel**-afbeeldingen naar de 'Appel'-class.
 
 \--- /task ---
 
 \--- task ---
 
-Upload the red **tomato** images to the 'Tomato' class.
+Upload de rode **tomaten**-afbeeldingen naar de 'Tomaat' class.
 
 \--- /task ---
