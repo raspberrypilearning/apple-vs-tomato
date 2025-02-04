@@ -1,6 +1,6 @@
-## Train and test
+## Навчи і протестуй
 
-Train a model to detect what you are holding.
+Навчи модель виявляти, що ти тримаєш.
 
 <html>
   <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
@@ -8,32 +8,32 @@ Train a model to detect what you are holding.
   </div>
 </html>
 
-### Train the model
+### Навчи модель
 
 \--- task ---
 
-Click on **Train Model**.
+Натисни на **Train Model** («Навчити модель»).
 
-**Note:** Be patient! It can take 10 to 20 seconds to complete.
+**Примітка**: не поспішай! Навчання може тривати від 10 до 20 секунд.
 
-![The 'Train Model' button.](images/train_model.png)
+![Кнопка «Навчити модель».](images/train_model.png)
 
 \--- /task ---
 
-### Test the model
+### Протестуй модель
 
 \--- task ---
 
-Hold up your **green** apple to your webcam.
+Піднеси **зелене** яблуко до вебкамери.
 
-The model should produce a prediction with a **high confidence score** that it is an **apple**.
+Модель має з **високим рівнем впевненості** передбачити, що це **яблуко**.
 
 \--- /task ---
 
 \--- task ---
 
-Hold up your **red** tomato to your webcam.
+Піднеси **червоний** помідор до вебкамери.
 
-The model should produce a prediction with a **high confidence score** that it is a **tomato**.
+Модель має з **високим рівнем впевненості** передбачити, що це **помідор**.
 
 \--- /task ---
