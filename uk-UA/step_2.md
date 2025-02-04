@@ -1,6 +1,6 @@
-## Create a model
+## Створи модель
 
-Add sample images of apples and tomatoes.
+Додай приклади зображень яблук і помідорів.
 
 <html>
   <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
@@ -8,35 +8,35 @@ Add sample images of apples and tomatoes.
   </div>
 </html>
 
-### Set up the model
+### Налаштуй модель
 
 \--- task ---
 
-Open [Teachable Machine](https://rpf.io/tm){:target="_blank"}.
+Відкрий вебсайт [Teachable Machine](https://rpf.io/tm){:target="_blank"}.
 
 \--- /task ---
 
 \--- task ---
 
-Rename `Class 1` to `Apple`.
+Зміни назву `Class 1` на `Яблуко`.
 
-Rename `Class 2` to `Tomato`.
-
-\--- /task ---
-
-### Download sample images
-
-\--- task ---
-
-Download the [folder containing the starter images](https://rpf.io/tams){:target="_blank"}.
+Зміни назву `Class 2` на `Помідор`.
 
 \--- /task ---
 
-The folder will download as a zip file.
+### Завантаж зразки зображень
 
 \--- task ---
 
-Unzip the folder.
+Завантаж [папку з початковими зображеннями](https://rpf.io/tams){:target="_blank"}.
+
+\--- /task ---
+
+Папка завантажиться як zip-файл.
+
+\--- task ---
+
+Розархівуй папку.
 
 \--- /task ---
 
@@ -44,43 +44,43 @@ Unzip the folder.
 
 ---
 
-## title: How to unzip
+## title: Як розархівувати папку
 
 **Microsoft Windows**
 
-- Open your 'Downloads' folder.
-- Right-click on the zip file and select **Extract All**.
+- Відкрий папку «Завантаження».
+- Клацни правою кнопкою миші на zip-файлі й вибери **Видобути все**.
 
 **ChromeOS**
 
-- Open Files.
-- Double-click on the zip file.
-- On the left, you will find the zip file.
-- Drag and drop the files/folders into a new folder of your choice.
+- Відкрий «Файли».
+- Двічі клацни zip-файл.
+- Ліворуч ти побачиш zip-файл.
+- Перетягни файли/папки в нову папку на твій вибір.
 
 **macOS**
 
-- Open your 'Downloads' folder.
-- Double-click on the zip file.
-- A new folder will be created that contains the decompressed files/folders.
+- Відкрий папку «Завантаження».
+- Двічі клацни zip-файл.
+- Буде створено нову папку, яка містить розпаковані файли/папки.
 
 **Linux**
 
-- Open your 'Downloads' folder.
-- Right-click on the zip file and select **Extract Here**.
+- Відкрий папку «Завантаження».
+- Клацни правою кнопкою миші на zip-файлі й вибери **Видобути сюди**.
 
 \--- /collapse ---
 
-### Add sample images
+### Додай зразки зображень
 
 \--- task ---
 
-Upload the green **apple** images to the 'Apple' class.
+Завантаж зображення зелених **яблук** до класу «Яблуко».
 
 \--- /task ---
 
 \--- task ---
 
-Upload the red **tomato** images to the 'Tomato' class.
+Завантаж зображення червоних **помідорів** до класу «Помідор».
 
 \--- /task ---
