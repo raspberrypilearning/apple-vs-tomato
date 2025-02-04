@@ -1,0 +1,24 @@
+1
+00:00:02,880 --> 00:00:04,120
+Acede a rpf.io/tm
+
+2
+00:00:06,600 --> 00:00:09,560
+Muda o nome das classes para 'Maçã' e 'Tomate'
+
+3
+00:00:09,560 --> 00:00:11,720
+Descarrega as imagens de treino iniciais
+
+4
+00:00:11,720 --> 00:00:15,280
+Descompacta a pasta
+
+5
+00:00:15,280 --> 00:00:18,480
+Carrega as imagens das maçãs verdes para a classe 'Maçãs'
+
+6
+00:00:18,480 --> 00:00:24,520
+Carrega as imagens dos tomates vermelhos para a classe 'Tomate'
+
