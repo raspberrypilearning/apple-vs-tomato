@@ -1,6 +1,6 @@
-## Train and test
+## Trainen en testen
 
-Train a model to detect what you are holding.
+Train een model om te detecteren wat je vasthoudt.
 
 <html>
   <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
@@ -8,32 +8,32 @@ Train a model to detect what you are holding.
   </div>
 </html>
 
-### Train the model
+### Train het model
 
 \--- task ---
 
-Click on **Train Model**.
+Klik op **Model trainen**.
 
-**Note:** Be patient! It can take 10 to 20 seconds to complete.
+**Let op:** Heb geduld! Het kan 10 tot 20 seconden duren om te voltooien.
 
-![The 'Train Model' button.](images/train_model.png)
+![De 'Train Model' knop.](images/train_model.png)
 
 \--- /task ---
 
-### Test the model
+### Test het model
 
 \--- task ---
 
-Hold up your **green** apple to your webcam.
+Houd je **groene** appel voor je webcam.
 
-The model should produce a prediction with a **high confidence score** that it is an **apple**.
+Het model moet een voorspelling met een **hoge betrouwbaarheidsscore** produceren dat het een **appel** is.
 
 \--- /task ---
 
 \--- task ---
 
-Hold up your **red** tomato to your webcam.
+Houd je **rode** tomaat voor je webcam.
 
-The model should produce a prediction with a **high confidence score** that it is a **tomato**.
+Het model moet een voorspelling met een **hoge betrouwbaarheidsscore** produceren dat het een **tomaat** is.
 
 \--- /task ---
