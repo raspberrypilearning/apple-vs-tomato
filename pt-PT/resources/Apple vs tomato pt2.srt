@@ -1,0 +1,28 @@
+1
+00:00:03,320 --> 00:00:06,840
+Treinar o modelo
+
+2
+00:00:06,840 --> 00:00:10,440
+Segura a tua maçã verde à frente da tua webcam
+
+3
+00:00:10,440 --> 00:00:12,440
+O modelo deve fazer uma predição confiante
+
+4
+00:00:12,440 --> 00:00:14,360
+de que é uma maçã
+
+5
+00:00:14,360 --> 00:00:17,320
+Segura o teu tomate vermelho à frente da tua webcam
+
+6
+00:00:17,320 --> 00:00:19,120
+O modelo deve fazer uma predição confiante
+
+7
+00:00:19,120 --> 00:00:24,120
+de que é um tomate
+
