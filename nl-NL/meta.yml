@@ -20,6 +20,7 @@ steps:
     title: Verbeter het model
     completion:
       - internal
-      - external
   - 
     title: Wat kun je nu doen?
+    completion:
+      - external
