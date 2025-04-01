@@ -1,17 +1,17 @@
 1
 00:00:02,920 --> 00:00:06,920
-Test the model by holding up 
-your red apple to your webcam
+Δοκίμασε το μοντέλο κρατώντας ψηλά
+το κόκκινο μήλο σου προς την κάμερα web
 
 2
 00:00:06,920 --> 00:00:09,200
-The model should not make a confident prediction
+Το μοντέλο δεν πρέπει να κάνει μια σίγουρη πρόβλεψη
 
 3
 00:00:09,200 --> 00:00:10,680
-that it is an apple
+ότι είναι ένα μήλο
 
 4
 00:00:10,680 --> 00:00:17,200
-It will probably predict that it is a tomato!
+Πιθανότατα θα προβλέψει ότι πρόκειται για ντομάτα!
 
