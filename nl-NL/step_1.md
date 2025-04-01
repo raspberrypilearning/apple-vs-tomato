@@ -1,30 +1,30 @@
-## What you will make
+## Wat ga je maken
 
-![The image shows a machine learning interface from "Teachable Machine" where a model is being trained to classify images of apples and tomatoes. On the left, there are two labeled sections: "Apple" with 64 image samples and "Tomato" with 24 image samples. Each section shows image thumbnails corresponding to each class (apples and tomatoes) and has options to upload images via webcam or upload button. On the right, there's a "Preview" section showing the result of the model's classification of a webcam input, where a hand is holding a tomato. Below this, the "Output" section displays the classification results: 16% for "Apple" and 84% for "Tomato," indicating the model has identified the object as a tomato.](images/wywm.png)
+![De afbeelding toont een machine learning interface van "Teachable Machine" waarin een model wordt getraind om afbeeldingen van appels en tomaten te classificeren. Aan de linkerkant zie je twee secties met labels: 'Appel' met 64 voorbeeldafbeeldingen en 'Tomaat' met 24 voorbeeldafbeeldingen. Elke sectie toont miniaturen die overeenkomen met elke klasse (appels en tomaten) en heeft opties om afbeeldingen te uploaden via een webcam of upload knop. Aan de rechterkant is een 'Preview'-sectie te zien waarin het resultaat van de classificatie door het model van een webcaminvoer wordt getoond, waarbij een hand een tomaat vasthoudt. Hieronder geeft de "Output" sectie de classificatieresultaten weer: 16% voor "Appel" en 84% voor "Tomaat", om aan te geven dat het model het object heeft aangeduid als een tomaat.](images/wywm.png)
 
-Train a machine learning model to detect if you are holding an apple or a tomato. Then, improve the classifier by using more diverse training data.
+Train een machine learning-model om te detecteren of je een appel of een tomaat vasthoudt. Verbeter vervolgens de classificator door meer diverse trainingsgegevens te gebruiken.
 
-You will need a **webcam**, a **red apple**, a **green apple**, and a **red tomato**.
+Je hebt een **webcam**, een **rode appel**, een **groene appel** en een **rode tomaat** nodig.
 
-You will need to be able to download and save files to your computer.
+Je moet bestanden kunnen downloaden en opslaan op jouw computer.
 
 \--- collapse ---
 
 ---
 
-## title: Where are my images stored?
+## title: Waar worden mijn afbeeldingen opgeslagen?
 
-- This project uses a technology called 'machine learning'. Machine learning systems are trained using a large amount of data﻿.
-- This project does not require you to create an account or log in. For this project, the image examples you use to make the model are only stored temporarily in your browser (only on your machine).
-- No images from your webcam are sent to this website or any other website.
+- Dit project maakt gebruik van een technologie genaamd 'machine learning'. Machine learning-systemen worden getraind met behulp van een grote hoeveelheid data.
+- Voor dit project hoef je geen account aan te maken of in te loggen. Voor dit project worden de afbeeldingsvoorbeelden die je gebruikt om het model te maken tijdelijk opgeslagen in je browser (alleen op je machine).
+- Er worden geen afbeeldingen van je webcam verzonden naar deze website of naar een andere website.
 
 \--- /collapse ---
 
 ## --- collapse ---
 
-## title: No YouTube? Download the videos!
+## title: Geen YouTube? Download de video's!
 
-You can [download all the videos for this project](https://rpf.io/p/en/apple-vs-tomato-go){:target="_blank"}.
+Je kunt [alle video's voor dit project downloaden](https://rpf.io/p/en/apple-vs-tomato-go){:target="_blank"}.
 
 \--- /collapse ---
 
@@ -32,8 +32,8 @@ You can [download all the videos for this project](https://rpf.io/p/en/apple-vs-
 
 ---
 
-## title: Licence
+## title: Licentie
 
-We would like to thank [Samuel Cortinhas](https://www.kaggle.com/datasets/samuelcortinhas/apples-or-tomatoes-image-classification/data){:target="_blank"} for the concept and images for this project.
+We willen [Samuel Cortinhas](https://www.kaggle.com/datasets/samuelcortinhas/apples-or-tomatoes-image-classification/data){:target="_blank"} bedanken voor het concept en de afbeeldingen voor dit project.
 
 \--- /collapse ---
