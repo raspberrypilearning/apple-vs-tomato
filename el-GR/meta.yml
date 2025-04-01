@@ -1,26 +1,26 @@
-title: Apple vs tomato
+title: Μήλο εναντίον ντομάτας
 hero_image: images/banner.png
-description: Train a machine learning model to detect if you are holding an apple or a tomato, then improve it by including more diverse training data
+description: Εκπαίδευσε ένα μοντέλο μηχανικής εκμάθησης για να ανιχνεύσεις εάν κρατάς ένα μήλο ή μια ντομάτα και, στη συνέχεια, βελτίωσέ το συμπεριλαμβάνοντας περισσότερο διαφορετικά δεδομένα εκπαίδευσης
 version: 4
 listed: true
 copyedit: false
 last_tested: "2024-07-19"
 steps:
   - 
-    title: What you will make
+    title: Τι θα φτιάξεις
   - 
-    title: Create a model
+    title: Δημιουργία μοντέλου
     completion:
       - engaged
   - 
-    title: Train and test
+    title: Εκπαίδευση και δοκιμή
   - 
-    title: A different apple
+    title: Ένα διαφορετικό μήλο
   - 
-    title: Improve the model
+    title: Βελτίωση του μοντέλου
     completion:
       - internal
   - 
-    title: What can you do now?
+    title: Τι μπορείς να κάνεις τώρα;
     completion:
       - external
