@@ -1,30 +1,30 @@
-## What you will make
+## Що ти зробиш
 
-![The image shows a machine learning interface from "Teachable Machine" where a model is being trained to classify images of apples and tomatoes. On the left, there are two labeled sections: "Apple" with 64 image samples and "Tomato" with 24 image samples. Each section shows image thumbnails corresponding to each class (apples and tomatoes) and has options to upload images via webcam or upload button. On the right, there's a "Preview" section showing the result of the model's classification of a webcam input, where a hand is holding a tomato. Below this, the "Output" section displays the classification results: 16% for "Apple" and 84% for "Tomato," indicating the model has identified the object as a tomato.](images/wywm.png)
+![На зображенні показано інтерфейс машинного навчання Teachable Machine, де модель навчається класифікувати зображення яблук і помідорів. Ліворуч розміщені два розділи з позначками: «Яблуко» з 64 зразками зображень і «Помідор» з 24 зразками зображень. Кожен розділ показує зменшені зображення, що відповідають кожному класу (яблука та помідори), і має опції завантаження зображень через вебкамеру або кнопку завантаження. Праворуч розміщений розділ «Попередній перегляд» (Preview), у якому показано результат класифікації вхідного зображення з вебкамери, на якому рука тримає помідор. Нижче у розділі «Результат» (Output) показано результати класифікації: 16% для «Яблука» і 84% для «Помідора», що вказує на те, що модель ідентифікувала об’єкт як помідор.](images/wywm.png)
 
-Train a machine learning model to detect if you are holding an apple or a tomato. Then, improve the classifier by using more diverse training data.
+Навчи модель машинного навчання визначати, що ти тримаєш у руці: яблуко чи помідор. Потім удоскональ класифікатор, використовуючи більш різноманітні навчальні дані.
 
-You will need a **webcam**, a **red apple**, a **green apple**, and a **red tomato**.
+Тобі знадобляться **вебкамера**, **червоне яблуко**, **зелене яблуко** і **червоний помідор**.
 
-You will need to be able to download and save files to your computer.
+У тебе має бути змога завантажити та зберегти файли на своєму компʼютері.
 
 \--- collapse ---
 
 ---
 
-## title: Where are my images stored?
+## title: Де зберігаються мої зображення?
 
-- This project uses a technology called 'machine learning'. Machine learning systems are trained using a large amount of data﻿.
-- This project does not require you to create an account or log in. For this project, the image examples you use to make the model are only stored temporarily in your browser (only on your machine).
-- No images from your webcam are sent to this website or any other website.
+- Цей проєкт використовує технологію під назвою «машинне навчання». Системи машинного навчання навчаються з використанням великої кількості даних﻿.
+- Для цього проєкту тобі не потрібно створювати обліковий запис або входити в систему. У цьому проєкті приклади зображень, які ти використовуєш для створення моделі, лише тимчасово зберігаються у твоєму браузері (лише на твоєму компʼютері).
+- Зображення з твоєї вебкамери не надсилаються на цей вебсайт або будь-який інший.
 
 \--- /collapse ---
 
 ## --- collapse ---
 
-## title: No YouTube? Download the videos!
+## title: Немає доступу до YouTube? Завантаж відео!
 
-You can [download all the videos for this project](https://rpf.io/p/en/apple-vs-tomato-go){:target="_blank"}.
+Ти можеш [завантажити всі відео для цього проєкту](https://rpf.io/p/en/apple-vs-tomato-go){:target="_blank"}.
 
 \--- /collapse ---
 
@@ -32,8 +32,8 @@ You can [download all the videos for this project](https://rpf.io/p/en/apple-vs-
 
 ---
 
-## title: Licence
+## title: Ліцензія
 
-We would like to thank [Samuel Cortinhas](https://www.kaggle.com/datasets/samuelcortinhas/apples-or-tomatoes-image-classification/data){:target="_blank"} for the concept and images for this project.
+Ми дякуємо [Семюелу Кортінʼясу](https://www.kaggle.com/datasets/samuelcortinhas/apples-or-tomatoes-image-classification/data){:target="_blank"} (Samuel Cortinhas) за ідею цього проєкту та зображення.
 
 \--- /collapse ---
