@@ -1,4 +1,4 @@
-## Improve the model
+## Βελτίωση του μοντέλου
 
 <html>
   <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
@@ -6,68 +6,68 @@
   </div>
 </html>
 
-The training data is biased, as it only includes green apples.
+Τα δεδομένα εκπαίδευσης είναι μεροληπτικά, καθώς περιλαμβάνουν μόνο πράσινα μήλα.
 
-To reduce the bias, you need to add extra examples of apples to the 'Apple' class.
+Για να μειώσες την μεροληψία, πρέπει να προσθέσεις επιπλέον παραδείγματα μήλων στην κλάση 'Apple'.
 
 \--- task ---
 
-Download a [folder of more images of apples](https://drive.google.com/drive/folders/1OIuoG7go72c7QririIpykJ4tW-arrtfA){:target="_blank"}.
+Κάνε λήψη ενός [φάκελου με περισσότερες εικόνες μήλων](https://drive.google.com/drive/folders/1OIuoG7go72c7QririIpykJ4tW-arrtfA){:target="_blank"}.
 
 \--- /task ---
 
 \--- task ---
 
-Unzip the new folder.
+Αποσυμπίεσε τον νέο φάκελο.
 
 \--- /task ---
 
 \--- task ---
 
-In the 'Apple' class, add some samples of images from one of the folders you have just downloaded.
+Στην κλάση 'Apple', πρόσθεσε μερικά δείγματα εικόνων από έναν από τους φακέλους που μόλις κατέβασες.
 
-Choose images that look most like your **red** apple.
+Επίλεξε εικόνες που μοιάζουν περισσότερο με το **κόκκινο** μήλο σου.
 
-**Tip:** You can also use your webcam to take images of your red apple.
+**Συμβουλή:** Μπορείς επίσης να χρησιμοποιήσεις την κάμερα web για να πάρεις φωτογραφίες του κόκκινου μήλου σου.
 
-**Tip:** You only need to add a few extra samples to your 'Apple' class.
-
-\--- /task ---
-
-### Train the model again
-
-\--- task ---
-
-Click on **Train Model**.
-
-![The 'Train Model' button.](images/train_model.png)
+**Συμβουλή:** Το μόνο που χρειάζεται είναι να προσθέσεις μερικά επιπλέον δείγματα στην κλάση 'Apple'.
 
 \--- /task ---
 
-When the model is trained, the preview panel will open.
+### Εκπαίδευσε ξανά το μοντέλο
 
 \--- task ---
 
-Hold up your **red** apple to your webcam to test the model again.
+Κάνε κλικ στο **Train Model**.
 
-The model should produce a prediction with a **higher confidence score** that it is an **apple**.
+![Το κουμπί 'Train Model'.](images/train_model.png)
+
+\--- /task ---
+
+Όταν το μοντέλο εκπαιδευτεί, θα ανοίξει ο πίνακας προεπισκόπησης.
+
+\--- task ---
+
+Κράτησε το **κόκκινο** μήλο στην κάμερα web για να δοκιμάσεις πάλι το μοντέλο.
+
+Το μοντέλο θα πρέπει να παραγάγει μια πρόβλεψη με **υψηλότερη βαθμολογία εμπιστοσύνης** ότι είναι **μήλο**.
 
 \--- /task ---
 
 \--- task ---
 
-Hold up your tomato to your webcam.
+Κράτα ψηλά την ντομάτα προς την κάμερα web.
 
-The model might produce a prediction with a **lower confidence score** that it is a **tomato**.
+Το μοντέλο ενδέχεται να παραγάγει μια πρόβλεψη με **χαμηλότερη βαθμολογία εμπιστοσύνης** ότι είναι **ντομάτα**.
 
-This is because you have added training data to the 'Apple' class of images that look more like tomatoes.
+Αυτό συμβαίνει επειδή έχεις προσθέσει δεδομένα εκπαίδευσης στην κλάση εικόνων 'Apple' που μοιάζουν περισσότερο με ντομάτες.
 
 \--- /task ---
 
 ## --- collapse ---
 
-## title: Note to educators
+## title: Σημείωση προς τους/τις εκπαιδευτές/ριες
 
-You may choose to introduce learners to the concept of the ethical bias that can result from the use of biased training data.
+Μπορείτε να επιλέξετε να εισαγάγετε τους εκπαιδευόμενους στην έννοια της ηθικής μεροληψίας που μπορεί να προκύψει από τη χρήση μεροληπτικών δεδομένων εκπαίδευσης.
 
 \--- /collapse ---
