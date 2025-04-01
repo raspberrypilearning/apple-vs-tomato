@@ -1,6 +1,6 @@
-## Create a model
+## Δημιουργία μοντέλου
 
-Add sample images of apples and tomatoes.
+Πρόσθεσε δείγματα εικόνων από μήλα και ντομάτες.
 
 <html>
   <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
@@ -8,35 +8,35 @@ Add sample images of apples and tomatoes.
   </div>
 </html>
 
-### Set up the model
+### Ρύθμιση του μοντέλου
 
 \--- task ---
 
-Open [Teachable Machine](https://rpf.io/tm){:target="_blank"}.
+Άνοιξε το [Teachable Machine](https://rpf.io/tm){:target="_blank"}.
 
 \--- /task ---
 
 \--- task ---
 
-Rename `Class 1` to `Apple`.
+Μετονόμασε το `Class 1` σε `Apple`.
 
-Rename `Class 2` to `Tomato`.
-
-\--- /task ---
-
-### Download sample images
-
-\--- task ---
-
-Download the [folder containing the starter images](https://rpf.io/tams){:target="_blank"}.
+Μετονόμασε `Class 2` σε `Tomato`.
 
 \--- /task ---
 
-The folder will download as a zip file.
+### Κατέβασε δείγματα εικόνων
 
 \--- task ---
 
-Unzip the folder.
+Κατέβασε τον [φάκελο που περιέχει τις εικόνες εκκίνησης](https://rpf.io/tams){:target="_blank"}.
+
+\--- /task ---
+
+Ο φάκελος θα κατέβει ως αρχείο zip.
+
+\--- task ---
+
+Αποσυμπίεσε τον φάκελο.
 
 \--- /task ---
 
@@ -44,43 +44,43 @@ Unzip the folder.
 
 ---
 
-## title: How to unzip
+## τίτλος: Πώς να αποσυμπιέσεις
 
 **Microsoft Windows**
 
-- Open your 'Downloads' folder.
-- Right-click on the zip file and select **Extract All**.
+- Άνοιξε τον φάκελο "Λήψεις".
+- Κάνε δεξί κλικ στο αρχείο zip και επίλεξε **Εξαγωγή όλων**.
 
 **ChromeOS**
 
 - Open Files.
-- Double-click on the zip file.
-- On the left, you will find the zip file.
-- Drag and drop the files/folders into a new folder of your choice.
+- Κάνε διπλό κλικ στο αρχείο zip.
+- Στα αριστερά, θα βρεις το αρχείο zip.
+- Σύρε και απόθεσε τα αρχεία/φακέλους σε έναν νέο φάκελο της επιλογής σου.
 
 **macOS**
 
-- Open your 'Downloads' folder.
-- Double-click on the zip file.
-- A new folder will be created that contains the decompressed files/folders.
+- Άνοιξε τον φάκελο "Downloads".
+- Κάνε διπλό κλικ στο αρχείο zip.
+- Θα δημιουργηθεί ένας νέος φάκελος που περιέχει τα αποσυμπιεσμένα αρχεία/φακέλους.
 
 **Linux**
 
-- Open your 'Downloads' folder.
-- Right-click on the zip file and select **Extract Here**.
+- Άνοιξε τον φάκελο "Downloads".
+- Κάνε δεξί κλικ στο αρχείο zip και επίλεξε **Extract Here**.
 
 \--- /collapse ---
 
-### Add sample images
+### Πρόσθεσε δείγματα εικόνων
 
 \--- task ---
 
-Upload the green **apple** images to the 'Apple' class.
+Ανέβασε τις εικόνες με τα πράσινα **μήλα** στην κλάση 'Apple'.
 
 \--- /task ---
 
 \--- task ---
 
-Upload the red **tomato** images to the 'Tomato' class.
+Ανέβασε τις εικόνες με τις κόκκινες **ντομάτες** στην κλάση 'Tomato'.
 
 \--- /task ---
