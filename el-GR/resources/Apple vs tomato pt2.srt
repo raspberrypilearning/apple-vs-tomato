@@ -1,28 +1,28 @@
 1
 00:00:03,320 --> 00:00:06,840
-Train the model
+Εκπαίδευση του μοντέλου
 
 2
 00:00:06,840 --> 00:00:10,440
-Hold up your green apple to your webcam
+Κράτα ψηλά το πράσινο μήλο προς την κάμερα web
 
 3
 00:00:10,440 --> 00:00:12,440
-The model should make a confident prediction
+Το μοντέλο πρέπει να κάνει μια σίγουρη πρόβλεψη
 
 4
 00:00:12,440 --> 00:00:14,360
-that it is an apple
+ότι είναι ένα μήλο
 
 5
 00:00:14,360 --> 00:00:17,320
-Hold up your red tomato to your webcam
+Κράτα ψηλά την κόκκινη ντομάτα προς την κάμερα web
 
 6
 00:00:17,320 --> 00:00:19,120
-The model should make a confident prediction
+Το μοντέλο πρέπει να κάνει μια σίγουρη πρόβλεψη
 
 7
 00:00:19,120 --> 00:00:24,120
-that it is a tomato
+ότι είναι ντομάτα
 
