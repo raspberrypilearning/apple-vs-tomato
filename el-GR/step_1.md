@@ -1,30 +1,30 @@
-## What you will make
+## Τι θα φτιάξεις
 
-![The image shows a machine learning interface from "Teachable Machine" where a model is being trained to classify images of apples and tomatoes. On the left, there are two labeled sections: "Apple" with 64 image samples and "Tomato" with 24 image samples. Each section shows image thumbnails corresponding to each class (apples and tomatoes) and has options to upload images via webcam or upload button. On the right, there's a "Preview" section showing the result of the model's classification of a webcam input, where a hand is holding a tomato. Below this, the "Output" section displays the classification results: 16% for "Apple" and 84% for "Tomato," indicating the model has identified the object as a tomato.](images/wywm.png)
+![Η εικόνα δείχνει μια διεπαφή μηχανικής μάθησης από το "Teachable Machine", όπου ένα μοντέλο εκπαιδεύεται για την ταξινόμηση εικόνων μήλων και ντοματών. Στα αριστερά, υπάρχουν δύο ενότητες με ετικέτα: "Apple" με 64 δείγματα εικόνας και "Tomato" με 24 δείγματα εικόνας. Κάθε ενότητα εμφανίζει μικρογραφίες εικόνων που αντιστοιχούν σε κάθε κατηγορία (μήλα και ντομάτες) και έχει επιλογές για μεταφόρτωση εικόνων μέσω κάμερας web ή κουμπιού μεταφόρτωσης. Στα δεξιά, υπάρχει μια ενότητα "Preview" που δείχνει το αποτέλεσμα της ταξινόμησης του μοντέλου για είσοδο κάμερας web, όπου ένα χέρι κρατά μια ντομάτα. Κάτω από αυτό, η ενότητα "Output" εμφανίζει τα αποτελέσματα ταξινόμησης: 16% για το "Apple" και 84% για το "Tomato", υποδεικνύοντας ότι το μοντέλο έχει αναγνωρίσει το αντικείμενο ως ντομάτα.](images/wywm.png)
 
-Train a machine learning model to detect if you are holding an apple or a tomato. Then, improve the classifier by using more diverse training data.
+Εκπαίδευσε ένα μοντέλο μηχανικής μάθησης για να εντοπίσεις αν κρατάς ένα μήλο ή μια ντομάτα. Στη συνέχεια, βελτίωσε τον ταξινομητή χρησιμοποιώντας περισσότερο διαφορετικά δεδομένα εκπαίδευσης.
 
-You will need a **webcam**, a **red apple**, a **green apple**, and a **red tomato**.
+Θα χρειαστείς μια \*\* webcam\*\*, ένα **κόκκινο μήλο**, ένα **πράσινο μήλο** και μια **κόκκινη ντομάτα**.
 
-You will need to be able to download and save files to your computer.
+Θα χρειαστεί να έχεις τη δυνατότητα να κάνεις λήψη και αποθήκευση αρχείων στον υπολογιστή σου.
 
 \--- collapse ---
 
 ---
 
-## title: Where are my images stored?
+## title: Πού αποθηκεύονται οι εικόνες μου;
 
-- This project uses a technology called 'machine learning'. Machine learning systems are trained using a large amount of data﻿.
-- This project does not require you to create an account or log in. For this project, the image examples you use to make the model are only stored temporarily in your browser (only on your machine).
-- No images from your webcam are sent to this website or any other website.
+- Αυτό το έργο χρησιμοποιεί μια τεχνολογία που ονομάζεται «μηχανική μάθηση». Τα συστήματα μηχανικής μάθησης εκπαιδεύονται χρησιμοποιώντας μεγάλο όγκο δεδομένων.
+- Αυτό το έργο δεν απαιτεί να δημιουργήσεις λογαριασμό ή να συνδεθείς. Γι' αυτό το έργο, τα παραδείγματα εικόνων που χρησιμοποιείς για να δημιουργήσεις το μοντέλο αποθηκεύονται μόνο προσωρινά στο πρόγραμμα περιήγησής σου (μόνο στον υπολογιστή σου).
+- Δεν αποστέλλονται εικόνες από την κάμερα web σε αυτόν τον ιστότοπο ή σε οποιονδήποτε άλλο ιστότοπο.
 
 \--- /collapse ---
 
 ## --- collapse ---
 
-## title: No YouTube? Download the videos!
+## title: Υπάρχει στο YouTube; Κάνε λήψη των βίντεο!
 
-You can [download all the videos for this project](https://rpf.io/p/en/apple-vs-tomato-go){:target="_blank"}.
+Μπορείς να [κατεβάσεις όλα τα βίντεο γι' αυτό το έργο](https://rpf.io/p/en/apple-vs-tomato-go){:target="_blank"}.
 
 \--- /collapse ---
 
@@ -32,8 +32,8 @@ You can [download all the videos for this project](https://rpf.io/p/en/apple-vs-
 
 ---
 
-## title: Licence
+## title: Άδεια
 
-We would like to thank [Samuel Cortinhas](https://www.kaggle.com/datasets/samuelcortinhas/apples-or-tomatoes-image-classification/data){:target="_blank"} for the concept and images for this project.
+Θα θέλαμε να ευχαριστήσουμε τον [Samuel Cortinhas](https://www.kaggle.com/datasets/samuelcortinhas/apples-or-tomatoes-image-classification/data){:target="_blank"} για την ιδέα και τις εικόνες γι' αυτό το έργο.
 
 \--- /collapse ---
