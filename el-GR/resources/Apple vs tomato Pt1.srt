@@ -1,24 +1,24 @@
 1
 00:00:02,880 --> 00:00:04,120
-Go to rpf.io/tm
+Μετάβαση στο rpf.io/tm
 
 2
 00:00:06,600 --> 00:00:09,560
-Rename the classes to 'Apple' and 'Tomato'
+Μετονόμασε τις κλάσεις σε "Apple" και "Tomato"
 
 3
 00:00:09,560 --> 00:00:11,720
-Download the starter training images
+Κατέβασε τις αρχικές εικόνες για την εκπαίδευση
 
 4
 00:00:11,720 --> 00:00:15,280
-Unzip the folder
+Αποσυμπίεσε τον φάκελο
 
 5
 00:00:15,280 --> 00:00:18,480
-Upload the green apple images to the ‘Apple’ class
+Ανέβασε τις εικόνες με τα πράσινα μήλα στην κλάση 'Apple'
 
 6
 00:00:18,480 --> 00:00:24,520
-Upload the red tomato images to the ‘Tomato’ class
+Ανέβασε τις εικόνες με τις κόκκινες τομάτες στην κλάση 'Tomato'
 
