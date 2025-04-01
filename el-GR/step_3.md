@@ -1,6 +1,6 @@
-## Train and test
+## Εκπαίδευση και δοκιμή
 
-Train a model to detect what you are holding.
+Εκπαίδευσε ένα μοντέλο που θα ανιχνεύει τι κρατάς.
 
 <html>
   <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
@@ -8,32 +8,32 @@ Train a model to detect what you are holding.
   </div>
 </html>
 
-### Train the model
+### Εκπαίδευση του μοντέλου
 
 \--- task ---
 
-Click on **Train Model**.
+Κάνε κλικ στο **Train Model**.
 
-**Note:** Be patient! It can take 10 to 20 seconds to complete.
+**Σημείωση:** Υπομονή! Μπορεί να χρειαστούν 10 έως 20 δευτερόλεπτα για να ολοκληρωθεί.
 
-![The 'Train Model' button.](images/train_model.png)
+![Το κουμπί 'Train Model'.](images/train_model.png)
 
 \--- /task ---
 
-### Test the model
+### Έλεγχος του μοντέλου
 
 \--- task ---
 
-Hold up your **green** apple to your webcam.
+Κράτα ψηλά το **πράσινο μήλο** προς την κάμερα web.
 
-The model should produce a prediction with a **high confidence score** that it is an **apple**.
+Το μοντέλο θα πρέπει να παραγάγει μια πρόβλεψη με **υψηλή βαθμολογία εμπιστοσύνης** ότι είναι **μήλο**.
 
 \--- /task ---
 
 \--- task ---
 
-Hold up your **red** tomato to your webcam.
+Κράτα ψηλά την **κόκκινη** ντομάτα προς την κάμερα web.
 
-The model should produce a prediction with a **high confidence score** that it is a **tomato**.
+Το μοντέλο θα πρέπει να παραγάγει μια πρόβλεψη με **υψηλή βαθμολογία εμπιστοσύνης** ότι είναι **ντομάτα**.
 
 \--- /task ---
