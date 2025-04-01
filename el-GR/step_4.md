@@ -1,6 +1,6 @@
-## A different apple
+## Ένα διαφορετικό μήλο
 
-Use a different apple to test the model.
+Χρησιμοποίησε ένα διαφορετικό μήλο για να δοκιμάσεις το μοντέλο.
 
 <html>
   <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
@@ -10,10 +10,10 @@ Use a different apple to test the model.
 
 \--- task ---
 
-Hold up your **red** apple to your webcam to test the model.
+Κράτησε το **κόκκινο** μήλο στην κάμερα web για να δοκιμάσεις το μοντέλο.
 
-The model should **not** produce a prediction with a high confidence score that it is an apple.
+Το μοντέλο **δεν** θα πρέπει να παραγάγει μια πρόβλεψη με υψηλή βαθμολογία εμπιστοσύνης ότι είναι μήλο.
 
-It will probably produce a prediction that it is a **tomato**!
+Πιθανότατα θα προβλέψει ότι πρόκειται για **ντομάτα**!
 
 \--- /task ---
