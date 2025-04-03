@@ -1,28 +1,28 @@
 1
 00:00:03,320 --> 00:00:06,840
-Train the model
+Addestra il modello
 
 2
 00:00:06,840 --> 00:00:10,440
-Hold up your green apple to your webcam
+Tieni la tua mela verde di fronte alla webcam
 
 3
 00:00:10,440 --> 00:00:12,440
-The model should make a confident prediction
+Il modello dovrebbe fare una previsione sicura
 
 4
 00:00:12,440 --> 00:00:14,360
-that it is an apple
+che si tratta di una mela
 
 5
 00:00:14,360 --> 00:00:17,320
-Hold up your red tomato to your webcam
+Tieni il tuo pomodoro rosso davanti alla webcam
 
 6
 00:00:17,320 --> 00:00:19,120
-The model should make a confident prediction
+Il modello dovrebbe fare una previsione sicura
 
 7
 00:00:19,120 --> 00:00:24,120
-that it is a tomato
+che si tratta di un pomodoro
 
