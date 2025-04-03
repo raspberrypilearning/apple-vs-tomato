@@ -6,68 +6,68 @@
   </div>
 </html>
 
-The training data is biased, as it only includes green apples.
+I dati di allenamento sono distorti, in quanto includono solo mele verdi.
 
-To reduce the bias, you need to add extra examples of apples to the 'Apple' class.
+Per ridurre la distorsione, è necessario aggiungere ulteriori esempi di mele alla classe 'Mela'.
 
 \--- task ---
 
-Download a [folder of more images of apples](https://drive.google.com/drive/folders/1OIuoG7go72c7QririIpykJ4tW-arrtfA){:target="_blank"}.
+Scarica una [cartella con altre immagini di mele](https://drive.google.com/drive/folders/1OIuoG7go72c7QririIpykJ4tW-arrtfA){:target="_blank"}.
 
 \--- /task ---
 
 \--- task ---
 
-Unzip the new folder.
+Decomprimi la nuova cartella.
 
 \--- /task ---
 
 \--- task ---
 
-In the 'Apple' class, add some samples of images from one of the folders you have just downloaded.
+Nella classe 'Mela', aggiungi alcuni esempi di immagini da una delle cartelle che hai appena scaricato.
 
-Choose images that look most like your **red** apple.
+Scegli delle immagini che assomigliano di più alla tua mela **rossa**.
 
-**Tip:** You can also use your webcam to take images of your red apple.
+**Suggerimento:** Puoi anche usare la webcam per scattare foto della tua mela rossa.
 
-**Tip:** You only need to add a few extra samples to your 'Apple' class.
-
-\--- /task ---
-
-### Train the model again
-
-\--- task ---
-
-Click on **Train Model**.
-
-![The 'Train Model' button.](images/train_model.png)
+**Suggerimento:** Basta che tu aggiunga solo alcuni campioni aggiuntivi alla classe 'Mela'.
 
 \--- /task ---
 
-When the model is trained, the preview panel will open.
+### Addestra ancora il modello
 
 \--- task ---
 
-Hold up your **red** apple to your webcam to test the model again.
+Clicca su **Addestra il modello**.
 
-The model should produce a prediction with a **higher confidence score** that it is an **apple**.
+![Il pulsante 'Addestra modello'.](images/train_model.png)
+
+\--- /task ---
+
+Una volta addestrato il modello, si aprirà il pannello di anteprima.
+
+\--- task ---
+
+Tieni la tua mela **rossa** davanti alla webcam per testare il modello di nuovo.
+
+Il modello dovrebbe produrre una previsione con un **punteggio di sicurezza elevato** che si tratta di una **mela**.
 
 \--- /task ---
 
 \--- task ---
 
-Hold up your tomato to your webcam.
+Tieni il tuo pomodoro davanti alla webcam.
 
-The model might produce a prediction with a **lower confidence score** that it is a **tomato**.
+Il modello potrebbe produrre una previsione con un **punteggio di sicurezza elevato** che si tratta di un **pomodoro**.
 
-This is because you have added training data to the 'Apple' class of images that look more like tomatoes.
+Questo perché hai aggiunto dei dati di addestramento alla classe di immagini 'Mela' che assomigliano di più ai pomodori.
 
 \--- /task ---
 
 ## --- collapse ---
 
-## title: Note to educators
+## title: Nota per gli educatori
 
-You may choose to introduce learners to the concept of the ethical bias that can result from the use of biased training data.
+Si può scegliere di spiegare agli studenti il concetto di pregiudizio etico che può derivare dall'uso di dati di addestramento distorti.
 
 \--- /collapse ---
