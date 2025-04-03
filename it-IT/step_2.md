@@ -53,34 +53,34 @@ Decomprimi la cartella.
 
 **ChromeOS**
 
-- Open Files.
-- Double-click on the zip file.
-- On the left, you will find the zip file.
-- Drag and drop the files/folders into a new folder of your choice.
+- Apri File.
+- Fai doppio clic sul file zip.
+- Sulla sinistra, troverai il file zip.
+- Trascina e rilascia i file/le cartelle nella nuova cartella di tua scelta.
 
 **macOS**
 
 - Apri la cartella 'Download'.
-- Double-click on the zip file.
-- A new folder will be created that contains the decompressed files/folders.
+- Fai doppio clic sul file zip.
+- Verrà creata una nuova cartella contenente i file/cartelle decompressi.
 
 **Linux**
 
 - Apri la cartella 'Download'.
-- Right-click on the zip file and select **Extract Here**.
+- Fai clic con il pulsante destro del mouse sul file zip e seleziona **Estrai tutto**.
 
 \--- /collapse ---
 
-### Add sample images
+### Aggiungi immagini di esempio
 
 \--- task ---
 
-Upload the green **apple** images to the 'Apple' class.
+Carica le immagini della **mela** verde alla classe 'Mela'.
 
 \--- /task ---
 
 \--- task ---
 
-Upload the red **tomato** images to the 'Tomato' class.
+Carica le immagini del **pomodoro** rosso alla classe 'Pomodoro'.
 
 \--- /task ---
