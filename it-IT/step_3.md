@@ -1,6 +1,6 @@
 ## Addestra e testa
 
-Train a model to detect what you are holding.
+Addestra un modello a rilevare ciò che hai in mano.
 
 <html>
   <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
@@ -8,32 +8,32 @@ Train a model to detect what you are holding.
   </div>
 </html>
 
-### Train the model
+### Addestra il modello
 
 \--- task ---
 
-Click on **Train Model**.
+Clicca su **Addestra il modello**.
 
-**Note:** Be patient! It can take 10 to 20 seconds to complete.
+**Nota:** Abbi pazienza! Il processo può richiedere dai 10 ai 20 secondi.
 
-![The 'Train Model' button.](images/train_model.png)
+![Il pulsante 'Addestra modello'.](images/train_model.png)
 
 \--- /task ---
 
-### Test the model
+### Testa il modello
 
 \--- task ---
 
-Hold up your **green** apple to your webcam.
+Tieni la tua mela **verde** di fronte alla webcam.
 
-The model should produce a prediction with a **high confidence score** that it is an **apple**.
+Il modello dovrebbe produrre una previsione con un **punteggio di sicurezza elevato** che si tratta di una **mela**.
 
 \--- /task ---
 
 \--- task ---
 
-Hold up your **red** tomato to your webcam.
+Tieni il tuo pomodoro **rosso** davanti alla webcam.
 
-The model should produce a prediction with a **high confidence score** that it is a **tomato**.
+Il modello dovrebbe produrre una previsione con un **punteggio di sicurezza elevato** che si tratta di un **pomodoro**.
 
 \--- /task ---
