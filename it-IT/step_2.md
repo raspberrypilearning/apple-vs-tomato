@@ -1,6 +1,6 @@
-## Create a model
+## Crea un modello
 
-Add sample images of apples and tomatoes.
+Aggiungi immagini di esempio di mele e pomodori.
 
 <html>
   <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
@@ -8,35 +8,35 @@ Add sample images of apples and tomatoes.
   </div>
 </html>
 
-### Set up the model
+### Imposta il modello
 
 \--- task ---
 
-Open [Teachable Machine](https://rpf.io/tm){:target="_blank"}.
+Apri [Teachable Machine](https://rpf.io/tm){:target="_blank"}.
 
 \--- /task ---
 
 \--- task ---
 
-Rename `Class 1` to `Apple`.
+Rinomina `Classe 1` in `Mela`.
 
-Rename `Class 2` to `Tomato`.
-
-\--- /task ---
-
-### Download sample images
-
-\--- task ---
-
-Download the [folder containing the starter images](https://rpf.io/tams){:target="_blank"}.
+Rinomina `Classe 2` in `Pomodoro`.
 
 \--- /task ---
 
-The folder will download as a zip file.
+### Scarica le immagini di esempio
 
 \--- task ---
 
-Unzip the folder.
+Scarica la [cartella contenente le immagini iniziali](https://rpf.io/tams){:target="_blank"}.
+
+\--- /task ---
+
+La cartella verrà scaricata come file zip.
+
+\--- task ---
+
+Decomprimi la cartella.
 
 \--- /task ---
 
@@ -44,12 +44,12 @@ Unzip the folder.
 
 ---
 
-## title: How to unzip
+## title: Come decomprimere
 
 **Microsoft Windows**
 
-- Open your 'Downloads' folder.
-- Right-click on the zip file and select **Extract All**.
+- Apri la cartella 'Download'.
+- Fai clic con il pulsante destro del mouse sul file zip e seleziona **Estrai tutto**.
 
 **ChromeOS**
 
@@ -60,13 +60,13 @@ Unzip the folder.
 
 **macOS**
 
-- Open your 'Downloads' folder.
+- Apri la cartella 'Download'.
 - Double-click on the zip file.
 - A new folder will be created that contains the decompressed files/folders.
 
 **Linux**
 
-- Open your 'Downloads' folder.
+- Apri la cartella 'Download'.
 - Right-click on the zip file and select **Extract Here**.
 
 \--- /collapse ---
