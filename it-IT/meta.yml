@@ -1,26 +1,26 @@
-title: Apple vs tomato
+title: Mela VS pomodoro
 hero_image: images/banner.png
-description: Train a machine learning model to detect if you are holding an apple or a tomato, then improve it by including more diverse training data
+description: Addestra un modello di apprendimento automatico per rilevare se stai tenendo in mano una mela o un pomodoro, quindi miglioralo includendo dati di addestramento diversificati
 version: 4
 listed: true
 copyedit: false
 last_tested: "2024-07-19"
 steps:
   - 
-    title: What you will make
+    title: Che cosa farai
   - 
-    title: Create a model
+    title: Crea un modello
     completion:
       - engaged
   - 
-    title: Train and test
+    title: Addestra e testa
   - 
-    title: A different apple
+    title: Una mela diversa
   - 
-    title: Improve the model
+    title: Migliora il modello
     completion:
       - internal
   - 
-    title: What can you do now?
+    title: Cosa puoi fare ora?
     completion:
       - external
