@@ -1,24 +1,24 @@
 1
 00:00:02,880 --> 00:00:04,120
-Go to rpf.io/tm
+Vai su rpf.io/tm
 
 2
 00:00:06,600 --> 00:00:09,560
-Rename the classes to 'Apple' and 'Tomato'
+Rinomina le classi in 'Mela' e 'Pomodoro'
 
 3
 00:00:09,560 --> 00:00:11,720
-Download the starter training images
+Scarica le immagini di avvio di addestramento
 
 4
 00:00:11,720 --> 00:00:15,280
-Unzip the folder
+Decomprimi la cartella
 
 5
 00:00:15,280 --> 00:00:18,480
-Upload the green apple images to the ‘Apple’ class
+Carica le immagini delle mele verdi nella classe 'Mela'
 
 6
 00:00:18,480 --> 00:00:24,520
-Upload the red tomato images to the ‘Tomato’ class
+Carica le immagini dei pomodori rossi nella classe 'Pomodoro'
 
