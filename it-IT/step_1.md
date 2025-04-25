@@ -1,6 +1,6 @@
 ## Che cosa farai
 
-![L'immagine mostra un'interfaccia di apprendimento automatico di "Teachable Machine" in cui un modello viene addestrato a classificare immagini di mele e pomodori. Sulla sinistra, ci sono due sezione etichettate: "Mela" con 64 campioni di immagini e "Pomodoro" con 24 campioni di immagini. Ogni sezione mostra le miniature delle immagini corrispondenti a ciascuna classe (mele e pomodori) e offre la possibilità di caricare delle immagini tramite la webcam o tramite il pulsato di caricamento. Sulla destra, c'è una sezione "Anteprima" che mostra il risultato della classificazione del modello di un input della webcam, in cui una mano tiene un pomodoro. Sotto, la sezione "Output" mostra i risultati della classificazione: 16% per "Mela" e 84% per "Pomodoro", indicando che il modello ha identificato l'oggetto come un pomodoro
+![L'immagine mostra un'interfaccia di apprendimento automatico di "Teachable Machine" in cui un modello viene addestrato a classificare immagini di mele e pomodori. Sulla sinistra, ci sono due sezione etichettate: "Mela" con 64 campioni di immagini e "Pomodoro" con 24 campioni di immagini. Ogni sezione mostra le miniature delle immagini corrispondenti a ciascuna classe (mele e pomodori) e offre la possibilità di caricare delle immagini tramite la webcam o tramite il pulsante di caricamento. Sulla destra si trova la sezione "Anteprima", che mostra il risultato della classificazione del modello su un input della webcam, dove viene rilevata una mano che tiene un pomodoro. Sotto, la sezione "Output" mostra i risultati della classificazione: 16% per "Mela" e 84% per "Pomodoro", indicando che il modello ha classificato l'oggetto come un pomodoro.](images/wywm.png)
 
 Addestra un modello di apprendimento automatico a rilevare se stai tenendo in mano una mela o un pomodoro. Quindi, migliora il classificatore utilizzando dati di addestramento diversificati.
 
@@ -15,8 +15,8 @@ Dovrai poter scaricare e salvare i file sul tuo computer.
 ## title: Dove sono archiviate le mie immagini?
 
 - Questo progetto usa una tecnologia chiamata 'apprendimento automatico'. I sistemi di apprendimento automatico sono addestrati utilizzando una grande quantità di dati.
-- Per questo progetto non dovrai creare un account o effettuare l'accesso. Per questo progetto, gli esempi di immagini che usi per creare il modello vengono memorizzati solo temporaneamente nel browser (solo sul tuo computer).
-- Nessuna immagine proveniente dalla tua webcam verrà inviata a questo o ad altri siti web.
+- Per questo progetto non dovrai creare un account o effettuare l'accesso. Le immagini di esempio che utilizzi per addestrare il modello vengono memorizzate solo temporaneamente nel browser (solo sul tuo computer).
+- Le immagini della webcam non verranno inviate a questo o ad altri siti web.
 
 \--- /collapse ---
 
