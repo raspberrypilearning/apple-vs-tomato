@@ -56,11 +56,11 @@ che si tratta di un pomodoro
 
 15
 00:00:37,000 --> 00:00:39,000
-Questo è perché hai aggiunti dei dati di addestramento
+Questo succede perché hai aggiunto dei dati di addestramento
 
 16
 00:00:39,000 --> 00:00:40,240
-alla classe
+alla classe mela
 
 17
 00:00:40,240 --> 00:00:47,000
