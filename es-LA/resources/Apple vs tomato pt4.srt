@@ -24,7 +24,7 @@ Choose images that look most like your red apple
 
 7
 00:00:18,120 --> 00:00:21,720
-Train the model
+Crea palabras alienígenas
 
 8
 00:00:21,720 --> 00:00:24,440
