@@ -1,6 +1,6 @@
 1
 00:00:03,320 --> 00:00:06,840
-Train the model
+Crea palabras alienígenas
 
 2
 00:00:06,840 --> 00:00:10,440
