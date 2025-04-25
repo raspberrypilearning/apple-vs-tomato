@@ -7,7 +7,7 @@ copyedit: false
 last_tested: "2024-07-19"
 steps:
   - 
-    title: What you will make
+    title: Lo que harás
   - 
     title: Create a model
     completion:
@@ -21,6 +21,6 @@ steps:
     completion:
       - internal
   - 
-    title: What can you do now?
+    title: Mejora tu proyecto
     completion:
       - external
