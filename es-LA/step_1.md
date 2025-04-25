@@ -1,4 +1,4 @@
-## What you will make
+## Lo que harás
 
 ![The image shows a machine learning interface from "Teachable Machine" where a model is being trained to classify images of apples and tomatoes. On the left, there are two labeled sections: "Apple" with 64 image samples and "Tomato" with 24 image samples. Each section shows image thumbnails corresponding to each class (apples and tomatoes) and has options to upload images via webcam or upload button. On the right, there's a "Preview" section showing the result of the model's classification of a webcam input, where a hand is holding a tomato. Below this, the "Output" section displays the classification results: 16% for "Apple" and 84% for "Tomato," indicating the model has identified the object as a tomato.](images/wywm.png)
 
@@ -22,7 +22,7 @@ You will need to be able to download and save files to your computer.
 
 ## --- collapse ---
 
-## title: No YouTube? Download the videos!
+## title: ¿No tienes YouTube? ¡Descarga los vídeos!
 
 You can [download all the videos for this project](https://rpf.io/p/en/apple-vs-tomato-go){:target="_blank"}.
 
