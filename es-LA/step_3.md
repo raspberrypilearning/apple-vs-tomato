@@ -8,7 +8,7 @@ Train a model to detect what you are holding.
   </div>
 </html>
 
-### Train the model
+### Crea palabras alienígenas
 
 \--- task ---
 
