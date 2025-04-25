@@ -1,6 +1,6 @@
 ## Addestra e testa
 
-Addestra un modello a rilevare ciò che hai in mano.
+Addestra un modello per rilevare l’oggetto che stai tenendo in mano.
 
 <html>
   <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
@@ -12,11 +12,11 @@ Addestra un modello a rilevare ciò che hai in mano.
 
 \--- task ---
 
-Clicca su **Addestra il modello**.
+Fai clic su **Train Model**.
 
 **Nota:** Abbi pazienza! Il processo può richiedere dai 10 ai 20 secondi.
 
-![Il pulsante 'Addestra modello'.](images/train_model.png)
+![Il pulsante 'Train Model'.](images/train_model.png)
 
 \--- /task ---
 
@@ -26,7 +26,7 @@ Clicca su **Addestra il modello**.
 
 Tieni la tua mela **verde** di fronte alla webcam.
 
-Il modello dovrebbe produrre una previsione con un **punteggio di sicurezza elevato** che si tratta di una **mela**.
+Il modello dovrebbe produrre una previsione con un **punteggio di confidenza elevato** che indichi che si tratti di una **mela**.
 
 \--- /task ---
 
@@ -34,6 +34,6 @@ Il modello dovrebbe produrre una previsione con un **punteggio di sicurezza elev
 
 Tieni il tuo pomodoro **rosso** davanti alla webcam.
 
-Il modello dovrebbe produrre una previsione con un **punteggio di sicurezza elevato** che si tratta di un **pomodoro**.
+Il modello dovrebbe produrre una previsione con un **punteggio di confidenza elevato** che indichi che si tratti di un **pomodoro**.
 
 \--- /task ---
