@@ -1,0 +1,17 @@
+1
+00:00:02,920 --> 00:00:06,920
+Testa il modello tenendo
+la tua mela rossa di fronte alla webcam
+
+2
+00:00:06,920 --> 00:00:09,200
+Il modello non dovrebbe fare una previsione sicura
+
+3
+00:00:09,200 --> 00:00:10,680
+che si tratta di una mela
+
+4
+00:00:10,680 --> 00:00:17,200
+Probabilmente prevederà che si tratta di un pomodoro!
+

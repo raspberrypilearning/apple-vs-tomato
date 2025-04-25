@@ -1,0 +1,68 @@
+1
+00:00:03,360 --> 00:00:06,480
+Scarica una cartella di immagini di diverse mele
+
+2
+00:00:06,480 --> 00:00:08,000
+Decomprimi la cartella
+
+3
+00:00:08,000 --> 00:00:09,320
+Nella classe 'Mela'
+
+4
+00:00:09,320 --> 00:00:10,880
+aggiungi alcuni esempi di immagini
+
+5
+00:00:10,880 --> 00:00:14,240
+da una delle cartelle che hai appena scaricato
+
+6
+00:00:14,240 --> 00:00:18,120
+Scegli delle immagini che assomigliano di più alla tua mela rosa
+
+7
+00:00:18,120 --> 00:00:21,720
+Addestra il modello
+
+8
+00:00:21,720 --> 00:00:24,440
+Testa di nuovo il modello tenendo in mano la tua mela rossa
+
+9
+00:00:24,440 --> 00:00:26,040
+di fronte alla webcam
+
+10
+00:00:26,040 --> 00:00:28,160
+Il modello dovrebbe fare una previsione più sicura
+
+11
+00:00:28,160 --> 00:00:30,400
+che si tratta di una mela
+
+12
+00:00:30,400 --> 00:00:32,720
+Tieni il tuo pomodoro davanti alla webcam
+
+13
+00:00:32,720 --> 00:00:34,840
+Il modello potrebbe fare una previsione meno sicura
+
+14
+00:00:34,840 --> 00:00:37,000
+che si tratta di un pomodoro
+
+15
+00:00:37,000 --> 00:00:39,000
+Questo succede perché hai aggiunto dei dati di addestramento
+
+16
+00:00:39,000 --> 00:00:40,240
+alla classe mela
+
+17
+00:00:40,240 --> 00:00:47,000
+delle immagini di mele che assomigliano di più ai pomodori
+

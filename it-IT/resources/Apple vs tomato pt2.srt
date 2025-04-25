@@ -1,0 +1,28 @@
+1
+00:00:03,320 --> 00:00:06,840
+Addestra il modello
+
+2
+00:00:06,840 --> 00:00:10,440
+Tieni la tua mela verde di fronte alla webcam
+
+3
+00:00:10,440 --> 00:00:12,440
+Il modello dovrebbe fare una previsione sicura
+
+4
+00:00:12,440 --> 00:00:14,360
+che si tratta di una mela
+
+5
+00:00:14,360 --> 00:00:17,320
+Tieni il tuo pomodoro rosso davanti alla webcam
+
+6
+00:00:17,320 --> 00:00:19,120
+Il modello dovrebbe fare una previsione sicura
+
+7
+00:00:19,120 --> 00:00:24,120
+che si tratta di un pomodoro
+

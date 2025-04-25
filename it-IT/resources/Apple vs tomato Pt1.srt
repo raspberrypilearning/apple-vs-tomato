@@ -1,0 +1,24 @@
+1
+00:00:02,880 --> 00:00:04,120
+Vai su rpf.io/tm
+
+2
+00:00:06,600 --> 00:00:09,560
+Rinomina le classi in 'Mela' e 'Pomodoro'
+
+3
+00:00:09,560 --> 00:00:11,720
+Scarica le immagini di avvio di addestramento
+
+4
+00:00:11,720 --> 00:00:15,280
+Decomprimi la cartella
+
+5
+00:00:15,280 --> 00:00:18,480
+Carica le immagini delle mele verdi nella classe 'Mela'
+
+6
+00:00:18,480 --> 00:00:24,520
+Carica le immagini dei pomodori rossi nella classe 'Pomodoro'
+
