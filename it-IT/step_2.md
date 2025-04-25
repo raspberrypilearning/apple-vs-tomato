@@ -28,7 +28,7 @@ Rinomina `Classe 2` in `Pomodoro`.
 
 \--- task ---
 
-Scarica la [cartella contenente le immagini iniziali](https://rpf.io/tams){:target="_blank"}.
+Scarica la [cartella con le immagini iniziali](https://rpf.io/tams){:target="_blank"}.
 
 \--- /task ---
 
@@ -62,7 +62,7 @@ Decomprimi la cartella.
 
 - Apri la cartella 'Download'.
 - Fai doppio clic sul file zip.
-- Verrà creata una nuova cartella contenente i file/cartelle decompressi.
+- Verrà creata una nuova cartella con i file/le sottocartelle decompressi.
 
 **Linux**
 
