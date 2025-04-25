@@ -1,0 +1,68 @@
+1
+00:00:03,360 --> 00:00:06,480
+Download a folder of images of different apples
+
+2
+00:00:06,480 --> 00:00:08,000
+Unzip the folder
+
+3
+00:00:08,000 --> 00:00:09,320
+In the ‘Apple’ class
+
+4
+00:00:09,320 --> 00:00:10,880
+add some samples of images
+
+5
+00:00:10,880 --> 00:00:14,240
+from one of the folders you have just downloaded
+
+6
+00:00:14,240 --> 00:00:18,120
+Choose images that look most like your red apple
+
+7
+00:00:18,120 --> 00:00:21,720
+Crie palavras alienígenas
+
+8
+00:00:21,720 --> 00:00:24,440
+Test the model again by holding up your red apple
+
+9
+00:00:24,440 --> 00:00:26,040
+to your webcam
+
+10
+00:00:26,040 --> 00:00:28,160
+The model should make a more confident prediction
+
+11
+00:00:28,160 --> 00:00:30,400
+that it is an apple
+
+12
+00:00:30,400 --> 00:00:32,720
+Hold up your tomato to your webcam
+
+13
+00:00:32,720 --> 00:00:34,840
+The model might make a less confident prediction
+
+14
+00:00:34,840 --> 00:00:37,000
+that it is a tomato
+
+15
+00:00:37,000 --> 00:00:39,000
+This is because you have added training data
+
+16
+00:00:39,000 --> 00:00:40,240
+to the apple class
+
+17
+00:00:40,240 --> 00:00:47,000
+of images that look more like tomatoes
+
