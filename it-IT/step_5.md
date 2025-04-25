@@ -6,9 +6,9 @@
   </div>
 </html>
 
-I dati di allenamento sono distorti, in quanto includono solo mele verdi.
+I dati di allenamento non sono rappresentativi, in quanto includono solo mele verdi.
 
-Per ridurre la distorsione, è necessario aggiungere ulteriori esempi di mele alla classe 'Mela'.
+Per rendere il modello più accurato, è necessario aggiungere ulteriori esempi di mele alla classe 'Mela'.
 
 \--- task ---
 
@@ -30,17 +30,17 @@ Scegli delle immagini che assomigliano di più alla tua mela **rossa**.
 
 **Suggerimento:** Puoi anche usare la webcam per scattare foto della tua mela rossa.
 
-**Suggerimento:** Basta che tu aggiunga solo alcuni campioni aggiuntivi alla classe 'Mela'.
+**Suggerimento:** basta che tu aggiunga solo alcuni esempi aggiuntivi alla classe 'Mela'.
 
 \--- /task ---
 
-### Addestra ancora il modello
+### Addestra di nuovo il modello
 
 \--- task ---
 
-Clicca su **Addestra il modello**.
+Fai clic su **Train Model**.
 
-![Il pulsante 'Addestra modello'.](images/train_model.png)
+![Il pulsante 'Train Model'.](images/train_model.png)
 
 \--- /task ---
 
@@ -50,7 +50,7 @@ Una volta addestrato il modello, si aprirà il pannello di anteprima.
 
 Tieni la tua mela **rossa** davanti alla webcam per testare il modello di nuovo.
 
-Il modello dovrebbe produrre una previsione con un **punteggio di sicurezza elevato** che si tratta di una **mela**.
+Il modello dovrebbe produrre una previsione con un **punteggio di confidenza elevato** che indichi che si tratti di una **mela**.
 
 \--- /task ---
 
@@ -58,9 +58,9 @@ Il modello dovrebbe produrre una previsione con un **punteggio di sicurezza elev
 
 Tieni il tuo pomodoro davanti alla webcam.
 
-Il modello potrebbe produrre una previsione con un **punteggio di sicurezza elevato** che si tratta di un **pomodoro**.
+Il modello potrebbe produrre una previsione con un **punteggio di confidenza elevato** che indichi che si tratti di un **pomodoro**.
 
-Questo perché hai aggiunto dei dati di addestramento alla classe di immagini 'Mela' che assomigliano di più ai pomodori.
+Questo accade perché hai aggiunto ai dati di addestramento della classe 'Mela' immagini che somigliano di più ai pomodori.
 
 \--- /task ---
 
@@ -68,6 +68,6 @@ Questo perché hai aggiunto dei dati di addestramento alla classe di immagini 'M
 
 ## title: Nota per gli educatori
 
-Si può scegliere di spiegare agli studenti il concetto di pregiudizio etico che può derivare dall'uso di dati di addestramento distorti.
+Potresti cogliere l’occasione per parlare del bias etico, che può derivare dall'uso di dati di addestramento non rappresentativi.
 
 \--- /collapse ---
