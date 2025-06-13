@@ -1,6 +1,6 @@
-## Train and test
+## Trainieren und testen
 
-Train a model to detect what you are holding.
+Trainiere ein Modell, um zu erkennen, was du in der Hand hast.
 
 <html>
   <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
@@ -8,32 +8,32 @@ Train a model to detect what you are holding.
   </div>
 </html>
 
-### Erstelle außerirdische Wörter
+### Modell trainieren
 
 \--- task ---
 
-Click on **Train Model**.
+Klicke auf **Modell trainieren**.
 
-**Note:** Be patient! It can take 10 to 20 seconds to complete.
+**Hinweis:** Hab etwas Geduld! Der Vorgang kann 10 bis 20 Sekunden dauern.
 
-![The 'Train Model' button.](images/train_model.png)
+![Die Schaltfläche „Modell trainieren“.](images/train_model.png)
 
 \--- /task ---
 
-### Test the model
+### Modell testen
 
 \--- task ---
 
-Hold up your **green** apple to your webcam.
+Halte deinen **grünen** Apfel vor deine Webcam.
 
-The model should produce a prediction with a **high confidence score** that it is an **apple**.
+Das Modell sollte die Vorhersage mit einer **hohen Sicherheit** treffen, dass es sich um einen **Apfel** handelt.
 
 \--- /task ---
 
 \--- task ---
 
-Hold up your **red** tomato to your webcam.
+Halte deine **rote** Tomate vor deine Webcam.
 
-The model should produce a prediction with a **high confidence score** that it is a **tomato**.
+Das Modell sollte die Vorhersage mit einer **hohen Sicherheit** treffen, dass es sich um eine **Tomate** handelt.
 
 \--- /task ---
