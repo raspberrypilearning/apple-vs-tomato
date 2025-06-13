@@ -1,4 +1,4 @@
-## Improve the model
+## Verbessere das Modell
 
 <html>
   <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
@@ -6,68 +6,68 @@
   </div>
 </html>
 
-The training data is biased, as it only includes green apples.
+Die Trainingsdaten sind einseitig, weil sie nur grüne Äpfel enthalten.
 
-To reduce the bias, you need to add extra examples of apples to the 'Apple' class.
+Um die Einseitigkeit zu reduzieren, musst du der Klasse „Apple“ zusätzliche Beispiele von Äpfeln hinzufügen.
 
 \--- task ---
 
-Download a [folder of more images of apples](https://drive.google.com/drive/folders/1OIuoG7go72c7QririIpykJ4tW-arrtfA){:target="_blank"}.
+Lade einen [Ordner mit weiteren Bildern von Äpfeln](https://drive.google.com/drive/folders/1OIuoG7go72c7QririIpykJ4tW-arrtfA){:target="_blank"} herunter.
 
 \--- /task ---
 
 \--- task ---
 
-Unzip the new folder.
+Entpacke den neuen Ordner.
 
 \--- /task ---
 
 \--- task ---
 
-In the 'Apple' class, add some samples of images from one of the folders you have just downloaded.
+Füge der Klasse „Apple“ einige Beispielbilder aus einem der Ordner hinzu, die du gerade heruntergeladen hast.
 
-Choose images that look most like your **red** apple.
+Wähle Bilder aus, die deinem **roten** Apfel am ähnlichsten sehen.
 
-**Tip:** You can also use your webcam to take images of your red apple.
+**Tipp:** Du kannst auch mit deiner Webcam Bilder von deinem roten Apfel machen.
 
-**Tip:** You only need to add a few extra samples to your 'Apple' class.
-
-\--- /task ---
-
-### Train the model again
-
-\--- task ---
-
-Click on **Train Model**.
-
-![The 'Train Model' button.](images/train_model.png)
+**Tipp:** Du musst nur ein paar zusätzliche Beispiele zu deiner 'Apfel'-Klasse hinzufügen.
 
 \--- /task ---
 
-When the model is trained, the preview panel will open.
+### Trainiere das Modell erneut
 
 \--- task ---
 
-Hold up your **red** apple to your webcam to test the model again.
+Klicke auf **Modell trainieren**.
 
-The model should produce a prediction with a **higher confidence score** that it is an **apple**.
+![Die Schaltfläche „Modell trainieren“.](images/train_model.png)
+
+\--- /task ---
+
+Wenn das Modell trainiert ist, wird das Vorschaufenster geöffnet.
+
+\--- task ---
+
+Halte deinen **roten** Apfel vor deine Webcam, um das Modell erneut zu testen.
+
+Das Modell sollte die Vorhersage mit einer **höheren Sicherheit** treffen, dass es sich um einen **Apfel** handelt.
 
 \--- /task ---
 
 \--- task ---
 
-Hold up your tomato to your webcam.
+Halte deine Tomate vor deine Webcam.
 
-The model might produce a prediction with a **lower confidence score** that it is a **tomato**.
+Das Modell könnte die Vorhersage mit einer **niedrigeren Sicherheit** treffen, dass es sich um eine **Tomate** handelt.
 
-This is because you have added training data to the 'Apple' class of images that look more like tomatoes.
+Dies liegt daran, dass Du der Bildklasse „Apple“ Trainingsdaten hinzugefügt hast, die eher wie Tomaten aussehen.
 
 \--- /task ---
 
 ## --- collapse ---
 
-## title: Note to educators
+## Titel: Hinweis für Lehrer
 
-You may choose to introduce learners to the concept of the ethical bias that can result from the use of biased training data.
+Sie könnten den Lernenden das Konzept der ethischen Voreingenommenheit näherbringen, die sich aus der Verwendung verzerrter Trainingsdaten ergeben kann.
 
 \--- /collapse ---
