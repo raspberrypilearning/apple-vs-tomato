@@ -1,17 +1,16 @@
 1
 00:00:02,920 --> 00:00:06,920
-Test the model by holding up 
-your red apple to your webcam
+Teste das Modell, indem du deinen roten Apfel vor deine Webcam hältst
 
 2
 00:00:06,920 --> 00:00:09,200
-The model should not make a confident prediction
+Das Modell sollte keine sichere Vorhersage treffen
 
 3
 00:00:09,200 --> 00:00:10,680
-that it is an apple
+dass es ein Apfel ist
 
 4
 00:00:10,680 --> 00:00:17,200
-It will probably predict that it is a tomato!
+Es wird wahrscheinlich vermuten, dass es eine Tomate ist!
 
