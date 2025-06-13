@@ -1,24 +1,24 @@
 1
 00:00:02,880 --> 00:00:04,120
-Go to rpf.io/tm
+Acesse o link rpf.io/tm
 
 2
 00:00:06,600 --> 00:00:09,560
-Rename the classes to 'Apple' and 'Tomato'
+Renomeie as classes para 'Maçã' e 'Tomate'
 
 3
 00:00:09,560 --> 00:00:11,720
-Download the starter training images
+Faça o download das imagens do treinamento inicial
 
 4
 00:00:11,720 --> 00:00:15,280
-Unzip the folder
+Descompacte a pasta
 
 5
 00:00:15,280 --> 00:00:18,480
-Upload the green apple images to the ‘Apple’ class
+Envie as imagens de maçã verde para a classe 'Maçã'
 
 6
 00:00:18,480 --> 00:00:24,520
-Upload the red tomato images to the ‘Tomato’ class
+Envie as imagens de tomate-vermelho para a classe 'Tomate'
 
