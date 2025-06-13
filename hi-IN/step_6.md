@@ -1,3 +1,3 @@
 ## अब आप क्या कर सकते हैं?
 
-There are lots of other machine learning and AI projects in the [artificial intelligence](https://projects.raspberrypi.org/en/pathways/ai-toolkit) toolkit.
+[कृत्रिम बुद्धिमत्ता](https://projects.raspberrypi.org/en/pathways/ai-toolkit) टूलकिट में कई अन्य मशीन लर्निंग और एआई परियोजनाएं हैं।
