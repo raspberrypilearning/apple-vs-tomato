@@ -1,22 +1,22 @@
 ## O que você vai fazer
 
-![The image shows a machine learning interface from "Teachable Machine" where a model is being trained to classify images of apples and tomatoes. On the left, there are two labeled sections: "Apple" with 64 image samples and "Tomato" with 24 image samples. Each section shows image thumbnails corresponding to each class (apples and tomatoes) and has options to upload images via webcam or upload button. On the right, there's a "Preview" section showing the result of the model's classification of a webcam input, where a hand is holding a tomato. Below this, the "Output" section displays the classification results: 16% for "Apple" and 84% for "Tomato," indicating the model has identified the object as a tomato.](images/wywm.png)
+![A imagem mostra uma interface de aprendizado de máquina a partir de "Máquina Ensinável" onde um modelo está sendo treinado para classificar imagens de maçãs e tomates. À esquerda, há duas seções rotuladas: "Maçã" com 64 amostras de imagens e "Tomate" com 24 amostras de imagens. Cada seção mostra miniaturas de imagens correspondentes a cada classe (maçãs e tomates) e tem opções para enviar imagens via câmera ou botão de upload. À direita, há uma seção "Pré-visualização" mostrando o resultado da classificação do modelo via entrada pela câmera, onde uma mão está segurando um tomate. Abaixo disso, a seção "Resultado" exibe os resultados da classificação: 16% para "Maçã" e 84% para "Tomate", indicando que o modelo identificou o objeto como um tomate.](images/wywm.png)
 
-Train a machine learning model to detect if you are holding an apple or a tomato. Then, improve the classifier by using more diverse training data.
+Treine um modelo de aprendizado de máquina para detectar se você está segurando uma maçã ou um tomate. Em seguida, melhore o classificador usando dados de treinamento mais diversos.
 
-You will need a **webcam**, a **red apple**, a **green apple**, and a **red tomato**.
+Você precisará de uma **câmera**, uma **maçã vermelha**, uma **maçã verde** e um **tomate vermelho**.
 
-You will need to be able to download and save files to your computer.
+Você precisará fazer o download e salvar arquivos no seu computador.
 
 \--- collapse ---
 
 ---
 
-## title: Where are my images stored?
+## título: Onde minhas imagens estão armazenadas?
 
-- This project uses a technology called 'machine learning'. Machine learning systems are trained using a large amount of data﻿.
-- This project does not require you to create an account or log in. For this project, the image examples you use to make the model are only stored temporarily in your browser (only on your machine).
-- No images from your webcam are sent to this website or any other website.
+- Este projeto usa uma tecnologia chamada "aprendizado de máquina". Os sistemas de aprendizado de máquina são treinados usando uma grande quantidade de dados.
+- Este projeto não exige que você crie uma conta ou faça login. Para este projeto, os exemplos de imagem que você usa para criar o modelo são armazenados apenas temporariamente no seu navegador (somente na sua máquina).
+- Nenhuma imagem da sua câmera é enviada para este site ou qualquer outro site.
 
 \--- /collapse ---
 
@@ -24,7 +24,7 @@ You will need to be able to download and save files to your computer.
 
 ## Título: Sem YouTube? Baixe os vídeos!
 
-You can [download all the videos for this project](https://rpf.io/p/en/apple-vs-tomato-go){:target="_blank"}.
+Você pode [baixar todos os vídeos deste projeto](https://rpf.io/p/en/apple-vs-tomato-go){:target="_blank"}.
 
 \--- /collapse ---
 
@@ -32,8 +32,8 @@ You can [download all the videos for this project](https://rpf.io/p/en/apple-vs-
 
 ---
 
-## title: Licence
+## título: Licença
 
-We would like to thank [Samuel Cortinhas](https://www.kaggle.com/datasets/samuelcortinhas/apples-or-tomatoes-image-classification/data){:target="_blank"} for the concept and images for this project.
+Gostaríamos de agradecer a [Samuel Cortinhas](https://www.kaggle.com/datasets/samuelcortinhas/apples-or-tomatoes-image-classification/data){:target="_blank"} pelo conceito e imagens para este projeto.
 
 \--- /collapse ---
