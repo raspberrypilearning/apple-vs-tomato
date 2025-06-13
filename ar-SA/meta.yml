@@ -1,26 +1,26 @@
-title: Apple vs tomato
+title: تفاح أم طماطم
 hero_image: images/banner.png
-description: Train a machine learning model to detect if you are holding an apple or a tomato, then improve it by including more diverse training data
+description: قم بتدريب نموذج التعلم الآلي لاكتشاف ما إذا كنت تحمل تفاحة أم طماطم، ثم قم بتحسينه من خلال تضمين بيانات تدريب أكثر تنوعًا
 version: 4
 listed: true
 copyedit: false
 last_tested: "2024-07-19"
 steps:
   - 
-    title: What you will make
+    title: ماذا ستصنع
   - 
-    title: Create a model
+    title: لإنشاء النموذج
     completion:
       - engaged
   - 
-    title: Train and test
+    title: درب واختبر
   - 
-    title: A different apple
+    title: تفاحة مختلفة
   - 
-    title: Improve the model
+    title: حسن النموذج
     completion:
       - internal
   - 
-    title: What can you do now?
+    title: ما التالي؟
     completion:
       - external
