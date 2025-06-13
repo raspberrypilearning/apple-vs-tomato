@@ -1,30 +1,30 @@
 ## Das wirst du machen
 
-![The image shows a machine learning interface from "Teachable Machine" where a model is being trained to classify images of apples and tomatoes. On the left, there are two labeled sections: "Apple" with 64 image samples and "Tomato" with 24 image samples. Each section shows image thumbnails corresponding to each class (apples and tomatoes) and has options to upload images via webcam or upload button. On the right, there's a "Preview" section showing the result of the model's classification of a webcam input, where a hand is holding a tomato. Below this, the "Output" section displays the classification results: 16% for "Apple" and 84% for "Tomato," indicating the model has identified the object as a tomato.](images/wywm.png)
+![Das Bild zeigt eine Machine-Learning-Schnittstelle von „Teachable Machine“, in der ein Modell trainiert wird, um Bilder von Äpfeln und Tomaten zu erkennen. Auf der linken Seite gibt es zwei beschriftete Abschnitte: „Apfel“ mit 64 Bildbeispielen und „Tomate“ mit 24 Bildbeispielen. Jeder Abschnitt zeigt Miniaturansichten der Bilder, die der jeweiligen Klasse (Äpfel und Tomaten) entspricht, und bietet die Möglichkeit, Bilder per Webcam oder Upload-Button hochzuladen. Auf der rechten Seite befindet sich ein "Vorschau"-Abschnitt, der das Ergebnis der Klassifizierung einer Webcam-Aufnahme durch das Modell zeigt, bei dem eine Hand eine Tomate hält. Darunter werden im Abschnitt „Ausgabe“ die Erkennungsergebnisse angezeigt: 16 % für „Apfel“ und 84 % für „Tomate“, was darauf hinweist, dass das Modell das Objekt als Tomate identifiziert hat.](images/wywm.png)
 
-Train a machine learning model to detect if you are holding an apple or a tomato. Then, improve the classifier by using more diverse training data.
+Trainiere ein Machine-Learning-Modell, um zu erkennen, ob Du einen Apfel oder eine Tomate hältst. Verbessere anschließend den Klassifikator, indem du vielfältigere Trainingsdaten verwendest.
 
-You will need a **webcam**, a **red apple**, a **green apple**, and a **red tomato**.
+Du benötigst eine **Webcam**, einen **roten Apfel**, einen **grünen Apfel** und eine **rote Tomate**.
 
-You will need to be able to download and save files to your computer.
+Du musst in der Lage sein, Dateien herunterzuladen und auf deinem Computer zu speichern.
 
 \--- collapse ---
 
 ---
 
-## title: Where are my images stored?
+## Titel: Wo werden meine Bilder gespeichert?
 
-- This project uses a technology called 'machine learning'. Machine learning systems are trained using a large amount of data﻿.
-- This project does not require you to create an account or log in. For this project, the image examples you use to make the model are only stored temporarily in your browser (only on your machine).
-- No images from your webcam are sent to this website or any other website.
+- Dieses Projekt verwendet eine Technologie namens „Maschinelles Lernen“ (Machine Learning). Systeme für maschinelles Lernen werden mithilfe großer Datenmengen trainiert.
+- Für dieses Projekt ist weder die Erstellung eines Kontos noch eine Anmeldung erforderlich. Für dieses Projekt werden die Bildbeispiele, die du zum Erstellen des Modells verwendest, nur vorübergehend in deinem Browser (nur auf deinem Computer) gespeichert.
+- Es werden keine Bilder von deiner Webcam an diese oder eine andere Websites gesendet.
 
 \--- /collapse ---
 
 ## --- collapse ---
 
-## title: Kein YouTube? Video downloaden!
+## title: Kein YouTube? Videos herunterladen!
 
-You can [download all the videos for this project](https://rpf.io/p/en/apple-vs-tomato-go){:target="_blank"}.
+Du kannst [alle Videos zu diesem Projekt herunterladen](https://rpf.io/p/en/apple-vs-tomato-go){:target="_blank"}.
 
 \--- /collapse ---
 
@@ -32,8 +32,8 @@ You can [download all the videos for this project](https://rpf.io/p/en/apple-vs-
 
 ---
 
-## title: Licence
+## Titel: Lizenz
 
-We would like to thank [Samuel Cortinhas](https://www.kaggle.com/datasets/samuelcortinhas/apples-or-tomatoes-image-classification/data){:target="_blank"} for the concept and images for this project.
+Wir möchten [Samuel Cortinhas](https://www.kaggle.com/datasets/samuelcortinhas/apples-or-tomatoes-image-classification/data){:target="_blank"} für das Konzept und die Bilder für dieses Projekt danken.
 
 \--- /collapse ---
