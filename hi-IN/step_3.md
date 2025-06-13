@@ -1,6 +1,6 @@
 ## प्रशिक्षण और परीक्षण
 
-Train a model to detect what you are holding.
+एक मॉडल को प्रशिक्षित करें कि वह यह पता लगा सके कि आपने क्या पकड़ा हुआ है।
 
 <html>
   <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
@@ -8,32 +8,32 @@ Train a model to detect what you are holding.
   </div>
 </html>
 
-### एलियन शब्द बनाएं
+### मॉडल को प्रशिक्षित करें
 
 \--- task ---
 
-Click on **Train Model**.
+**ट्रेन मॉडल** पर क्लिक करें।
 
-**Note:** Be patient! It can take 10 to 20 seconds to complete.
+**नोट:** धैर्य रखें! इसे पूरा होने में 10 से 20 सेकंड का समय लग सकता है।
 
-![The 'Train Model' button.](images/train_model.png)
+!['ट्रेन मॉडल' बटन.](images/train_model.png)
 
 \--- /task ---
 
-### Test the model
+### मॉडल का परीक्षण करें
 
 \--- task ---
 
-Hold up your **green** apple to your webcam.
+अपने हरे सेब को अपने वेबकैम के सामने रखें।
 
-The model should produce a prediction with a **high confidence score** that it is an **apple**.
+मॉडल को उच्च विश्वास स्कोर के साथ यह पूर्वानुमान प्रस्तुत करना चाहिए कि यह एक सेब है।
 
 \--- /task ---
 
 \--- task ---
 
-Hold up your **red** tomato to your webcam.
+अपने लाल टमाटर को अपने वेबकैम के सामने रखें।
 
-The model should produce a prediction with a **high confidence score** that it is a **tomato**.
+मॉडल को **उच्च विश्वास स्कोर** के साथ यह पूर्वानुमान प्रस्तुत करना चाहिए कि यह एक **टमाटर** है।
 
 \--- /task ---
