@@ -6,68 +6,68 @@
   </div>
 </html>
 
-The training data is biased, as it only includes green apples.
+प्रशिक्षण डेटा पक्षपातपूर्ण है, क्योंकि इसमें केवल हरे सेब ही शामिल हैं।
 
-To reduce the bias, you need to add extra examples of apples to the 'Apple' class.
+पूर्वाग्रह को कम करने के लिए, आपको 'Apple' वर्ग में सेब के अतिरिक्त उदाहरण जोड़ने होंगे।
 
 \--- task ---
 
-Download a [folder of more images of apples](https://drive.google.com/drive/folders/1OIuoG7go72c7QririIpykJ4tW-arrtfA){:target="_blank"}.
+[सेब की अधिक छवियों का फ़ोल्डर](https://drive.google.com/drive/folders/1OIuoG7go72c7QririIpykJ4tW-arrtfA){:target="_blank"} डाउनलोड करें।
 
 \--- /task ---
 
 \--- task ---
 
-Unzip the new folder.
+नये फ़ोल्डर को अनज़िप करें.
 
 \--- /task ---
 
 \--- task ---
 
-In the 'Apple' class, add some samples of images from one of the folders you have just downloaded.
+'Apple' क्लास में, आपके द्वारा अभी डाउनलोड किए गए फ़ोल्डरों में से किसी एक से छवियों के कुछ नमूने जोड़ें।
 
-Choose images that look most like your **red** apple.
+ऐसी छवियाँ चुनें जो आपके लाल सेब की तरह दिखती हों।
 
-**Tip:** You can also use your webcam to take images of your red apple.
+**टिप:** आप अपने लाल सेब की तस्वीरें लेने के लिए अपने वेबकैम का भी उपयोग कर सकते हैं।
 
-**Tip:** You only need to add a few extra samples to your 'Apple' class.
-
-\--- /task ---
-
-### Train the model again
-
-\--- task ---
-
-Click on **Train Model**.
-
-![The 'Train Model' button.](images/train_model.png)
+**टिप:** आपको अपनी 'एप्पल' क्लास में केवल कुछ अतिरिक्त नमूने जोड़ने की आवश्यकता है।
 
 \--- /task ---
 
-When the model is trained, the preview panel will open.
+### मॉडल को पुनः प्रशिक्षित करें
 
 \--- task ---
 
-Hold up your **red** apple to your webcam to test the model again.
+**ट्रेन मॉडल** पर क्लिक करें।
 
-The model should produce a prediction with a **higher confidence score** that it is an **apple**.
+!['ट्रेन मॉडल' बटन.](images/train_model.png)
+
+\--- /task ---
+
+जब मॉडल प्रशिक्षित हो जाएगा, तो पूर्वावलोकन पैनल खुल जाएगा.
+
+\--- task ---
+
+मॉडल का पुनः परीक्षण करने के लिए अपने लाल सेब को अपने वेबकैम के सामने रखें।
+
+मॉडल को उच्च विश्वास स्कोर के साथ यह पूर्वानुमान प्रस्तुत करना चाहिए कि यह एक सेब है।
 
 \--- /task ---
 
 \--- task ---
 
-Hold up your tomato to your webcam.
+अपने टमाटर को अपने वेबकैम के सामने रखें।
 
-The model might produce a prediction with a **lower confidence score** that it is a **tomato**.
+मॉडल कम विश्वास स्कोर के साथ यह पूर्वानुमान दे सकता है कि यह टमाटर है।
 
-This is because you have added training data to the 'Apple' class of images that look more like tomatoes.
+ऐसा इसलिए है क्योंकि आपने 'एप्पल' वर्ग की छवियों में प्रशिक्षण डेटा जोड़ा है जो टमाटर की तरह अधिक दिखती हैं।
 
 \--- /task ---
 
 ## --- collapse ---
 
-## title: Note to educators
+## शीर्षक: शिक्षकों के लिए नोट
 
-You may choose to introduce learners to the concept of the ethical bias that can result from the use of biased training data.
+आप शिक्षार्थियों को नैतिक पूर्वाग्रह की अवधारणा से परिचित कराना चुन सकते हैं जो पक्षपातपूर्ण प्रशिक्षण डेटा के उपयोग से उत्पन्न हो सकता है।
 
 \--- /collapse ---
