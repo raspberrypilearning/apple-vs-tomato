@@ -1,4 +1,4 @@
-## Improve the model
+## Melhore o modelo
 
 <html>
   <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
@@ -6,68 +6,68 @@
   </div>
 </html>
 
-The training data is biased, as it only includes green apples.
+Os dados de formação são tendenciosos, visto que incluem apenas maçãs verdes.
 
-To reduce the bias, you need to add extra examples of apples to the 'Apple' class.
+Para reduzir o viés, você precisa adicionar exemplos extras de maçãs à classe 'Maçã'.
 
 \--- task ---
 
-Download a [folder of more images of apples](https://drive.google.com/drive/folders/1OIuoG7go72c7QririIpykJ4tW-arrtfA){:target="_blank"}.
+Baixe uma [pasta com mais imagens de maçãs](https://drive.google.com/drive/folders/1OIuoG7go72c7QririIpykJ4tW-arrtfA){:target="_blank"}.
 
 \--- /task ---
 
 \--- task ---
 
-Unzip the new folder.
+Descompacte a nova pasta.
 
 \--- /task ---
 
 \--- task ---
 
-In the 'Apple' class, add some samples of images from one of the folders you have just downloaded.
+Na classe 'Maçã', adicione alguns exemplos de imagens de uma das pastas que você acabou de baixar.
 
-Choose images that look most like your **red** apple.
+Escolha imagens que mais se pareçam com sua maçã **vermelha**.
 
-**Tip:** You can also use your webcam to take images of your red apple.
+**Dica:** Você também pode usar sua câmera para tirar fotos da sua maçã vermelha.
 
-**Tip:** You only need to add a few extra samples to your 'Apple' class.
-
-\--- /task ---
-
-### Train the model again
-
-\--- task ---
-
-Click on **Train Model**.
-
-![The 'Train Model' button.](images/train_model.png)
+**Dica:** você só precisa adicionar algumas amostras extras à sua classe 'Maçã'.
 
 \--- /task ---
 
-When the model is trained, the preview panel will open.
+### Treine o modelo novamente
 
 \--- task ---
 
-Hold up your **red** apple to your webcam to test the model again.
+Clique em **Treinar Modelo**.
 
-The model should produce a prediction with a **higher confidence score** that it is an **apple**.
+![Botão 'Treinar Modelo'.](images/train_model.png)
+
+\--- /task ---
+
+Quando o modelo é treinado, o painel de pré-visualização será aberto.
+
+\--- task ---
+
+Segure sua maçã **vermelha** em frente à sua câmera para testar o modelo novamente.
+
+O modelo deve produzir uma previsão com uma **alta pontuação de confiança** de que é uma **maçã**.
 
 \--- /task ---
 
 \--- task ---
 
-Hold up your tomato to your webcam.
+Segure um tomate em frente à sua câmera.
 
-The model might produce a prediction with a **lower confidence score** that it is a **tomato**.
+O modelo deve produzir uma previsão com um **ponto de confiança menor** que se trata de um **tomate**.
 
-This is because you have added training data to the 'Apple' class of images that look more like tomatoes.
+Isso ocorre porque você adicionou dados de treinamento à classe de imagens "Maçã" que se parecem mais com tomates.
 
 \--- /task ---
 
 ## --- collapse ---
 
-## title: Note to educators
+## título: Nota para educadores
 
-You may choose to introduce learners to the concept of the ethical bias that can result from the use of biased training data.
+Você pode optar por apresentar aos alunos o conceito de viés ético que pode resultar do uso de dados de treinamento tendenciosos.
 
 \--- /collapse ---
