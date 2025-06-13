@@ -1,6 +1,6 @@
-## A different apple
+## Uma maçã diferente
 
-Use a different apple to test the model.
+Use uma maçã diferente para testar o modelo.
 
 <html>
   <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
@@ -10,10 +10,10 @@ Use a different apple to test the model.
 
 \--- task ---
 
-Hold up your **red** apple to your webcam to test the model.
+Segure sua maçã **vermelha** na frente da sua câmera para testar o modelo.
 
-The model should **not** produce a prediction with a high confidence score that it is an apple.
+O modelo **não** deve produzir uma previsão com alta pontuação de confiança de que é uma maçã.
 
-It will probably produce a prediction that it is a **tomato**!
+Provavelmente produzirá uma previsão de que é um **tomate**!
 
 \--- /task ---
