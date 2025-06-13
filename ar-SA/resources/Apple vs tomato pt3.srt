@@ -1,17 +1,17 @@
 1
 00:00:02,920 --> 00:00:06,920
-Test the model by holding up 
-your red apple to your webcam
+اختبر النموذج عن طريق رفع
+التفاحة الحمراء أمام الكاميرا
 
 2
 00:00:06,920 --> 00:00:09,200
-The model should not make a confident prediction
+لا ينبغي للنموذج أن يوفر تنبؤا موثوقا
 
 3
 00:00:09,200 --> 00:00:10,680
-that it is an apple
+أنها تفاحة
 
 4
 00:00:10,680 --> 00:00:17,200
-It will probably predict that it is a tomato!
+من المحتمل أن يتنبأ بأنها طماطم!
 
