@@ -1,6 +1,6 @@
-## Train and test
+## درب واختبر
 
-Train a model to detect what you are holding.
+قم بتدريب نموذج لاكتشاف ما تحمله.
 
 <html>
   <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
@@ -8,32 +8,32 @@ Train a model to detect what you are holding.
   </div>
 </html>
 
-### Train the model
+### درب النموذج
 
 \--- task ---
 
-Click on **Train Model**.
+انقر فوق **درب النموذج**.
 
-**Note:** Be patient! It can take 10 to 20 seconds to complete.
+**ملاحظة:** كن صبوراً! قد يستغرق الأمر من 10 إلى 20 ثانية لإكماله.
 
-![The 'Train Model' button.](images/train_model.png)
+![زر "درب النموذج".](images/train_model.png)
 
 \--- /task ---
 
-### Test the model
+### اختبر النموذج
 
 \--- task ---
 
-Hold up your **green** apple to your webcam.
+ارفع تفاحتك الخضراء أمام الكاميرا.
 
-The model should produce a prediction with a **high confidence score** that it is an **apple**.
+يجب أن ينتج النموذج تنبؤات مع **درجة ثقة عالية** بأنها **تفاحة**.
 
 \--- /task ---
 
 \--- task ---
 
-Hold up your **red** tomato to your webcam.
+ارفع الطماطم **الحمراء** أمام الكاميرا.
 
-The model should produce a prediction with a **high confidence score** that it is a **tomato**.
+يجب أن ينتج النموذج تنبؤا بـ **درجة ثقة عالية** بأنه **الطماطم**.
 
 \--- /task ---
