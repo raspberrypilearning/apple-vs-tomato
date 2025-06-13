@@ -1,4 +1,4 @@
-## Improve the model
+## حسن النموذج
 
 <html>
   <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
@@ -6,68 +6,68 @@
   </div>
 </html>
 
-The training data is biased, as it only includes green apples.
+بيانات التدريب متحيزة، لأنها تتضمن التفاح الأخضر فقط.
 
-To reduce the bias, you need to add extra examples of apples to the 'Apple' class.
+لتقليل التحيز، تحتاج إلى إضافة أمثلة إضافية من التفاح إلى فئة "التفاح".
 
 \--- task ---
 
-Download a [folder of more images of apples](https://drive.google.com/drive/folders/1OIuoG7go72c7QririIpykJ4tW-arrtfA){:target="_blank"}.
+قم بتحميل [مجلد يحتوي على المزيد من صور التفاح](https://drive.google.com/drive/folders/1OIuoG7go72c7QririIpykJ4tW-arrtfA){:target="_blank"}.
 
 \--- /task ---
 
 \--- task ---
 
-Unzip the new folder.
+قم بفك ضغط المجلد.
 
 \--- /task ---
 
 \--- task ---
 
-In the 'Apple' class, add some samples of images from one of the folders you have just downloaded.
+في صف "تفاح"، أضف بعض العينات من الصور من أحد المجلدات التي قمت بتحميلها للتو.
 
-Choose images that look most like your **red** apple.
+اختر الصور التي تبدو أشبه بتفاحتك **الحمراء**.
 
-**Tip:** You can also use your webcam to take images of your red apple.
+**نصيحة:** يمكنك أيضًا استخدام كاميرا الويب الخاصة بك لالتقاط صور لتفاحتك الحمراء.
 
-**Tip:** You only need to add a few extra samples to your 'Apple' class.
-
-\--- /task ---
-
-### Train the model again
-
-\--- task ---
-
-Click on **Train Model**.
-
-![The 'Train Model' button.](images/train_model.png)
+**نصيحة:** كل ما عليك فعله هو إضافة بضع عينات إضافية إلى فئة "التفاح" الخاصة بك.
 
 \--- /task ---
 
-When the model is trained, the preview panel will open.
+### درب النموذج مجددا
 
 \--- task ---
 
-Hold up your **red** apple to your webcam to test the model again.
+انقر فوق **درب النموذج**.
 
-The model should produce a prediction with a **higher confidence score** that it is an **apple**.
+![زر "درب النموذج".](images/train_model.png)
+
+\--- /task ---
+
+عندما يتم تدريب النموذج، سيتم فتح لوحة المعاينة.
+
+\--- task ---
+
+امسك التفاحة **الحمراء** إلى الكاميرا لاختبار النموذج مجددا.
+
+يجب أن ينتج النموذج تنبؤات مع **درجة ثقة عالية** بأنها **تفاحة**.
 
 \--- /task ---
 
 \--- task ---
 
-Hold up your tomato to your webcam.
+ارفع الطماطم الحمراء أمام الكاميرا.
 
-The model might produce a prediction with a **lower confidence score** that it is a **tomato**.
+قد ينتج النموذج تنبؤات مع **درجة ثقة أدنى** بأنها **طماطم**.
 
-This is because you have added training data to the 'Apple' class of images that look more like tomatoes.
+يرجع ذلك إلى أنك قمت بإضافة بيانات التدريب إلى فئة "التفاح" من الصور التي تبدو أشبه بالطماطم.
 
 \--- /task ---
 
 ## --- collapse ---
 
-## title: Note to educators
+## العنوان: ملاحظة للمعلمين
 
-You may choose to introduce learners to the concept of the ethical bias that can result from the use of biased training data.
+يمكنك اختيار تعريف المتعلمين بمفهوم التحيز الأخلاقي الذي قد ينتج عن استخدام بيانات التدريب المتحيزة.
 
 \--- /collapse ---
