@@ -1,6 +1,6 @@
-## Create a model
+## Crie um modelo
 
-Add sample images of apples and tomatoes.
+Adicione imagens de exemplo de maçãs e tomates.
 
 <html>
   <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
@@ -8,35 +8,35 @@ Add sample images of apples and tomatoes.
   </div>
 </html>
 
-### Set up the model
+### Configurar o modelo
 
 \--- task ---
 
-Open [Teachable Machine](https://rpf.io/tm){:target="_blank"}.
+Abra [Teachable Machine](https://rpf.io/tm){:target="_blank"}.
 
 \--- /task ---
 
 \--- task ---
 
-Rename `Class 1` to `Apple`.
+Renomeie `Classe 1` para `Maçã`.
 
-Rename `Class 2` to `Tomato`.
-
-\--- /task ---
-
-### Download sample images
-
-\--- task ---
-
-Download the [folder containing the starter images](https://rpf.io/tams){:target="_blank"}.
+Renomeie `Classe 2` para `Tomate`.
 
 \--- /task ---
 
-The folder will download as a zip file.
+### Baixar imagens de exemplo
 
 \--- task ---
 
-Unzip the folder.
+Baixe a [pasta contendo as imagens iniciais](https://rpf.io/tams){:target="_blank"}.
+
+\--- /task ---
+
+A pasta será baixada como um arquivo zip.
+
+\--- task ---
+
+Descompacte a pasta.
 
 \--- /task ---
 
@@ -44,43 +44,43 @@ Unzip the folder.
 
 ---
 
-## title: How to unzip
+## título: Como descompactar
 
 **Microsoft Windows**
 
-- Open your 'Downloads' folder.
-- Right-click on the zip file and select **Extract All**.
+- Abra a pasta "Downloads".
+- Clique com o botão direito do mouse no arquivo zip e selecione **Extrair tudo**.
 
-**ChromeOS**
+**Chrome OS**
 
-- Open Files.
-- Double-click on the zip file.
-- On the left, you will find the zip file.
-- Drag and drop the files/folders into a new folder of your choice.
+- Abrir arquivos.
+- Clique duas vezes no arquivo zip.
+- À esquerda, você encontrará o arquivo zip.
+- Arraste e solte os arquivos/pastas em uma nova pasta de sua escolha.
 
 **macOS**
 
-- Open your 'Downloads' folder.
-- Double-click on the zip file.
-- A new folder will be created that contains the decompressed files/folders.
+- Abra a pasta "Downloads".
+- Clique duas vezes no arquivo zip.
+- Uma nova pasta será criada contendo os arquivos/pastas descompactados.
 
 **Linux**
 
-- Open your 'Downloads' folder.
-- Right-click on the zip file and select **Extract Here**.
+- Abra a pasta "Downloads".
+- Clique com o botão direito do mouse no arquivo zip e selecione **Extrair aqui**.
 
 \--- /collapse ---
 
-### Add sample images
+### Adicionar imagens de amostra
 
 \--- task ---
 
-Upload the green **apple** images to the 'Apple' class.
+Carregue as imagens da **maçã** verde para a classe 'Maçã'.
 
 \--- /task ---
 
 \--- task ---
 
-Upload the red **tomato** images to the 'Tomato' class.
+Carregue as imagens do **tomate** vermelho para a classe 'Tomate'.
 
 \--- /task ---
