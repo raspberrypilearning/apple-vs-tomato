@@ -1,6 +1,6 @@
-## Create a model
+## لإنشاء النموذج
 
-Add sample images of apples and tomatoes.
+إضافة عينة من صور التفاح والطماطم.
 
 <html>
   <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
@@ -8,35 +8,35 @@ Add sample images of apples and tomatoes.
   </div>
 </html>
 
-### Set up the model
+### إعداد النموذج
 
 \--- task ---
 
-Open [Teachable Machine](https://rpf.io/tm){:target="_blank"}.
+افتح [آلة التدريب](https://rpf.io/tm){:target="_blank"}.
 
 \--- /task ---
 
 \--- task ---
 
-Rename `Class 1` to `Apple`.
+قم بإعادة تسمية `Class 1` إلى `Apple`.
 
-Rename `Class 2` to `Tomato`.
-
-\--- /task ---
-
-### Download sample images
-
-\--- task ---
-
-Download the [folder containing the starter images](https://rpf.io/tams){:target="_blank"}.
+قم بإعادة تسمية `Class 2` إلى `Tomato`.
 
 \--- /task ---
 
-The folder will download as a zip file.
+### تحميل عيّنة من الصور
 
 \--- task ---
 
-Unzip the folder.
+تحميل [المجلد الذي يحتوي على الصور الاولى](https://rpf.io/tams){:target="_blank"}.
+
+\--- /task ---
+
+سيتم تحميل المجلد كملف مضغوط.
+
+\--- task ---
+
+قم بفك ضغط المجلد.
 
 \--- /task ---
 
@@ -44,43 +44,43 @@ Unzip the folder.
 
 ---
 
-## title: How to unzip
+## العنوان: كيفية فك الضغط
 
 **Microsoft Windows**
 
-- Open your 'Downloads' folder.
-- Right-click on the zip file and select **Extract All**.
+- افتح مجلد 'التنزيلات'.
+- انقر بالزر الأيمن على الملف المضغوط وحدد **استخراج الكل**.
 
-**ChromeOS**
+**نظام التشغيل Chrome**
 
-- Open Files.
-- Double-click on the zip file.
-- On the left, you will find the zip file.
-- Drag and drop the files/folders into a new folder of your choice.
+- فتح الملفات.
+- انقر نقرًا مزدوجًا فوق ملف zip.
+- على اليسار، ستجد ملف zip.
+- قم بسحب وإسقاط الملفات/المجلدات إلى مجلد جديد من اختيارك.
 
 **macOS**
 
-- Open your 'Downloads' folder.
-- Double-click on the zip file.
-- A new folder will be created that contains the decompressed files/folders.
+- افتح مجلد 'التنزيلات'.
+- انقر نقرًا مزدوجًا فوق ملف zip.
+- سيتم إنشاء مجلد جديد يحتوي على الملفات/المجلدات التي تم فك ضغطها.
 
 **Linux**
 
-- Open your 'Downloads' folder.
-- Right-click on the zip file and select **Extract Here**.
+- افتح مجلد 'التنزيلات'.
+- انقر بالزر الأيمن على الملف المضغوط وحدد **استخراج الكل**.
 
 \--- /collapse ---
 
-### Add sample images
+### إضافة عيّنة من الصور
 
 \--- task ---
 
-Upload the green **apple** images to the 'Apple' class.
+قم بتحميل صور التفاح الأخضر إلى فئة "التفاح"
 
 \--- /task ---
 
 \--- task ---
 
-Upload the red **tomato** images to the 'Tomato' class.
+قم بتحميل صور الطماطم الحمراء إلى فئة "الطماطم"
 
 \--- /task ---
