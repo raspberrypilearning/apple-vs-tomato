@@ -1,6 +1,6 @@
-## A different apple
+## تفاحة مختلفة
 
-Use a different apple to test the model.
+استخدم تفاحة مختلفة لاختبار النموذج.
 
 <html>
   <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
@@ -10,10 +10,10 @@ Use a different apple to test the model.
 
 \--- task ---
 
-Hold up your **red** apple to your webcam to test the model.
+امسك التفاحة **الحمراء** إلى الكاميرا لاختبار النموذج.
 
-The model should **not** produce a prediction with a high confidence score that it is an apple.
+لا جب أن ينتج النموذج تنبؤات مع **درجة ثقة عالية** بأنها \*\*تفاحة.
 
-It will probably produce a prediction that it is a **tomato**!
+من المحتمل أن يتنبأ بأنها **طماطم**!
 
 \--- /task ---
