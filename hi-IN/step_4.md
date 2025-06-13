@@ -1,6 +1,6 @@
 ## एक अलग सेब
 
-Use a different apple to test the model.
+मॉडल का परीक्षण करने के लिए एक अलग सेब का उपयोग करें।
 
 <html>
   <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
@@ -10,10 +10,10 @@ Use a different apple to test the model.
 
 \--- task ---
 
-Hold up your **red** apple to your webcam to test the model.
+मॉडल का परीक्षण करने के लिए अपने लाल सेब को अपने वेबकैम के सामने रखें।
 
-The model should **not** produce a prediction with a high confidence score that it is an apple.
+मॉडल को उच्च विश्वास स्कोर के साथ यह पूर्वानुमान नहीं देना चाहिए कि यह सेब है।
 
-It will probably produce a prediction that it is a **tomato**!
+इससे संभवतः यह अनुमान लगाया जा सकेगा कि यह टमाटर है!
 
 \--- /task ---
