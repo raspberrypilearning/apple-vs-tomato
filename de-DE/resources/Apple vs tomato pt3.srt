@@ -1,0 +1,16 @@
+1
+00:00:02,920 --> 00:00:06,920
+Teste das Modell, indem du deinen roten Apfel vor deine Webcam hältst
+
+2
+00:00:06,920 --> 00:00:09,200
+Das Modell sollte keine sichere Vorhersage treffen
+
+3
+00:00:09,200 --> 00:00:10,680
+dass es ein Apfel ist
+
+4
+00:00:10,680 --> 00:00:17,200
+Es wird wahrscheinlich vermuten, dass es eine Tomate ist!
+
