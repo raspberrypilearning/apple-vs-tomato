@@ -1,0 +1,24 @@
+1
+00:00:02,880 --> 00:00:04,120
+Gehe zu rpf.io/tm
+
+2
+00:00:06,600 --> 00:00:09,560
+Benenne die Klassen in 'Apple' und 'Tomato' um
+
+3
+00:00:09,560 --> 00:00:11,720
+Lade die Start-Trainingsbilder herunter
+
+4
+00:00:11,720 --> 00:00:15,280
+Entpacke den Ordner
+
+5
+00:00:15,280 --> 00:00:18,480
+Lade die Bilder der grünen Äpfel in die Klasse „Apple“ hoch
+
+6
+00:00:18,480 --> 00:00:24,520
+Lade die Bilder der roten Tomaten in die Klasse „Tomato“ hoch
+
