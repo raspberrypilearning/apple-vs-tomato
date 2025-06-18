@@ -1,0 +1,68 @@
+1
+00:00:03,360 --> 00:00:06,480
+Tải xuống một thư mục những hình ảnh của các loại táo khác nhau
+
+2
+00:00:06,480 --> 00:00:08,000
+Giải nén thư mục
+
+3
+00:00:08,000 --> 00:00:09,320
+Trong lớp 'Táo'
+
+4
+00:00:09,320 --> 00:00:10,880
+thêm một số hình ảnh mẫu
+
+5
+00:00:10,880 --> 00:00:14,240
+từ một trong các thư mục bạn vừa tải xuống
+
+6
+00:00:14,240 --> 00:00:18,120
+Chọn những hình ảnh trông giống quả táo đỏ của bạn nhất
+
+7
+00:00:18,120 --> 00:00:21,720
+Đào tạo mô hình
+
+8
+00:00:21,720 --> 00:00:24,440
+Kiểm tra lại mô hình bằng cách giơ quả táo đỏ của bạn lên
+
+9
+00:00:24,440 --> 00:00:26,040
+đến webcam của bạn
+
+10
+00:00:26,040 --> 00:00:28,160
+Mô hình nên đưa ra dự đoán đáng tin cậy hơn
+
+11
+00:00:28,160 --> 00:00:30,400
+rằng đó là một quả táo
+
+12
+00:00:30,400 --> 00:00:32,720
+Đưa quả cà chua của bạn lên webcam
+
+13
+00:00:32,720 --> 00:00:34,840
+Mô hình có lẽ đưa ra dự đoán kém tin cậy hơn
+
+14
+00:00:34,840 --> 00:00:37,000
+rằng đó là một quả cà chua
+
+15
+00:00:37,000 --> 00:00:39,000
+Điều này là do bạn đã thêm dữ liệu đào tạo
+
+16
+00:00:39,000 --> 00:00:40,240
+đến lớp Táo
+
+17
+00:00:40,240 --> 00:00:47,000
+của những hình ảnh trông giống cà chua hơn
+
