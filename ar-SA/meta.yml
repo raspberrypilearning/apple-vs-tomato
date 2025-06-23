@@ -9,7 +9,7 @@ steps:
   - 
     title: ماذا ستصنع
   - 
-    title: لإنشاء النموذج
+    title: إنشاء نموذج
     completion:
       - engaged
   - 
