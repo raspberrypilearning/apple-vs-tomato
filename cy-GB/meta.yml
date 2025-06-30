@@ -16,6 +16,5 @@ steps:
   - title: Gwella'r model
     completion:
     - internal
-  - title: Beth allwch chi ei wneud nawr?
     completion:
     - external
