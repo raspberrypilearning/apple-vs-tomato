@@ -16,6 +16,5 @@ steps:
   - title: Cải thiện mô hình
     completion:
       - internal
-  - title: Bạn có thể làm gì bây giờ?
     completion:
       - external
