@@ -16,6 +16,5 @@ steps:
   - title: Migliora il modello
     completion:
       - internal
-  - title: Cosa puoi fare ora?
     completion:
       - external
