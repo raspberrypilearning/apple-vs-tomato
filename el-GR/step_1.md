@@ -22,7 +22,7 @@
 
 ## --- collapse ---
 
-## title: Υπάρχει στο YouTube; Κάνε λήψη των βίντεο!
+## title: Δεν υπάρχει πρόβαση στο YouTube; Κάνε λήψη των βίντεο!
 
 Μπορείς να [κατεβάσεις όλα τα βίντεο γι' αυτό το έργο](https://rpf.io/p/en/apple-vs-tomato-go){:target="_blank"}.
 
