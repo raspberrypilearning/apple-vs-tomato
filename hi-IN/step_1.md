@@ -24,7 +24,7 @@
 
 ## शीर्षक: यूट्यूब नहीं? वीडियो डाउनलोड करें!
 
-आप [इस परियोजना के लिए सभी वीडियो डाउनलोड कर सकते हैं](https://rpf.io/p/en/apple-vs-tomato-go){:target="_blank"}.
+आप [इस परियोजना के लिए सभी वीडियो डाउनलोड कर सकते हैं](https://rpf.io/p/hi-IN/apple-vs-tomato-go){:target="_blank"}.
 
 \--- /collapse ---
 
