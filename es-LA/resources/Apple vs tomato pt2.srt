@@ -1,28 +1,28 @@
 1
 00:00:03,320 --> 00:00:06,840
-Crea palabras alienígenas
+Entrena el modelo
 
 2
 00:00:06,840 --> 00:00:10,440
-Hold up your green apple to your webcam
+Sostén tu manzana verde frente a la cámara web
 
 3
 00:00:10,440 --> 00:00:12,440
-The model should make a confident prediction
+El modelo debería hacer una predicción segura
 
 4
 00:00:12,440 --> 00:00:14,360
-that it is an apple
+eso es una manzana
 
 5
 00:00:14,360 --> 00:00:17,320
-Hold up your red tomato to your webcam
+Sostén tu tomate rojo frente a la cámara web
 
 6
 00:00:17,320 --> 00:00:19,120
-The model should make a confident prediction
+El modelo debería hacer una predicción segura
 
 7
 00:00:19,120 --> 00:00:24,120
-that it is a tomato
+eso es un tomate
 
