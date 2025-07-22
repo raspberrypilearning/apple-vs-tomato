@@ -19,8 +19,4 @@ steps:
   - 
     title: Удоскональ модель
     completion:
-      - internal
-  - 
-    title: Що ти тепер вмієш?
-    completion:
       - external
