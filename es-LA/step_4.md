@@ -1,4 +1,4 @@
-## A different apple
+## Una manzana diferente
 
 Use a different apple to test the model.
 
