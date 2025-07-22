@@ -19,8 +19,4 @@ steps:
   - 
     title: Βελτίωση του μοντέλου
     completion:
-      - internal
-  - 
-    title: Τι μπορείς να κάνεις τώρα;
-    completion:
       - external
