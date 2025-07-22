@@ -1,4 +1,4 @@
-## Train and test
+## Entrena y prueba
 
 Train a model to detect what you are holding.
 
