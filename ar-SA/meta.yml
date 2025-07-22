@@ -19,8 +19,4 @@ steps:
   - 
     title: حسن النموذج
     completion:
-      - internal
-  - 
-    title: ما التالي؟
-    completion:
       - external
