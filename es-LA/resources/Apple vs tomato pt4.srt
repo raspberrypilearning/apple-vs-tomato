@@ -1,68 +1,68 @@
 1
 00:00:03,360 --> 00:00:06,480
-Download a folder of images of different apples
+Descarga la carpeta con imágenes de diferentes manzanas
 
 2
 00:00:06,480 --> 00:00:08,000
-Unzip the folder
+Descomprime la carpeta
 
 3
 00:00:08,000 --> 00:00:09,320
-In the ‘Apple’ class
+En la clase 'Manzana'
 
 4
 00:00:09,320 --> 00:00:10,880
-add some samples of images
+añade algunas muestras de imágenes
 
 5
 00:00:10,880 --> 00:00:14,240
-from one of the folders you have just downloaded
+de una de las carpetas que acabas de descargar
 
 6
 00:00:14,240 --> 00:00:18,120
-Choose images that look most like your red apple
+Escoge imágenes que se parezcan lo más posible a tu manzana roja
 
 7
 00:00:18,120 --> 00:00:21,720
-Crea palabras alienígenas
+Entrena el modelo
 
 8
 00:00:21,720 --> 00:00:24,440
-Test the model again by holding up your red apple
+Prueba el modelo nuevamente sosteniendo tu manzana roja
 
 9
 00:00:24,440 --> 00:00:26,040
-to your webcam
+frente a la cámara web
 
 10
 00:00:26,040 --> 00:00:28,160
-The model should make a more confident prediction
+El modelo debería hacer una predicción un poco más segura
 
 11
 00:00:28,160 --> 00:00:30,400
-that it is an apple
+eso es una manzana
 
 12
 00:00:30,400 --> 00:00:32,720
-Hold up your tomato to your webcam
+Sostén tu tomate frente a la cámara web
 
 13
 00:00:32,720 --> 00:00:34,840
-The model might make a less confident prediction
+El modelo debería hacer una predicción menos segura
 
 14
 00:00:34,840 --> 00:00:37,000
-that it is a tomato
+eso es un tomate
 
 15
 00:00:37,000 --> 00:00:39,000
-This is because you have added training data
+Esto se debe a que has agregado información de entrenamiento
 
 16
 00:00:39,000 --> 00:00:40,240
-to the apple class
+a la clase manzana
 
 17
 00:00:40,240 --> 00:00:47,000
-of images that look more like tomatoes
+de imágenes que se parecen a tomates
 
