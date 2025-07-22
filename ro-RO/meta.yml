@@ -19,8 +19,4 @@ steps:
   - 
     title: Improve the model
     completion:
-      - internal
-  - 
-    title: Ce poți face acum?
-    completion:
       - external
