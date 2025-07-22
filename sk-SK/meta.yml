@@ -19,8 +19,4 @@ steps:
   - 
     title: Vylepši model
     completion:
-      - internal
-  - 
-    title: Čo môžeš spraviť teraz?
-    completion:
-      - externý
+      - external
