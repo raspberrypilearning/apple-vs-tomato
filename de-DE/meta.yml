@@ -19,8 +19,4 @@ steps:
   - 
     title: Verbessere das Modell
     completion:
-      - internal
-  - 
-    title: Wie geht's weiter?
-    completion:
       - external
