@@ -1,6 +1,7 @@
 title: Apple vs tomato
 hero_image: images/banner.png
 description: Train a machine learning model to detect if you are holding an apple or a tomato, then improve it by including more diverse training data
+pdf: resources/rpfi-apple-vs-tomato.pdf
 version: 4
 listed: false
 copyedit: false
