@@ -1,0 +1,24 @@
+1
+00:00:02,880 --> 00:00:04,120
+Gå til rpf.io/tm
+
+2
+00:00:06,600 --> 00:00:09,560
+Omdøb klasserne til 'Æble' og 'Tomat'
+
+3
+00:00:09,560 --> 00:00:11,720
+Download start trænings videoerne
+
+4
+00:00:11,720 --> 00:00:15,280
+Udpakke mappe
+
+5
+00:00:15,280 --> 00:00:18,480
+Upload det grønne æble billede til 'æble' klassen
+
+6
+00:00:18,480 --> 00:00:24,520
+Upload det rød tomat billede til 'tomat' klassen
+
