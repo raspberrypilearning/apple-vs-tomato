@@ -1,0 +1,16 @@
+1
+00:00:02,920 --> 00:00:06,920
+Test modellen ved at holde dit røde æble op mod dit webcam
+
+2
+00:00:06,920 --> 00:00:09,200
+Modellen bør ikke give en sikker forudsigelse
+
+3
+00:00:09,200 --> 00:00:10,680
+det er et æble
+
+4
+00:00:10,680 --> 00:00:17,200
+Det vil sandsynligvis forudsige, at det er en tomat!
+
