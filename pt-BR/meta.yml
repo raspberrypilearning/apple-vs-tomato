@@ -1,6 +1,7 @@
 title: Maçã vs tomate
 hero_image: images/banner.png
 description: Treine um modelo de aprendizado de máquina para detectar se você está segurando uma maçã ou um tomate e, em seguida, melhore-o incluindo dados de treinamento mais diversos
+pdf: resources/rpfi-apple-vs-tomato.pdf
 version: 4
 listed: true
 copyedit: false
