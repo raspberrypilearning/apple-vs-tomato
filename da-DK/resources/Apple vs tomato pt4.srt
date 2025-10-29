@@ -1,0 +1,68 @@
+1
+00:00:03,360 --> 00:00:06,480
+Download en mappe med billeder af forskellige æbler
+
+2
+00:00:06,480 --> 00:00:08,000
+Udpakke mappe
+
+3
+00:00:08,000 --> 00:00:09,320
+I 'Æblet'-klassen
+
+4
+00:00:09,320 --> 00:00:10,880
+Tilføj nogle eksempler på billeder
+
+5
+00:00:10,880 --> 00:00:14,240
+fra en af de mapper, du lige har hentet
+
+6
+00:00:14,240 --> 00:00:18,120
+Vælg billeder, der ser mest ud som dit røde æble
+
+7
+00:00:18,120 --> 00:00:21,720
+Træn modellen
+
+8
+00:00:21,720 --> 00:00:24,440
+Test modellen igen ved at holde dit røde æble op
+
+9
+00:00:24,440 --> 00:00:26,040
+til dit webcam
+
+10
+00:00:26,040 --> 00:00:28,160
+Modellen bør gøre en mere sikker forudsigelse
+
+11
+00:00:28,160 --> 00:00:30,400
+det er et æble
+
+12
+00:00:30,400 --> 00:00:32,720
+Hold din tomat op mod dit webcam
+
+13
+00:00:32,720 --> 00:00:34,840
+Modellen kan gøre en mindre sikker forudsigelse
+
+14
+00:00:34,840 --> 00:00:37,000
+det er en tomat
+
+15
+00:00:37,000 --> 00:00:39,000
+Dette skyldes, at du har tilføjet træningsdata
+
+16
+00:00:39,000 --> 00:00:40,240
+til æbleklassen
+
+17
+00:00:40,240 --> 00:00:47,000
+af billeder, der ligner mere tomater
+
