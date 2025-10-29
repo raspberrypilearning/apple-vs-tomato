@@ -6,68 +6,68 @@
   </div>
 </html>
 
-The training data is biased, as it only includes green apples.
+La data de entrenamiento está sesgada, dado que solo incluye manzanas verdes.
 
-To reduce the bias, you need to add extra examples of apples to the 'Apple' class.
+Para reducir el sesgo, debes agregar ejemplos adicionales de manzanas a la clase 'Manzana'.
 
 \--- task ---
 
-Download a [folder of more images of apples](https://drive.google.com/drive/folders/1OIuoG7go72c7QririIpykJ4tW-arrtfA){:target="_blank"}.
+Descarga una [carpeta de más imágenes de manzanas](https://drive.google.com/drive/folders/1OIuoG7go72c7QririIpykJ4tW-arrtfA){:target="_blank"}.
 
 \--- /task ---
 
 \--- task ---
 
-Unzip the new folder.
+Descomprime la nueva carpeta.
 
 \--- /task ---
 
 \--- task ---
 
-In the 'Apple' class, add some samples of images from one of the folders you have just downloaded.
+En la clase 'Manzana', agrega algunas imágenes de muestra de una de las carpetas que acabas de descargar.
 
-Choose images that look most like your **red** apple.
+Escoge imágenes que se vean lo más semejantes a tu manzana **roja**.
 
-**Tip:** You can also use your webcam to take images of your red apple.
+**Consejo:** También puedes utilizar tu cámara web para tomar imágenes de tu manzana roja.
 
-**Tip:** You only need to add a few extra samples to your 'Apple' class.
-
-\--- /task ---
-
-### Train the model again
-
-\--- task ---
-
-Click on **Train Model**.
-
-![The 'Train Model' button.](images/train_model.png)
+**Consejo:** Solo necesitas agregar unas cuantas imágenes adicionales a tu clase 'Manzana'.
 
 \--- /task ---
 
-When the model is trained, the preview panel will open.
+### Entrena el modelo una vez más
 
 \--- task ---
 
-Hold up your **red** apple to your webcam to test the model again.
+Haz clic en **Entrenar Modelo**.
 
-The model should produce a prediction with a **higher confidence score** that it is an **apple**.
+![El botón 'Entrena el Modelo'.](images/train_model.png)
+
+\--- /task ---
+
+Cuando el modelo haya sido entrenado, el panel de previsualización se abrirá.
+
+\--- task ---
+
+Sostén tu manzana **roja** en frente de la cámara web para probar el modelo nuevamente.
+
+El modelo debería producir una predicción con un **puntaje de probabilidad alta** de que es una **manzana**.
 
 \--- /task ---
 
 \--- task ---
 
-Hold up your tomato to your webcam.
+Sostén tu tomate en frente de la cámara web.
 
-The model might produce a prediction with a **lower confidence score** that it is a **tomato**.
+El modlo podría producir una predicción con un **puntaje de probabilidad menor** de que es un **tomate**.
 
-This is because you have added training data to the 'Apple' class of images that look more like tomatoes.
+Esto sucede porque has agregado data de entrenamiento a la categoría 'Manzana' de imágenes que se parecen más a tomates.
 
 \--- /task ---
 
 ## --- collapse ---
 
-## title: Note to educators
+## título: Nota a los educadores
 
-You may choose to introduce learners to the concept of the ethical bias that can result from the use of biased training data.
+Puede elegir presentarle a los alumnos el concepto del sesgo ético que puede resultar del uso de data de entrenamiento sesgada.
 
 \--- /collapse ---
