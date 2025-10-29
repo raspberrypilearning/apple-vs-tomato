@@ -1,6 +1,7 @@
 title: Appel vs tomaat
 hero_image: images/banner.png
 description: Train een machine learning-model om te detecteren of je een appel of een tomaat vasthoudt, en verbeter het vervolgens door meer diverse trainingsgegevens op te nemen
+pdf: resources/rpfi-apple-vs-tomato.pdf
 version: 4
 listed: true
 copyedit: false
