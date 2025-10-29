@@ -22,7 +22,7 @@ Você precisará fazer o download e salvar arquivos no seu computador.
 
 ## --- collapse ---
 
-## Título: Sem YouTube? Baixe os vídeos!
+## título: Sem YouTube? Baixe os vídeos!
 
 Você pode [baixar todos os vídeos deste projeto](https://rpf.io/p/en/apple-vs-tomato-go){:target="_blank"}.
 
