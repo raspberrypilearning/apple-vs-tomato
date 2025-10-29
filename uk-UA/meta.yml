@@ -1,6 +1,7 @@
 title: Яблуко чи помідор?
 hero_image: images/banner.png
 description: Навчи модель машинного навчання визначати, що ти тримаєш у руці, а потім зроби її кращою за допомогою різноманітніших даних
+pdf: resources/rpfi-apple-vs-tomato.pdf
 version: 4
 listed: true
 copyedit: false
