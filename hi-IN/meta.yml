@@ -1,6 +1,7 @@
 title: सेब बनाम टमाटर
 hero_image: images/banner.png
 description: मशीन लर्निंग मॉडल को प्रशिक्षित करें ताकि पता चल सके कि आपके हाथ में सेब है या टमाटर, फिर अधिक विविध प्रशिक्षण डेटा शामिल करके इसे बेहतर बनाएं
+pdf: resources/rpfi-apple-vs-tomato.pdf
 version: 4
 listed: true
 copyedit: false
