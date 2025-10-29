@@ -1,6 +1,7 @@
 title: Apfel vs. Tomate
 hero_image: images/banner.png
 description: Trainiere ein Machine-Learning-Modell, um zu erkennen, ob du einen Apfel oder eine Tomate in der Hand hältst, und verbessere es anschließend durch die Einbeziehung umfangreicherer Trainingsdaten
+pdf: resources/rpfi-apple-vs-tomato.pdf
 version: 4
 listed: true
 copyedit: false
