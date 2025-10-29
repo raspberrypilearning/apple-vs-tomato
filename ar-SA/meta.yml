@@ -1,6 +1,7 @@
 title: تفاح أم طماطم
 hero_image: images/banner.png
 description: قم بتدريب نموذج التعلم الآلي لاكتشاف ما إذا كنت تحمل تفاحة أم طماطم، ثم قم بتحسينه من خلال تضمين بيانات تدريب أكثر تنوعًا
+pdf: resources/rpfi-apple-vs-tomato.pdf
 version: 4
 listed: true
 copyedit: false
