@@ -1,6 +1,7 @@
 title: Pomme ou tomate
 hero_image: images/banner.png
 description: Entraîne un modèle d'apprentissage automatique pour détecter si tu tiens une pomme ou une tomate, puis améliore-le en incluant des données d'entraînement plus variées
+pdf: resources/rpfi-apple-vs-tomato.pdf
 version: 4
 listed: true
 copyedit: false
