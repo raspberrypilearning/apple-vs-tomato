@@ -8,7 +8,7 @@ Renomeie as classes para 'Maçã' e 'Tomate'
 
 3
 00:00:09,560 --> 00:00:11,720
-Faça o download das imagens do treinamento inicial
+Baixe as imagens do treinamento inicial
 
 4
 00:00:11,720 --> 00:00:15,280
