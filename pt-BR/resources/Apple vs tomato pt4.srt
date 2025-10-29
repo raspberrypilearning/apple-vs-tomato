@@ -1,0 +1,68 @@
+1
+00:00:03,360 --> 00:00:06,480
+Faca o download de uma pasta com imagens de diferentes maçãs
+
+2
+00:00:06,480 --> 00:00:08,000
+Descompacte a pasta
+
+3
+00:00:08,000 --> 00:00:09,320
+Na classe 'Maçã'
+
+4
+00:00:09,320 --> 00:00:10,880
+adicione alguns exemplos de imagens
+
+5
+00:00:10,880 --> 00:00:14,240
+de uma das pastas que você acabou de baixar
+
+6
+00:00:14,240 --> 00:00:18,120
+Escolha imagens que mais se pareçam com sua maçã vermelha
+
+7
+00:00:18,120 --> 00:00:21,720
+Treine o modelo
+
+8
+00:00:21,720 --> 00:00:24,440
+Teste o modelo novamente segurando sua maçã vermelha
+
+9
+00:00:24,440 --> 00:00:26,040
+em frente à sua câmera
+
+10
+00:00:26,040 --> 00:00:28,160
+O modelo deve fazer uma previsão mais confiável
+
+11
+00:00:28,160 --> 00:00:30,400
+que é uma maçã
+
+12
+00:00:30,400 --> 00:00:32,720
+Segure seu tomate em frente à sua câmera
+
+13
+00:00:32,720 --> 00:00:34,840
+O modelo deve fazer uma previsão menos confiável
+
+14
+00:00:34,840 --> 00:00:37,000
+que é um tomate
+
+15
+00:00:37,000 --> 00:00:39,000
+Isso ocorre porque você adicionou dados de treinamento
+
+16
+00:00:39,000 --> 00:00:40,240
+para a classe de maçãs
+
+17
+00:00:40,240 --> 00:00:47,000
+de imagens que se parecem mais com tomate
+

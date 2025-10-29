@@ -1,0 +1,17 @@
+1
+00:00:02,920 --> 00:00:06,920
+Teste o modelo segurando 
+sua maçã vermelha em frente à sua câmera
+
+2
+00:00:06,920 --> 00:00:09,200
+O modelo não deve fazer uma previsão confiável
+
+3
+00:00:09,200 --> 00:00:10,680
+que é uma maçã
+
+4
+00:00:10,680 --> 00:00:17,200
+Provavelmente irá prever que se trata de um tomate!
+
