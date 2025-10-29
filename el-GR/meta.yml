@@ -1,6 +1,7 @@
 title: Μήλο εναντίον ντομάτας
 hero_image: images/banner.png
 description: Εκπαίδευσε ένα μοντέλο μηχανικής εκμάθησης για να ανιχνεύσεις εάν κρατάς ένα μήλο ή μια ντομάτα και, στη συνέχεια, βελτίωσέ το συμπεριλαμβάνοντας περισσότερο διαφορετικά δεδομένα εκπαίδευσης
+pdf: resources/rpfi-apple-vs-tomato.pdf
 version: 4
 listed: true
 copyedit: false
