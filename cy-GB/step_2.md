@@ -44,7 +44,7 @@ Dadsipio'r ffolder.
 
 ---
 
-## title: Sut i ddadsipio
+## title: How to unzip
 
 **Microsoft Windows**
 
