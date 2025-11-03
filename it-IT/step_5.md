@@ -66,7 +66,7 @@ Questo accade perché hai aggiunto ai dati di addestramento della classe 'Mela' 
 
 ## --- collapse ---
 
-## title: Nota per gli educatori
+## title: Note to educators
 
 Potresti cogliere l’occasione per parlare del bias etico, che può derivare dall'uso di dati di addestramento non rappresentativi.
 
