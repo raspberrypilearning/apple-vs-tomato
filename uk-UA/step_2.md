@@ -44,7 +44,7 @@
 
 ---
 
-## title: Як розархівувати папку
+## title: How to unzip
 
 **Microsoft Windows**
 
