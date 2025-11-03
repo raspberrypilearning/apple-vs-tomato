@@ -66,7 +66,7 @@ Isso ocorre porque você adicionou dados de treinamento à classe de imagens "Ma
 
 ## --- collapse ---
 
-## título: Nota para educadores
+## title: Note to educators
 
 Você pode optar por apresentar aos alunos o conceito de viés ético que pode resultar do uso de dados de treinamento tendenciosos.
 
