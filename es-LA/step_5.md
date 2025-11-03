@@ -66,7 +66,7 @@ Esto sucede porque has agregado data de entrenamiento a la categoría 'Manzana' 
 
 ## --- collapse ---
 
-## título: Nota a los educadores
+## title: Note to educators
 
 Puede elegir presentarle a los alumnos el concepto del sesgo ético que puede resultar del uso de data de entrenamiento sesgada.
 
