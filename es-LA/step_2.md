@@ -44,7 +44,7 @@ Descomprime la carpeta.
 
 ---
 
-## título: Cómo descomprimir
+## title: How to unzip
 
 **Microsoft Windows**
 
