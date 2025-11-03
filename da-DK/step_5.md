@@ -66,7 +66,7 @@ Dette skyldes, at du har tilføjet træningsdata til 'æble' klassen af billeder
 
 ## --- collapse ---
 
-## title: Bemærkning til undervisere
+## title: Note to educators
 
 Du kan vælge at introducere eleverne til konceptet om den etiske bias, der kan opstå som følge af brugen af forudindtagede træningsdata.
 
