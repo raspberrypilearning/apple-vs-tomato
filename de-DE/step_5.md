@@ -66,7 +66,7 @@ Dies liegt daran, dass Du der Bildklasse „Apple“ Trainingsdaten hinzugefügt
 
 ## --- collapse ---
 
-## Titel: Hinweis für Lehrer
+## title: Note to educators
 
 Sie könnten den Lernenden das Konzept der ethischen Voreingenommenheit näherbringen, die sich aus der Verwendung verzerrter Trainingsdaten ergeben kann.
 
