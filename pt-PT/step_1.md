@@ -12,7 +12,7 @@ Vais precisar de conseguir descarregar e salvar ficheiros para o teu computador.
 
 ---
 
-## title: Onde estão guardadas as minhas imagens?
+## title: Where are my images stored?
 
 - Este projeto usa uma tecnologia chamada 'machine learning'. Os sistemas de machine learning são treinados com uma grande quantidade de dados.
 - Este projeto não exige que cries uma conta ou faças login. Para este projeto, as imagens de exemplo que usas para fazer o modelo são armazenados temporariamente no teu navegador (apenas na tua máquina).
@@ -22,7 +22,7 @@ Vais precisar de conseguir descarregar e salvar ficheiros para o teu computador.
 
 ## --- collapse ---
 
-## title: Não tens Youtube? Descarrega estes vídeos!
+## title: No YouTube? Download the videos!
 
 Podes [descarregar todos os vídeos para este projeto](https://rpf.io/p/pt-PT/apple-vs-tomato-go){:target="_blank"}.
 
@@ -32,7 +32,7 @@ Podes [descarregar todos os vídeos para este projeto](https://rpf.io/p/pt-PT/ap
 
 ---
 
-## title: Licença
+## title: Licence
 
 Queremos agradecer ao [Samuel Cortinhas](https://www.kaggle.com/datasets/samuelcortinhas/apples-or-tomatoes-image-classification/data){:target="_blank"} pelo conceito e pelas imagens para este projeto.
 
