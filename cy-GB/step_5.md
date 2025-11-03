@@ -66,7 +66,7 @@ Mae hyn oherwydd eich bod wedi ychwanegu data hyfforddi at y dosbarth 'Afal' o d
 
 ## --- collapse ---
 
-## title: Nodyn i addysgwyr
+## title: Note to educators
 
 Efallai y byddwch yn dewis cyflwyno i'r dysgwyr y cysyniad o'r duedd foesegol a all ddeillio o ddefnyddio data hyfforddi rhagfarnllyd.
 
