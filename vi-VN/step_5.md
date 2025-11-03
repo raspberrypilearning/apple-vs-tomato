@@ -66,7 +66,7 @@ Mô hình có thể đưa ra dự đoán với **điểm tin cậy thấp hơn**
 
 ## --- collapse ---
 
-## tiêu đề: Lưu ý cho các nhà giáo dục
+## title: Note to educators
 
 Bạn có thể chọn giới thiệu cho người học khái niệm về thành kiến đạo đức có thể phát sinh do sử dụng dữ liệu đào tạo có thành kiến.
 
