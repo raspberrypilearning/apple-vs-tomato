@@ -44,7 +44,7 @@ Entpacke den Ordner.
 
 ---
 
-## Hinweis: So entpackst du
+## title: How to unzip
 
 **Microsoft Windows**
 
