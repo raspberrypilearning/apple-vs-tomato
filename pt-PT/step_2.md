@@ -44,7 +44,7 @@ Descompactar a pasta.
 
 ---
 
-## title: Como descompactar
+## title: How to unzip
 
 **Microsoft Windows**
 
