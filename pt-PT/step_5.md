@@ -66,7 +66,7 @@ Isto porque adicionaste mais dados de treino à classe 'Maçãs' que se parecem 
 
 ## --- collapse ---
 
-## title: Nota para educadores
+## title: Note to educators
 
 Podes optar por introduzir aos alunos o conceito do enviesamento ético que resulta do uso de dados de treino enviesados.
 
