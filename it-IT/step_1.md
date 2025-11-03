@@ -12,7 +12,7 @@ Dovrai poter scaricare e salvare i file sul tuo computer.
 
 ---
 
-## title: Dove sono archiviate le mie immagini?
+## title: Where are my images stored?
 
 - Questo progetto usa una tecnologia chiamata 'apprendimento automatico'. I sistemi di apprendimento automatico sono addestrati utilizzando una grande quantità di dati.
 - Per questo progetto non dovrai creare un account o effettuare l'accesso. Le immagini di esempio che utilizzi per addestrare il modello vengono memorizzate solo temporaneamente nel browser (solo sul tuo computer).
@@ -22,7 +22,7 @@ Dovrai poter scaricare e salvare i file sul tuo computer.
 
 ## --- collapse ---
 
-## title: Non riesci ad accedere a YouTube? Scarica i video!
+## title: No YouTube? Download the videos!
 
 Puoi [scaricare tutti i video per questo progetto](https://rpf.io/p/en/apple-vs-tomato-go){:target="_blank"}.
 
@@ -32,7 +32,7 @@ Puoi [scaricare tutti i video per questo progetto](https://rpf.io/p/en/apple-vs-
 
 ---
 
-## title: Licenza
+## title: Licence
 
 Vorremmo ringraziare [Samuel Cortinhas](https://www.kaggle.com/datasets/samuelcortinhas/apples-or-tomatoes-image-classification/data){:target="_blank"} per il concept e le immagini per questo progetto.
 
