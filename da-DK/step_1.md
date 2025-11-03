@@ -12,7 +12,7 @@ Du skal kunne downloade og gemme filer på din computer.
 
 ---
 
-## title: Hvor er mine billeder gemt?
+## title: Where are my images stored?
 
 - Dette projekt bruger en teknologi kaldet 'maskinlæring'. Maskinlærings systemer er uddannet ved hjælp af en stor mængde data.
 - Dette projekt kræver ikke, at du opretter en konto eller logger ind. Til dette projekt gemmes de billedeksempler, du bruger til at lave modellen, kun midlertidigt i din browser (kun på din maskine).
@@ -22,7 +22,7 @@ Du skal kunne downloade og gemme filer på din computer.
 
 ## --- collapse ---
 
-## title: Ingen YouTube? Download videoerne!
+## title: No YouTube? Download the videos!
 
 Du kan [downloade alle videoer til dette projekt](https://rpf.io/p/da-DK/apple-vs-tomato-go){:target="_blank"}.
 
@@ -32,7 +32,7 @@ Du kan [downloade alle videoer til dette projekt](https://rpf.io/p/da-DK/apple-v
 
 ---
 
-## title: Licens
+## title: Licence
 
 Vi vil gerne takke [Samuel Cortinhas](https://www.kaggle.com/datasets/samuelcortinhas/apples-or-tomatoes-image-classification/data){:target="_blank"} for konceptet og billederne til dette projekt.
 
