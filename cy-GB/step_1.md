@@ -12,7 +12,7 @@ Bydd angen i chi allu lawrlwytho a chadw ffeiliau i'ch cyfrifiadur.
 
 ---
 
-## title: Ble mae fy lluniau'n cael eu storio?
+## title: Where are my images stored?
 
 - Mae'r prosiect hwn yn defnyddio technoleg o'r enw 'dysgu peirianyddol'. Mae systemau dysgu peirianyddol yn cael eu hyfforddi gan ddefnyddio llawer iawn o ddata.
 - Nid yw'r prosiect hwn yn gofyn i chi greu cyfrif na mewngofnodi. Ar gyfer y prosiect hwn, dim ond dros dro y caiff yr enghreifftiau delwedd a ddefnyddiwch i wneud y model eu storio yn eich porwr (dim ond ar eich peiriant).
@@ -22,7 +22,7 @@ Bydd angen i chi allu lawrlwytho a chadw ffeiliau i'ch cyfrifiadur.
 
 ## --- collapse ---
 
-## title: Dim YouTube? Lawrlwythwch y fideos!
+## title: No YouTube? Download the videos!
 
 Gallwch [lawrlwytho'r holl fideos ar gyfer y prosiect hwn](https://rpf.io/p/cy-GB/apple-vs-tomato-go){:target="_blank"}.
 
@@ -32,7 +32,7 @@ Gallwch [lawrlwytho'r holl fideos ar gyfer y prosiect hwn](https://rpf.io/p/cy-G
 
 ---
 
-## title: Trwydded
+## title: Licence
 
 Hoffem ddiolch i [Samuel Cortinhas](https://www.kaggle.com/datasets/samuelcortinhas/apples-or-tomatoes-image-classification/data){:target="_blank"} am y cysyniad a'r delweddau ar gyfer y prosiect hwn.
 
