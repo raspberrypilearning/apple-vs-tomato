@@ -66,7 +66,7 @@ C'est parce que tu as ajouté des données d'entraînement à la classe « Pomm
 
 ## --- collapse ---
 
-## title: Note to educators
+## title: Note aux éducateurs
 
 Vous pouvez choisir d'introduire les apprenants au concept de biais éthique qui peut résulter de l'utilisation de données de formation biaisées.
 
