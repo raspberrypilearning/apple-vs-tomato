@@ -12,7 +12,7 @@
 
 ---
 
-## title: Where are my images stored?
+## title: أين يتم تخزين صوري؟
 
 - يستخدم هذا المشروع تقنية تسمى "التعلم الآلي". يتم تدريب أنظمة التعلم الآلي باستخدام كمية كبيرة من البيانات.
 - لا يتطلب هذا المشروع إنشاء حساب أو تسجيل الدخول. بالنسبة لهذا المشروع، يتم تخزين نماذج الصور التي تستخدمها لإنشاء النموذج مؤقتًا فقط في متصفحك (على جهازك فقط).
@@ -22,7 +22,7 @@
 
 ## --- collapse ---
 
-## title: No YouTube? Download the videos!
+## title: لا يوجد يوتيوب؟ تحميل الفيديوهات!
 
 يمكنك [تحميل جميع مقاطع الفيديو لهذا المشروع](https://rpf.io/p/en/apple-vs-tomato-go){:target="_blank"}.
 
@@ -32,7 +32,7 @@
 
 ---
 
-## title: Licence
+## title: رخصة
 
 نود أن نشكر [Samuel Cortinhas](https://www.kaggle.com/datasets/samuelcortinhas/apples-or-tomatoes-image-classification/data){:target="_blank"} على المفهوم والصور لهذا المشروع.
 
