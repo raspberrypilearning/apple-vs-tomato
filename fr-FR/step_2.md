@@ -44,7 +44,7 @@ Décompresse le dossier.
 
 ---
 
-## title: How to unzip
+## title: Comment décompresser
 
 **Microsoft Windows**
 
