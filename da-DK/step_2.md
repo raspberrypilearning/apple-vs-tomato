@@ -44,7 +44,7 @@ Udpakke mappe.
 
 ---
 
-## title: How to unzip
+## title: Sådan udpakkes
 
 **Microsoft Windows**
 
