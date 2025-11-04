@@ -66,7 +66,7 @@ Dit is omdat je trainingsgegevens hebt toegevoegd aan de 'Appel'-class van afbee
 
 ## --- collapse ---
 
-## title: Note to educators
+## title: Opmerking voor docenten
 
 Je kunt ervoor kiezen om leerlingen kennis te laten maken met het concept van de ethische vooringenomenheid die het gevolg kan zijn van het gebruik van eenzijdige trainingsgegevens.
 
