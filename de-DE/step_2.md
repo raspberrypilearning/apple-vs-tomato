@@ -43,7 +43,8 @@ Entpacke den Ordner.
 --- collapse ---
 
 ---
-title: So entpackst du
+
+title: How to unzip
 ---
 
 **Microsoft Windows**

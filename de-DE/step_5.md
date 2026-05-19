@@ -12,6 +12,7 @@ Um die Einseitigkeit zu reduzieren, musst du der Klasse „Apple“ zusätzliche
 
 --- task ---
 
+
 Lade einen [Ordner mit weiteren Bildern von Äpfeln](https://drive.google.com/drive/folders/1OIuoG7go72c7QririIpykJ4tW-arrtfA){:target="_blank"} herunter.
 
 --- /task ---
@@ -65,8 +66,8 @@ Dies liegt daran, dass Du der Bildklasse „Apple“ Trainingsdaten hinzugefügt
 --- /task ---
 
 --- collapse ---
----
-title: Hinweis für Lehrer
+
+title: Note to educators
 ---
 
 Sie könnten den Lernenden das Konzept der ethischen Voreingenommenheit näherbringen, die sich aus der Verwendung verzerrter Trainingsdaten ergeben kann.

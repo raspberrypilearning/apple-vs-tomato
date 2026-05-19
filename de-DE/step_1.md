@@ -11,7 +11,8 @@ Du musst in der Lage sein, Dateien herunterzuladen und auf deinem Computer zu sp
 --- collapse ---
 
 ---
-title: Wo werden meine Bilder gespeichert?
+
+## title: Where are my images stored?
 ---
 
 - Dieses Projekt verwendet eine Technologie namens „Maschinelles Lernen“ (Machine Learning). Systeme für maschinelles Lernen werden mithilfe großer Datenmengen trainiert.
@@ -22,17 +23,19 @@ title: Wo werden meine Bilder gespeichert?
 
 --- collapse ---
 ---
-title: Kein YouTube? Videos herunterladen!
+
+## title: No YouTube? Download the videos!
 ---
 
-Du kannst [alle Videos zu diesem Projekt herunterladen](https://rpf.io/p/de-DE/apple-vs-tomato-go){:target="_blank"}.
+Du kannst [alle Videos zu diesem Projekt herunterladen](https://rpf.io/p/en/apple-vs-tomato-go){:target="_blank"}.
 
 --- /collapse ---
 
 --- collapse ---
 
 ---
-title: Lizenz
+
+title: Licence
 ---
 
 Wir möchten [Samuel Cortinhas](https://www.kaggle.com/datasets/samuelcortinhas/apples-or-tomatoes-image-classification/data){:target="_blank"} für das Konzept und die Bilder für dieses Projekt danken.
