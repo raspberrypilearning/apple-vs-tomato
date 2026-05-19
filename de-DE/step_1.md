@@ -21,7 +21,7 @@ Du musst in der Lage sein, Dateien herunterzuladen und auf deinem Computer zu sp
 
 --- /collapse ---
 
-## --- collapse ---
+--- collapse ---
 ---
 
 ## title: No YouTube? Download the videos!
