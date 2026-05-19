@@ -10,7 +10,7 @@ Trainiere ein Modell, um zu erkennen, was du in der Hand hast.
 
 ### Modell trainieren
 
-\--- task ---
+--- task ---
 
 Klicke auf **Modell trainieren**.
 
@@ -18,22 +18,22 @@ Klicke auf **Modell trainieren**.
 
 ![Die Schaltfläche „Modell trainieren“.](images/train_model.png)
 
-\--- /task ---
+--- /task ---
 
 ### Modell testen
 
-\--- task ---
+--- task ---
 
 Halte deinen **grünen** Apfel vor deine Webcam.
 
 Das Modell sollte die Vorhersage mit einer **hohen Sicherheit** treffen, dass es sich um einen **Apfel** handelt.
 
-\--- /task ---
+--- /task ---
 
-\--- task ---
+--- task ---
 
 Halte deine **rote** Tomate vor deine Webcam.
 
 Das Modell sollte die Vorhersage mit einer **hohen Sicherheit** treffen, dass es sich um eine **Tomate** handelt.
 
-\--- /task ---
+--- /task ---
