@@ -10,41 +10,41 @@ Füge Beispielbilder von Äpfeln und Tomaten hinzu.
 
 ### Modell einrichten
 
---- task ---
+\--- task ---
 
 Öffne [Teachable Machine](https://rpf.io/tm){:target="_blank"}.
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
 Benenne „Class 1“ in „Apple“ um.
 
 Benenne „Class 2“ in „Tomato“ um.
 
---- /task ---
+\--- /task ---
 
 ### Beispielbilder herunterladen
 
---- task ---
+\--- task ---
 
 Lade den [Ordner mit den Startbildern](https://rpf.io/tams){:target="_blank"} herunter.
 
---- /task ---
+\--- /task ---
 
 Der Ordner wird als ZIP-Datei heruntergeladen.
 
---- task ---
+\--- task ---
 
 Entpacke den Ordner.
 
---- /task ---
+\--- /task ---
 
---- collapse ---
+\--- collapse ---
 
 ---
-title: So entpackst du
----
+
+## title: How to unzip
 
 **Microsoft Windows**
 
@@ -69,18 +69,18 @@ title: So entpackst du
 - Öffne deinen „Downloads“ Ordner.
 - Klicke mit der rechten Maustaste auf die ZIP-Datei und wähle **Hier extrahieren**.
 
---- /collapse ---
+\--- /collapse ---
 
 ### Füge Beispielbilder hinzu
 
---- task ---
+\--- task ---
 
 Lade die Bilder der grünen **Äpfel** in die Klasse „Apple“ hoch.
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
 Lade die Bilder der roten **Tomaten** in die Klasse „Tomato“ hoch.
 
---- /task ---
+\--- /task ---
