@@ -12,7 +12,7 @@ Du musst in der Lage sein, Dateien herunterzuladen und auf deinem Computer zu sp
 
 ---
 
-#title: Where are my images stored?
+title: Where are my images stored?
 ---
 
 - Dieses Projekt verwendet eine Technologie namens „Maschinelles Lernen“ (Machine Learning). Systeme für maschinelles Lernen werden mithilfe großer Datenmengen trainiert.
