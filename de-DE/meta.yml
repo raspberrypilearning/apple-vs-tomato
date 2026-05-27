@@ -7,17 +7,14 @@ listed: true
 copyedit: false
 last_tested: "2024-07-19"
 steps:
-  - 
-    title: Das wirst du machen
-  - 
-    title: Modell erstellen
+  - title: Das wirst du machen
+  - title: Modell erstellen
     completion:
-      - engaged
-  - 
-    title: Trainieren und testen
-  - 
-    title: Ein anderer Apfel
-  - 
-    title: Verbessere das Modell
+    - engaged
+  - title: Trainieren und testen
+  - title: Ein anderer Apfel
+  - title: Verbessere das Modell
     completion:
-      - external
+    - internal
+    completion:
+    - external
