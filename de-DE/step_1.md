@@ -22,7 +22,7 @@ title: Wo werden meine Bilder gespeichert?
 
 --- collapse ---
 ---
-title: Kein YouTube? Videos herunterladen!
+title: Kein YouTube? Lade das Video herunter!
 ---
 
 Du kannst [alle Videos zu diesem Projekt herunterladen](https://rpf.io/p/de-DE/apple-vs-tomato-go){:target="_blank"}.
