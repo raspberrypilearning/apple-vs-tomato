@@ -10,7 +10,7 @@ Hyfforddwch fodel i ganfod yr hyn rydych chi'n ei ddal.
 
 ### Hyfforddwch y model
 
---- task ---
+\--- task ---
 
 Cliciwch ar **Train Model**.
 
@@ -18,22 +18,22 @@ Cliciwch ar **Train Model**.
 
 ![Y botwm 'Train Model'.](images/train_model.png)
 
---- /task ---
+\--- /task ---
 
 ### Profwch y model
 
---- task ---
+\--- task ---
 
 Daliwch eich afal gwyrdd i fyny at eich gwe-gamera.
 
 Dylai'r model gynhyrchu rhagfynegiad gyda **sgôr hyder uchel** mai **afal** ydyw.
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
 Daliwch eich tomato **coch** i fyny at eich gwe-gamera.
 
 Dylai'r model gynhyrchu rhagfynegiad gyda **sgôr hyder uchel** mai **tomato** ydyw.
 
---- /task ---
+\--- /task ---

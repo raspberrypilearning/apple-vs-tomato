@@ -1,20 +1,23 @@
----
 title: Táo so với cà chua
 hero_image: images/banner.png
 description: Đào tạo mô hình học máy để phát hiện bạn đang cầm quả táo hay quả cà chua, sau đó cải thiện nó bằng cách đưa vào nhiều dữ liệu đào tạo đa dạng hơn
+pdf: resources/rpfi-apple-vs-tomato.pdf
 version: 4
 listed: true
 copyedit: false
 last_tested: "2024-07-19"
 steps:
-  - title: Những gì bạn sẽ làm
-  - title: Tạo một mô hình
+  - 
+    title: Những gì bạn sẽ làm
+  - 
+    title: Tạo một mô hình
     completion:
       - engaged
-  - title: Đào tạo và kiểm tra
-  - title: Một quả táo khác
-  - title: Cải thiện mô hình
-    completion:
-      - internal
+  - 
+    title: Đào tạo và kiểm tra
+  - 
+    title: Một quả táo khác
+  - 
+    title: Cải thiện mô hình
     completion:
       - external

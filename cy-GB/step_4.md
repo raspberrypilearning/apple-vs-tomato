@@ -8,7 +8,7 @@ Defnyddiwch afal gwahanol i brofi'r model.
   </div>
 </html>
 
---- task ---
+\--- task ---
 
 Daliwch eich afal **coch** i fyny i'ch gwe-gamera i brofi'r model.
 
@@ -16,4 +16,4 @@ Daliwch eich afal **coch** i fyny i'ch gwe-gamera i brofi'r model.
 
 Byddai siwr o fod yn darogan mai **tomato** ydyw!
 
---- /task ---
+\--- /task ---

@@ -10,73 +10,77 @@ Aggiungi immagini di esempio di mele e pomodori.
 
 ### Imposta il modello
 
---- task ---
+\--- task ---
 
 Apri [Teachable Machine](https://rpf.io/tm){:target="_blank"}.
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
 Rinomina `Classe 1` in `Mela`.
 
 Rinomina `Classe 2` in `Pomodoro`.
 
---- /task ---
+\--- /task ---
 
 ### Scarica le immagini di esempio
 
---- task ---
+\--- task ---
 
 Scarica la [cartella con le immagini iniziali](https://rpf.io/tams){:target="_blank"}.
 
---- /task ---
+\--- /task ---
 
 La cartella verrà scaricata come file zip.
 
---- task ---
+\--- task ---
 
 Decomprimi la cartella.
 
---- /task ---
+\--- /task ---
 
---- collapse ---
+\--- collapse ---
 
 ---
-title: Come decomprimere
----
+
+## title: How to unzip
 
 **Microsoft Windows**
+
 - Apri la cartella 'Download'.
 - Fai clic con il pulsante destro del mouse sul file zip e seleziona **Estrai tutto**.
 
 **ChromeOS**
+
 - Apri File.
 - Fai doppio clic sul file zip.
 - Sulla sinistra, troverai il file zip.
 - Trascina e rilascia i file/le cartelle nella nuova cartella di tua scelta.
 
 **macOS**
+
 - Apri la cartella 'Download'.
 - Fai doppio clic sul file zip.
 - Verrà creata una nuova cartella con i file/le sottocartelle decompressi.
 
 **Linux**
+
 - Apri la cartella 'Download'.
 - Fai clic con il pulsante destro del mouse sul file zip e seleziona **Estrai tutto**.
 
---- /collapse ---
+\--- /collapse ---
 
 ### Aggiungi immagini di esempio
 
---- task ---
+\--- task ---
 
 Carica le immagini della **mela** verde alla classe 'Mela'.
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
 Carica le immagini del **pomodoro** rosso alla classe 'Pomodoro'.
 
---- /task ---
+\--- /task ---

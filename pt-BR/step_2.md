@@ -10,41 +10,41 @@ Adicione imagens de exemplo de maçãs e tomates.
 
 ### Configurar o modelo
 
---- task ---
+\--- task ---
 
 Abra [Teachable Machine](https://rpf.io/tm){:target="_blank"}.
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
 Renomeie `Classe 1` para `Maçã`.
 
 Renomeie `Classe 2` para `Tomate`.
 
---- /task ---
+\--- /task ---
 
 ### Baixar imagens de exemplo
 
---- task ---
+\--- task ---
 
 Baixe a [pasta contendo as imagens iniciais](https://rpf.io/tams){:target="_blank"}.
 
---- /task ---
+\--- /task ---
 
 A pasta será baixada como um arquivo zip.
 
---- task ---
+\--- task ---
 
 Descompacte a pasta.
 
---- /task ---
+\--- /task ---
 
---- collapse ---
+\--- collapse ---
 
 ---
-title: Como descompactar
----
+
+## title: How to unzip
 
 **Microsoft Windows**
 
@@ -69,18 +69,18 @@ title: Como descompactar
 - Abra a pasta "Downloads".
 - Clique com o botão direito do mouse no arquivo zip e selecione **Extrair aqui**.
 
---- /collapse ---
+\--- /collapse ---
 
 ### Adicionar imagens de amostra
 
---- task ---
+\--- task ---
 
 Carregue as imagens da **maçã** verde para a classe 'Maçã'.
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
 Carregue as imagens do **tomate** vermelho para a classe 'Tomate'.
 
---- /task ---
+\--- /task ---

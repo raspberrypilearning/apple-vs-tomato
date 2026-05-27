@@ -10,7 +10,7 @@
 
 ### Đào tạo mô hình
 
---- task ---
+\--- task ---
 
 Nhấp vào **Đào tạo mô hình**.
 
@@ -18,22 +18,22 @@ Nhấp vào **Đào tạo mô hình**.
 
 ![Nút 'Đào tạo mô hình'.](images/train_model.png)
 
---- /task ---
+\--- /task ---
 
 ### Kiểm tra mô hình
 
---- task ---
+\--- task ---
 
 Đưa quả táo **xanh** của bạn lên trước webcam.
 
 Mô hình sẽ đưa ra dự đoán với **điểm tin cậy cao** rằng đó là một **quả táo**.
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
 Đưa quả cà chua **đỏ** của bạn lên trước webcam.
 
 Mô hình sẽ đưa ra dự đoán với **điểm tin cậy cao** rằng đó là **quả cà chua**.
 
---- /task ---
+\--- /task ---

@@ -8,7 +8,7 @@ Brug et andet æble til at teste modellen.
   </div>
 </html>
 
---- task ---
+\--- task ---
 
 Hold dit **røde** æble op på dit webcam for at teste modellen.
 
@@ -16,4 +16,4 @@ Modellen bør **ikke** give en forudsigelse med en høj konfidensscore, at det e
 
 Det vil sandsynligvis give en forudsigelse om, at det er en **tomat**!
 
---- /task ---
+\--- /task ---

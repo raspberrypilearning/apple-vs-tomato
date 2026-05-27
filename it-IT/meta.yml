@@ -1,20 +1,23 @@
----
 title: Mela VS pomodoro
 hero_image: images/banner.png
 description: Addestra un modello di apprendimento automatico per rilevare se stai tenendo in mano una mela o un pomodoro, quindi miglioralo includendo dati di addestramento diversificati
+pdf: resources/rpfi-apple-vs-tomato.pdf
 version: 4
 listed: true
 copyedit: false
 last_tested: "2024-07-19"
 steps:
-  - title: Che cosa farai
-  - title: Crea un modello
+  - 
+    title: Che cosa farai
+  - 
+    title: Crea un modello
     completion:
       - engaged
-  - title: Addestra e testa
-  - title: Una mela diversa
-  - title: Migliora il modello
-    completion:
-      - internal
+  - 
+    title: Addestra e testa
+  - 
+    title: Una mela diversa
+  - 
+    title: Migliora il modello
     completion:
       - external

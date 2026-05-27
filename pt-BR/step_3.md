@@ -10,7 +10,7 @@ Treine um modelo para detectar o que você está segurando.
 
 ### Treine o modelo
 
---- task ---
+\--- task ---
 
 Clique em **Treinar Modelo**.
 
@@ -18,22 +18,22 @@ Clique em **Treinar Modelo**.
 
 ![Botão 'Treinar Modelo'.](images/train_model.png)
 
---- /task ---
+\--- /task ---
 
 ### Teste o modelo
 
---- task ---
+\--- task ---
 
 Segure sua maçã **verde** em frente à sua câmera.
 
 O modelo deve produzir uma previsão com uma **alta pontuação de confiança** de que é uma **maçã**.
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
 Segure seu tomate **vermelho** em frente à sua câmera.
 
 O modelo deve produzir uma previsão com uma **alta pontuação de confiança** de que é um **tomate**.
 
---- /task ---
+\--- /task ---

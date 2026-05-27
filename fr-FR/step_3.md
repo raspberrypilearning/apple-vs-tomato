@@ -10,7 +10,7 @@ Entraîne un modèle pour détecter ce que tu tiens.
 
 ### Entraîner le modèle
 
---- task ---
+\--- task ---
 
 Clique sur **Modèle d'entraînement**.
 
@@ -18,22 +18,22 @@ Clique sur **Modèle d'entraînement**.
 
 ![Le bouton "Entraîner le modèle".](images/train_model.png)
 
---- /task ---
+\--- /task ---
 
 ### Tester le modèle
 
---- task ---
+\--- task ---
 
-Tiens ta pomme **verte** devant ta webcam.
+Tiens ta pomme \*_verte_ devant ta webcam.
 
 Le modèle devrait produire une prédiction avec un **score de confiance élevé** qu'il s'agit d'une **pomme**.
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
-Tiens ta tomate **rouge** devant ta webcam.
+Tiens ta tomate \*_rouge_ devant ta webcam.
 
 Le modèle devrait produire une prédiction avec un **score de confiance élevé** qu'il s'agit d'une **tomate**.
 
---- /task ---
+\--- /task ---

@@ -10,19 +10,19 @@ Mae'r data hyfforddi yn rhagfarnllyd, gan ei fod yn cynnwys afalau gwyrdd yn uni
 
 Er mwyn lleihau'r rhagfarn, mae angen i chi ychwanegu enghreifftiau ychwanegol o afalau i'r dosbarth 'Afal'.
 
---- task ---
+\--- task ---
 
 Lawrlwythwch [ffolder o fwy o ddelweddau o afalau](https://drive.google.com/drive/folders/1OIuoG7go72c7QririIpykJ4tW-arrtfA){:target="_blank"}.
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
 Dadsipio'r ffolder newydd.
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
 Yn y dosbarth 'Afal', ychwanegwch rai samplau o ddelweddau o un o'r ffolderi rydych chi newydd eu lawrlwytho.
 
@@ -32,29 +32,29 @@ Dewiswch ddelweddau sy'n edrych fwyaf fel eich afal **coch**.
 
 **Awgrym:** Dim ond ychydig o samplau ychwanegol sydd angen i chi eu hychwanegu at eich dosbarth 'Afal'.
 
---- /task ---
+\--- /task ---
 
 ### Hyfforddwch y model eto
 
---- task ---
+\--- task ---
 
 Cliciwch ar **Train Model**.
 
 ![Y botwm 'Train Model'.](images/train_model.png)
 
---- /task ---
+\--- /task ---
 
 Pan fydd y model wedi'i hyfforddi, bydd y panel rhagolwg yn agor.
 
---- task ---
+\--- task ---
 
 Daliwch eich afal **coch** i fyny i'ch gwe-gamera i brofi'r model eto.
 
 Dylai'r model gynhyrchu rhagfynegiad gyda **sgôr hyder uchel** mai **afal** ydyw.
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
 Daliwch eich tomato i fyny at eich gwe-gamera.
 
@@ -62,13 +62,12 @@ Gallai'r model gynhyrchu rhagfynegiad gyda **sgôr hyder is** mai **tomato** ydy
 
 Mae hyn oherwydd eich bod wedi ychwanegu data hyfforddi at y dosbarth 'Afal' o ddelweddau sy'n edrych yn debycach i domatos.
 
---- /task ---
+\--- /task ---
 
---- collapse ---
----
-title: Nodyn i addysgwyr
----
+## --- collapse ---
+
+## title: Nodyn i addysgwyr
 
 Efallai y byddwch yn dewis cyflwyno i'r dysgwyr y cysyniad o'r duedd foesegol a all ddeillio o ddefnyddio data hyfforddi rhagfarnllyd.
 
---- /collapse ---
+\--- /collapse ---

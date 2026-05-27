@@ -8,7 +8,7 @@ Sử dụng một quả táo khác để kiểm tra mô hình.
   </div>
 </html>
 
---- task ---
+\--- task ---
 
 Đưa quả táo **đỏ** của bạn lên webcam để kiểm tra mô hình.
 
@@ -16,4 +16,4 @@ Mô hình **không** nên đưa ra dự đoán với độ tin cậy cao rằng 
 
 Có lẽ nó sẽ đưa ra dự đoán chắc chắn rằng đó là một quả **cà chua**!
 
---- /task ---
+\--- /task ---

@@ -10,41 +10,41 @@ Tilføj eksempelbilleder af æbler og tomater.
 
 ### Opsæt modellen
 
---- task ---
+\--- task ---
 
 Åbn [Teachable Machine](https://rpf.io/tm){:target="_blank"}.
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
 Omdøb `Klasse 1` til `Æble`.
 
 Omdøb `Klasse 2` til `Tomat`.
 
---- /task ---
+\--- /task ---
 
 ### Download eksempel billeder
 
---- task ---
+\--- task ---
 
 Download [mappen der indeholder startbilleder](https://rpf.io/tams){:target="_blank"}.
 
---- /task ---
+\--- /task ---
 
 Mappen downloades som en zip-fil.
 
---- task ---
+\--- task ---
 
 Udpakke mappe.
 
---- /task ---
+\--- /task ---
 
---- collapse ---
+\--- collapse ---
 
 ---
-title: Sådan udpakkes
----
+
+## title: Sådan udpakkes
 
 **Microsoft Windows**
 
@@ -69,18 +69,18 @@ title: Sådan udpakkes
 - Åbn din mappe 'Downloads'.
 - Højreklik på zip-filen, og vælg **Udpak her**.
 
---- /collapse ---
+\--- /collapse ---
 
 ### Tilføj eksempelbilleder
 
---- task ---
+\--- task ---
 
 Upload billederne af det grønne **æble** til 'Æble'-klassen.
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
 Upload billederne af de røde **tomater** til 'Tomat'-klassen.
 
---- /task ---
+\--- /task ---

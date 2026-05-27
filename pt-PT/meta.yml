@@ -1,20 +1,23 @@
----
 title: Maçã vs Tomate
 hero_image: images/banner.png
 description: Treina um modelo de machine learning para detetar se estás a segurar numa maçã ou num tomate, depois melhora-a para incluir mais dados de treino
+pdf: resources/rpfi-apple-vs-tomato.pdf
 version: 4
 listed: true
 copyedit: false
 last_tested: "2024-07-19"
 steps:
-  - title: O que vais fazer
-  - title: Criar um modelo
+  - 
+    title: O que vais fazer
+  - 
+    title: Criar um modelo
     completion:
       - engaged
-  - title: Treinar e testar
-  - title: Uma maçã diferente
-  - title: Melhorar o modelo
-    completion:
-      - internal
+  - 
+    title: Treinar e testar
+  - 
+    title: Uma maçã diferente
+  - 
+    title: Melhorar o modelo
     completion:
       - external

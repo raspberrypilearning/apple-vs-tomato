@@ -10,73 +10,77 @@ Ychwanegu delweddau sampl o afalau a thomatos.
 
 ### Gosodwch y model
 
---- task ---
+\--- task ---
 
 Agor [Peiriant Dysgadwy](https://rpf.io/tm){:target="_blank"}.
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
 Ailenwi `Dosbarth 1` i `Afal`.
 
 Ailenwi `Dosbarth 2` i `Tomato`.
 
---- /task ---
+\--- /task ---
 
 ### Lawrlwythwch ddelweddau sampl
 
---- task ---
+\--- task ---
 
 Lawrlwythwch y [ffolder sy'n cynnwys y delweddau cychwynnol](https://rpf.io/tams){:target="_blank"}.
 
---- /task ---
+\--- /task ---
 
 Bydd y ffolder ynlawrlwytho fel ffeil zip.
 
---- task ---
+\--- task ---
 
 Dadsipio'r ffolder.
 
---- /task ---
+\--- /task ---
 
---- collapse ---
+\--- collapse ---
 
 ---
-title: Sut i ddadsipio
----
+
+## title: Sut i ddadsipio
 
 **Microsoft Windows**
+
 - Agorwch eich ffolder 'Lawrlwythiadau'.
 - De-gliciwch ar y ffeil zip a dewis **Extract All**.
 
 **ChromeOS**
+
 - Agor Ffeiliau.
 - Cliciwch ddwywaith ar y ffeil zip.
 - Ar y chwith, fe welwch y ffeil zip.
 - Llusgwch a gollwng y ffeiliau/ffolderi i ffolder newydd o'ch dewis.
 
 **macOS**
+
 - Agorwch eich ffolder 'Lawrlwythiadau'.
 - Cliciwch ddwywaith ar y ffeil zip.
 - Bydd ffolder newydd yn cael ei greu sy'n cynnwys y ffeiliau/ffolderi datgywasgedig.
 
 **Linux**
+
 - Agorwch eich ffolder 'Lawrlwythiadau'.
 - De-gliciwch ar y ffeil zip a dewis **Extract Here**.
 
---- /collapse ---
+\--- /collapse ---
 
 ### Ychwanegu delweddau sampl
 
---- task ---
+\--- task ---
 
 Uwchlwythwch y delweddau **afal** gwyrdd i'r dosbarth 'Afal'.
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
 Uwchlwythwch y delweddau **tomato** coch i'r dosbarth 'Tomato'.
 
---- /task ---
+\--- /task ---

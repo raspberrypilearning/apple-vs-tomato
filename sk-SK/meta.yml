@@ -1,0 +1,23 @@
+title: Jablko verzus paradajka
+hero_image: images/banner.png
+description: Trénuj model strojového učenia, ktorý vydedukuje, či držíš jablko alebo paradajku, potom ho vylepši tým, že pridáš viac rôznych tréningových dát
+pdf: resources/rpfi-apple-vs-tomato.pdf
+version: 4
+listed: true
+copyedit: false
+last_tested: "2024-07-19"
+steps:
+  - 
+    title: Čo spravíš
+  - 
+    title: Vytvor model
+    completion:
+      - engaged
+  - 
+    title: Trénuj a testuj
+  - 
+    title: Iné jablko
+  - 
+    title: Vylepši model
+    completion:
+      - external

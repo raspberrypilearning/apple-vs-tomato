@@ -8,7 +8,7 @@ Gebruik een andere appel om het model te testen.
   </div>
 </html>
 
---- task ---
+\--- task ---
 
 Houd je **rode** appel voor je webcam om het model te testen.
 
@@ -16,4 +16,4 @@ Het model mag **geen** voorspelling met een hoge betrouwbaarheidsscore doen dat 
 
 Waarschijnlijk zal de voorspelling zijn dat het een **tomaat** is!
 
---- /task ---
+\--- /task ---

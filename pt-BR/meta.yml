@@ -7,14 +7,17 @@ listed: true
 copyedit: false
 last_tested: "2024-07-19"
 steps:
-  - title: O que você vai fazer
-  - title: Crie um modelo
+  - 
+    title: O que você vai fazer
+  - 
+    title: Crie um modelo
     completion:
-    - engaged
-  - title: Treine e teste
-  - title: Uma maçã diferente
-  - title: Melhore o modelo
+      - engaged
+  - 
+    title: Treine e teste
+  - 
+    title: Uma maçã diferente
+  - 
+    title: Melhore o modelo
     completion:
-    - internal
-    completion:
-    - external
+      - external

@@ -8,33 +8,32 @@ Je hebt een **webcam**, een **rode appel**, een **groene appel** en een **rode t
 
 Je moet bestanden kunnen downloaden en opslaan op jouw computer.
 
---- collapse ---
+\--- collapse ---
 
 ---
-title: Waar worden mijn afbeeldingen opgeslagen?
----
+
+## title: Waar worden mijn afbeeldingen opgeslagen?
 
 - Dit project maakt gebruik van een technologie genaamd 'machine learning'. Machine learning-systemen worden getraind met behulp van een grote hoeveelheid data.
 - Voor dit project hoef je geen account aan te maken of in te loggen. Voor dit project worden de afbeeldingsvoorbeelden die je gebruikt om het model te maken tijdelijk opgeslagen in je browser (alleen op je machine).
 - Er worden geen afbeeldingen van je webcam verzonden naar deze website of naar een andere website.
 
---- /collapse ---
+\--- /collapse ---
 
---- collapse ---
+## --- collapse ---
+
+## title: Geen YouTube? Download de video's!
+
+Je kunt [alle video's voor dit project downloaden](https://rpf.io/p/en/apple-vs-tomato-go){:target="_blank"}.
+
+\--- /collapse ---
+
+\--- collapse ---
+
 ---
-title: Geen YouTube? Download de video's!
----
 
-Je kunt [alle video's voor dit project downloaden](https://rpf.io/p/nl-NL/apple-vs-tomato-go){:target="_blank"}.
-
---- /collapse ---
-
---- collapse ---
-
----
-title: Licentie
----
+## title: Licentie
 
 We willen [Samuel Cortinhas](https://www.kaggle.com/datasets/samuelcortinhas/apples-or-tomatoes-image-classification/data){:target="_blank"} bedanken voor het concept en de afbeeldingen voor dit project.
 
---- /collapse ---
+\--- /collapse ---

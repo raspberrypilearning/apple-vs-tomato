@@ -10,19 +10,19 @@ I dati di allenamento non sono rappresentativi, in quanto includono solo mele ve
 
 Per rendere il modello più accurato, è necessario aggiungere ulteriori esempi di mele alla classe 'Mela'.
 
---- task ---
+\--- task ---
 
 Scarica una [cartella con altre immagini di mele](https://drive.google.com/drive/folders/1OIuoG7go72c7QririIpykJ4tW-arrtfA){:target="_blank"}.
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
 Decomprimi la nuova cartella.
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
 Nella classe 'Mela', aggiungi alcuni esempi di immagini da una delle cartelle che hai appena scaricato.
 
@@ -32,29 +32,29 @@ Scegli delle immagini che assomigliano di più alla tua mela **rossa**.
 
 **Suggerimento:** basta che tu aggiunga solo alcuni esempi aggiuntivi alla classe 'Mela'.
 
---- /task ---
+\--- /task ---
 
 ### Addestra di nuovo il modello
 
---- task ---
+\--- task ---
 
 Fai clic su **Train Model**.
 
 ![Il pulsante 'Train Model'.](images/train_model.png)
 
---- /task ---
+\--- /task ---
 
 Una volta addestrato il modello, si aprirà il pannello di anteprima.
 
---- task ---
+\--- task ---
 
 Tieni la tua mela **rossa** davanti alla webcam per testare il modello di nuovo.
 
 Il modello dovrebbe produrre una previsione con un **punteggio di confidenza elevato** che indichi che si tratti di una **mela**.
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
 Tieni il tuo pomodoro davanti alla webcam.
 
@@ -62,13 +62,12 @@ Il modello potrebbe produrre una previsione con un **punteggio di confidenza ele
 
 Questo accade perché hai aggiunto ai dati di addestramento della classe 'Mela' immagini che somigliano di più ai pomodori.
 
---- /task ---
+\--- /task ---
 
---- collapse ---
----
-title: Nota per gli educatori
----
+## --- collapse ---
+
+## title: Note to educators
 
 Potresti cogliere l’occasione per parlare del bias etico, che può derivare dall'uso di dati di addestramento non rappresentativi.
 
---- /collapse ---
+\--- /collapse ---

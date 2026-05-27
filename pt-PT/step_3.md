@@ -10,7 +10,7 @@ Treina o modelo para detetar o que estás a segurar.
 
 ### Treinar o modelo
 
---- task ---
+\--- task ---
 
 Clica em **Modelo preparado**.
 
@@ -18,22 +18,22 @@ Clica em **Modelo preparado**.
 
 ![O botão 'Modelo preparado'.](images/train_model.png)
 
---- /task ---
+\--- /task ---
 
 ### Testar o modelo
 
---- task ---
+\--- task ---
 
 Segura a tua maçã **verde** em frente à tua webcam.
 
 O modelo deve produzir uma predição com uma **alta pontuação de confiança** de que é uma **Maçã**.
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
 Segura no teu tomate **vermelho** em frente à tua webcam.
 
 O modelo deve produzir uma predição com uma **alta pontuação de confiança** de que é um **Tomate**.
 
---- /task ---
+\--- /task ---

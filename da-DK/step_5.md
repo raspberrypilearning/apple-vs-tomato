@@ -10,19 +10,19 @@ Træningsdata er forudindtaget, da de kun omfatter grønne æbler.
 
 For at mindske biasen skal du tilføje ekstra eksempler på æbler til 'Æble'-klassen.
 
---- task ---
+\--- task ---
 
 Hent en [mappe med flere billeder af æbler](https://drive.google.com/drive/folders/1OIuoG7go72c7QririIpykJ4tW-arrtfA){:target="_blank"}.
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
 Udpak den nye mappe.
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
 I 'æble'-klassen, tilføj nogle eksempler på billeder fra en af de mapper, du lige har hentet.
 
@@ -32,29 +32,29 @@ Vælg billeder, der ser mest ud som dit **rødt** æble.
 
 **Tip:** Du behøver kun at tilføje et par ekstra eksempler til din 'æble'-klasse.
 
---- /task ---
+\--- /task ---
 
 ### Træn modellen igen
 
---- task ---
+\--- task ---
 
 Klik på **Træn Model**.
 
 ![Knappen 'Træn Model'.](images/train_model.png)
 
---- /task ---
+\--- /task ---
 
 Når modellen er uddannet, vil forhåndsvisningspanelet åbne.
 
---- task ---
+\--- task ---
 
 Hold **røde**-æblet oppe på dit webcam for at teste modellen igen.
 
 Modellen skal give en forudsigelse med en **højere konfidensscore**, at det er et **æble**.
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
 Hold din tomat op på dit webcam.
 
@@ -62,13 +62,12 @@ Modellen kan give en forudsigelse med en **lavere konfidensscore**, at det er en
 
 Dette skyldes, at du har tilføjet træningsdata til 'æble' klassen af billeder, der ligner mere tomater.
 
---- /task ---
+\--- /task ---
 
---- collapse ---
----
-title: Bemærkning til undervisere
----
+## --- collapse ---
+
+## title: Bemærkning til undervisere
 
 Du kan vælge at introducere eleverne til konceptet om den etiske bias, der kan opstå som følge af brugen af forudindtagede træningsdata.
 
---- /collapse ---
+\--- /collapse ---

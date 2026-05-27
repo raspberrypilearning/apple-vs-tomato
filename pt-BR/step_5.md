@@ -10,19 +10,19 @@ Os dados de formação são tendenciosos, visto que incluem apenas maçãs verde
 
 Para reduzir o viés, você precisa adicionar exemplos extras de maçãs à classe 'Maçã'.
 
---- task ---
+\--- task ---
 
 Baixe uma [pasta com mais imagens de maçãs](https://drive.google.com/drive/folders/1OIuoG7go72c7QririIpykJ4tW-arrtfA){:target="_blank"}.
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
 Descompacte a nova pasta.
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
 Na classe 'Maçã', adicione alguns exemplos de imagens de uma das pastas que você acabou de baixar.
 
@@ -32,29 +32,29 @@ Escolha imagens que mais se pareçam com sua maçã **vermelha**.
 
 **Dica:** você só precisa adicionar algumas amostras extras à sua classe 'Maçã'.
 
---- /task ---
+\--- /task ---
 
 ### Treine o modelo novamente
 
---- task ---
+\--- task ---
 
 Clique em **Treinar Modelo**.
 
 ![Botão 'Treinar Modelo'.](images/train_model.png)
 
---- /task ---
+\--- /task ---
 
 Quando o modelo é treinado, o painel de pré-visualização será aberto.
 
---- task ---
+\--- task ---
 
 Segure sua maçã **vermelha** em frente à sua câmera para testar o modelo novamente.
 
 O modelo deve produzir uma previsão com uma **alta pontuação de confiança** de que é uma **maçã**.
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
 Segure um tomate em frente à sua câmera.
 
@@ -62,13 +62,12 @@ O modelo deve produzir uma previsão com um **ponto de confiança menor** que se
 
 Isso ocorre porque você adicionou dados de treinamento à classe de imagens "Maçã" que se parecem mais com tomates.
 
---- /task ---
+\--- /task ---
 
---- collapse ---
----
-title: Nota para educadores
----
+## --- collapse ---
+
+## title: Note to educators
 
 Você pode optar por apresentar aos alunos o conceito de viés ético que pode resultar do uso de dados de treinamento tendenciosos.
 
---- /collapse ---
+\--- /collapse ---

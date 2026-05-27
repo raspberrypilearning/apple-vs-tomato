@@ -8,7 +8,7 @@ Utilise une pomme différente pour tester le modèle.
   </div>
 </html>
 
---- task ---
+\--- task ---
 
 Tiens ta pomme **rouge** devant ta webcam pour tester le modèle.
 
@@ -16,4 +16,4 @@ Le modèle ne devrait **pas** produire une prédiction avec un score de confianc
 
 Il produira probablement une prédiction qu'il s'agit d'une **tomate** !
 
---- /task ---
+\--- /task ---

@@ -10,7 +10,7 @@ Addestra un modello per rilevare l’oggetto che stai tenendo in mano.
 
 ### Addestra il modello
 
---- task ---
+\--- task ---
 
 Fai clic su **Train Model**.
 
@@ -18,22 +18,22 @@ Fai clic su **Train Model**.
 
 ![Il pulsante 'Train Model'.](images/train_model.png)
 
---- /task ---
+\--- /task ---
 
 ### Testa il modello
 
---- task ---
+\--- task ---
 
 Tieni la tua mela **verde** di fronte alla webcam.
 
 Il modello dovrebbe produrre una previsione con un **punteggio di confidenza elevato** che indichi che si tratti di una **mela**.
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
 Tieni il tuo pomodoro **rosso** davanti alla webcam.
 
 Il modello dovrebbe produrre una previsione con un **punteggio di confidenza elevato** che indichi che si tratti di un **pomodoro**.
 
---- /task ---
+\--- /task ---

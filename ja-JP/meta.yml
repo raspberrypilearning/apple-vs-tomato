@@ -1,0 +1,23 @@
+title: リンゴ対トマト
+hero_image: images/banner.png
+description: 機械学習モデルをトレーニングして、手に持っているのがリンゴかトマトかを判別できるようにし、次に、より多様なトレーニングデータを使用してその精度を向上させます
+pdf: resources/rpfi-apple-vs-tomato.pdf
+version: 4
+listed: true
+copyedit: false
+last_tested: "2024-07-19"
+steps:
+  - 
+    title: はじめに
+  - 
+    title: モデルを作成する
+    completion:
+      - engaged
+  - 
+    title: トレーニングとテスト
+  - 
+    title: 別のリンゴ
+  - 
+    title: モデルを改善する
+    completion:
+      - external

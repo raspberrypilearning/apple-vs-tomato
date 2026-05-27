@@ -8,7 +8,7 @@ Use uma maçã diferente para testar o modelo.
   </div>
 </html>
 
---- task ---
+\--- task ---
 
 Segure sua maçã **vermelha** na frente da sua câmera para testar o modelo.
 
@@ -16,4 +16,4 @@ O modelo **não** deve produzir uma previsão com alta pontuação de confiança
 
 Provavelmente produzirá uma previsão de que é um **tomate**!
 
---- /task ---
+\--- /task ---

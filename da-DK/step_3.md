@@ -10,7 +10,7 @@ Træn en model for at finde ud af, hvad du besidder.
 
 ### Træn modellen
 
---- task ---
+\--- task ---
 
 Klik på **Træn Model**.
 
@@ -18,22 +18,22 @@ Klik på **Træn Model**.
 
 ![Knappen 'Træn Model'.](images/train_model.png)
 
---- /task ---
+\--- /task ---
 
 ### Træn modellen
 
---- task ---
+\--- task ---
 
 Hold op dit grønne æble op mod kameraet.
 
 Modellen skal producere en forudsigelse med en **høj konfidensscore** om, at det er et **æble**.
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
 Hold op din røde tomat op mod kameraet.
 
 Modellen skal give en forudsigelse med en **høj konfidensscore**, at det er en **tomat**.
 
---- /task ---
+\--- /task ---

@@ -8,33 +8,32 @@ Tu auras besoin d'une **webcam**, d'une **pomme rouge**, d'une **pomme verte** e
 
 Tu devras pouvoir télécharger et enregistrer des fichiers sur ton ordinateur.
 
---- collapse ---
+\--- collapse ---
 
 ---
-title: Où sont stockées mes images ?
----
+
+## title: Où sont stockées mes images ?
 
 - Ce projet utilise une technologie appelée « apprentissage automatique ». Les systèmes d'apprentissage automatique sont entraînés à l'aide d'une grande quantité de données.
 - Ce projet ne nécessite pas la création d'un compte ou d'une connexion. Pour ce projet, les exemples d'images que tu utilises pour réaliser le modèle ne sont stockés que temporairement dans ton navigateur (uniquement sur ta machine).
 - Aucune image de ta webcam n'est envoyée à ce site ou à aucun autre site web.
 
---- /collapse ---
+\--- /collapse ---
 
---- collapse ---
+## --- collapse ---
+
+## title: Pas de YouTube ? Télécharge les vidéos !
+
+Tu peux [télécharger l'ensemble des vidéos de ce projet](https://rpf.io/p/en/apple-vs-tomato-go){:target="_blank"}.
+
+\--- /collapse ---
+
+\--- collapse ---
+
 ---
-title: Pas de YouTube ? Télécharge les vidéos !
----
 
-Tu peux [télécharger l'ensemble des vidéos de ce projet](https://rpf.io/p/fr-FR/apple-vs-tomato-go){:target="_blank"}.
-
---- /collapse ---
-
---- collapse ---
-
----
-title: Licence
----
+## title: Licence
 
 Nous tenons à remercier [Samuel Cortinhas](https://www.kaggle.com/datasets/samuelcortinhas/apples-or-tomatoes-image-classification/data){:target="_blank"} pour le concept et les images de ce projet.
 
---- /collapse ---
+\--- /collapse ---

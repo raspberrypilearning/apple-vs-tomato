@@ -1,4 +1,3 @@
----
 title: Æble vs. Tomat
 hero_image: images/banner.png
 description: Træn en maskine learning model til at opdage, hvis du holder en æble eller en tomat, og derefter forbedre det ved at inkludere mere forskelligartede træningsdata
@@ -8,14 +7,17 @@ listed: true
 copyedit: false
 last_tested: "2024-07-19"
 steps:
-  - title: Hvad du vil lave
-  - title: Lav en model
+  - 
+    title: Hvad du vil lave
+  - 
+    title: Lav en model
     completion:
-    - engaged
-  - title: Træn og test
-  - title: Et andet æble
-  - title: Forbedre modellen
+      - engaged
+  - 
+    title: Træn og test
+  - 
+    title: Et andet æble
+  - 
+    title: Forbedre modellen
     completion:
-    - internal
-    completion:
-    - external
+      - external

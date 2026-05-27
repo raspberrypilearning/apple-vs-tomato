@@ -10,41 +10,41 @@ Ajoute des images de pommes et de tomates.
 
 ### Configurer le modèle
 
---- task ---
+\--- task ---
 
 Ouvre [Teachable Machine](https://rpf.io/tm){:target="_blank"}.
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
 Renomme « Class 1 » en « Pomme ».
 
 Renomme « Class 2 » en « Tomate ».
 
---- /task ---
+\--- /task ---
 
 ### Télécharger les exemples d'images
 
---- task ---
+\--- task ---
 
 Télécharge le [dossier contenant les images de démarrage](https://rpf.io/tams){:target="_blank"}.
 
---- /task ---
+\--- /task ---
 
 Le dossier sera téléchargé en tant que fichier zip.
 
---- task ---
+\--- task ---
 
 Décompresse le dossier.
 
---- /task ---
+\--- /task ---
 
---- collapse ---
+\--- collapse ---
 
 ---
-title: Comment décompresser
----
+
+## title: Comment décompresser
 
 **Microsoft Windows**
 
@@ -69,18 +69,18 @@ title: Comment décompresser
 - Ouvre ton dossier « Téléchargements ».
 - Fais un clic droit sur le fichier zip et sélectionne **Extraire ici**.
 
---- /collapse ---
+\--- /collapse ---
 
 ### Ajouter des exemples d'images
 
---- task ---
+\--- task ---
 
 Charge les images **pomme** verte dans la classe « Pomme ».
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
 Charge les images **tomate** rouge dans la classe « Tomate ».
 
---- /task ---
+\--- /task ---

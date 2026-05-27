@@ -8,7 +8,7 @@ Usa una mela diversa per testare il modello.
   </div>
 </html>
 
---- task ---
+\--- task ---
 
 Tieni la tua mela **rossa** davanti alla webcam per testare il modello.
 
@@ -16,4 +16,4 @@ Il modello **non** dovrebbe produrre una previsione con un punteggio di confiden
 
 Probabilmente prevederà che si tratta di un **pomodoro**!
 
---- /task ---
+\--- /task ---

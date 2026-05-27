@@ -1,0 +1,23 @@
+title: Manzana vs Tomate
+hero_image: images/banner.png
+description: Entrena el modelo de aprendizaje automático para que detecte si estás sosteniendo una manzana o un tomate, y luego mejóralo incluyendo datos de entrenamiento más diversos
+pdf: resources/rpfi-apple-vs-tomato.pdf
+version: 4
+listed: true
+copyedit: false
+last_tested: "2024-07-19"
+steps:
+  - 
+    title: Lo que harás
+  - 
+    title: Crea un modelo
+    completion:
+      - engaged
+  - 
+    title: Entrena y prueba
+  - 
+    title: Una manzana diferente
+  - 
+    title: Mejora el modelo
+    completion:
+      - external
