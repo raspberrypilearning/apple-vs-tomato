@@ -1,0 +1,24 @@
+1
+00:00:02,880 --> 00:00:04,120
+rpf.io/tm adresine gidin
+
+2
+00:00:06,600 --> 00:00:09,560
+Sınıfların adlarını 'Elma' ve 'Domates' olarak değiştirin
+
+3
+00:00:09,560 --> 00:00:11,720
+Başlangıç eğitim görsellerini indirin
+
+4
+00:00:11,720 --> 00:00:15,280
+Klasörü ayıklayın
+
+5
+00:00:15,280 --> 00:00:18,480
+Yeşil elma resimlerini 'Elma' sınıfına yükleyin
+
+6
+00:00:18,480 --> 00:00:24,520
+Kırmızı domates resimlerini 'Domates' sınıfına yükleyin
+
