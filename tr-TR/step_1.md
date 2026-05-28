@@ -8,7 +8,7 @@ Bir **web kamerasına**, bir **kırmızı elmaya**, bir **yeşil elmaya** ve bir
 
 Dosyaları bilgisayarınıza indirip kaydedebilmeniz gerekecek.
 
-\--- collapse ---
+--- collapse ---
 
 ---
 
@@ -18,17 +18,18 @@ Dosyaları bilgisayarınıza indirip kaydedebilmeniz gerekecek.
 - Bu proje için hesap oluşturmanız veya giriş yapmanız gerekmiyor. Bu proje için, modeli oluşturmak üzere kullandığınız resim örnekleri yalnızca geçici olarak tarayıcınızda (yalnızca bilgisayarınızda) saklanır.
 - Web kameranızdan hiçbir görüntü bu web sitesine veya başka herhangi bir web sitesine gönderilmez.
 
-\--- /collapse ---
+--- /collapse ---
 
-## --- collapse ---
+--- collapse ---
+---
+title: YouTube hesabınız yok mu? Videoları indirin!
+---
 
-## title: YouTube hesabınız yok mu? Videoları indirin!
+[Bu proje için tüm videoları] indirebilirsiniz (https://rpf.io/p/tr-TR/apple-vs-tomato-go){:target="_blank"}.
 
-[Bu proje için tüm videoları] indirebilirsiniz (https://rpf.io/p/en/apple-vs-tomato-go){:target="_blank"}.
+--- /collapse ---
 
-\--- /collapse ---
-
-\--- collapse ---
+--- collapse ---
 
 ---
 
@@ -36,4 +37,4 @@ Dosyaları bilgisayarınıza indirip kaydedebilmeniz gerekecek.
 
 Bu proje için konsept ve görseller konusunda katkılarından dolayı [Samuel Cortinhas](https://www.kaggle.com/datasets/samuelcortinhas/apples-or-tomatoes-image-classification/data){:target="_blank"}'a teşekkür ederiz.
 
-\--- /collapse ---
+--- /collapse ---

@@ -10,7 +10,7 @@ Elinizde tuttuğunuz şeyi algılayacak bir model eğitin.
 
 ### Modelin eğitilmesi
 
-\--- task ---
+--- task ---
 
 **Modeli eğitin**e tıklayın.
 
@@ -18,22 +18,22 @@ Elinizde tuttuğunuz şeyi algılayacak bir model eğitin.
 
 !['Modeli Eğitin' düğmesi.](images/train_model.png)
 
-\--- /task ---
+--- /task ---
 
 ### Modeli test etme
 
-\--- task ---
+--- task ---
 
 Yeşil elmanızı web kameranıza doğru tutun.
 
 Model, bunun bir **elma** olduğuna dair **yüksek güven skoru** ile bir tahmin üretmelidir.
 
-\--- /task ---
+--- /task ---
 
-\--- task ---
+--- task ---
 
 **Kırmızı** domatesinizi web kameranıza doğru tutun.
 
 Model, bunun bir **domates** olduğuna dair **yüksek güven skoru** ile bir tahmin üretmelidir.
 
-\--- /task ---
+--- /task ---

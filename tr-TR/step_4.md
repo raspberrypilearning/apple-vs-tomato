@@ -8,7 +8,7 @@ Modeli test etmek için farklı bir elma kullanın.
   </div>
 </html>
 
-\--- task ---
+--- task ---
 
 Modeli test etmek için **kırmızı** elmanızı web kameranıza doğru tutun.
 
@@ -16,4 +16,4 @@ Model, elma olduğuna dair yüksek bir güven puanına sahip bir tahmin üretmem
 
 Muhtemelen bunun bir **domates** olduğu yönünde bir tahmin üretecektir!
 
-\--- /task ---
+--- /task ---
