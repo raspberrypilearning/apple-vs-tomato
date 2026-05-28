@@ -16,5 +16,4 @@ steps:
   - title: Improve the model
     completion:
     - internal
-    completion:
     - external
