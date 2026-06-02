@@ -9,8 +9,6 @@ files:
     ignore:
       - /en/resources/*.mp4
       - /en/**/*.pdf
-    translation: /%locale%/**/%original_file_name%
-    ignore:
-      - /en/**/*.pdf
       - /en/**/*.mp3
       - /en/**/*.zip
+    translation: /%locale%/**/%original_file_name%
