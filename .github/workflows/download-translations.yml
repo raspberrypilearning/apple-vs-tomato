@@ -7,7 +7,7 @@ on:
   workflow_dispatch: # Manual triggering
     inputs:
       language_code:
-        description: "Language code to download translations for (leave empty to download all languages)"
+        description: "Language code to download translations for, e.g. 'nl', 'fr'. Leave empty to download all languages."
         required: false
         default: ""
         type: string
