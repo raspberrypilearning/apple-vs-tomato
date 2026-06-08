@@ -1,0 +1,20 @@
+---
+title: Elma mı yoksa domates mi?
+hero_image: images/banner.png
+description: Bir makine öğrenme modelini, elinizde elma mı yoksa domates mi tuttuğunuzu tespit edecek şekilde eğitin, ardından daha çeşitli eğitim verileri ekleyerek modeli geliştirin
+pdf: resources/rpfi-apple-vs-tomato.pdf
+version: 4
+listed: true
+copyedit: false
+last_tested: "2024-07-19"
+steps:
+  - title: Ne yapacaksınız
+  - title: Model oluşturma
+    completion:
+      - engaged
+  - title: Eğitim ve test
+  - title: Farklı bir elma
+  - title: Modeli iyileştirme
+    completion:
+      - internal
+      - external
