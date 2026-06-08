@@ -60,7 +60,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Download selected translations from Crowdin
-        if: ${{ inputs.language_code == '' }}
+        if: ${{ inputs.language_code != '' }}
         uses: crowdin/github-action@v2
         with:
           create_pull_request: false
