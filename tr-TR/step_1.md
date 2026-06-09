@@ -25,7 +25,7 @@ title: Resimlerim nerede saklanıyor?
 title: YouTube hesabınız yok mu? Videoları indirin!
 ---
 
-[Bu proje için tüm videoları] indirebilirsiniz (https://rpf.io/p/tr-TR/apple-vs-tomato-go){:target="_blank"}.
+[Bu proje için tüm videoları](https://rpf.io/p/tr-TR/apple-vs-tomato-go){:target="_blank"} indirebilirsiniz.
 
 --- /collapse ---
 
