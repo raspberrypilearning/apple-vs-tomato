@@ -57,7 +57,7 @@ jobs:
 
             echo "Processing single locale: $LOCALE"
             pushd "$LOCALE" >/dev/null
-            printf -Y on || true
+            nttt -Y on -l "$LOCALE"
             popd >/dev/null
           else
             # All-locales mode (current behaviour)
@@ -66,7 +66,7 @@ jobs:
                 lang_code="$(basename "$lang_dir")"
                 echo "Processing language: $lang_code"
                 pushd "$lang_dir" >/dev/null
-                nttt -Y on || true
+                nttt -Y on -l "$lang_code"
                 popd >/dev/null
               fi
             done
