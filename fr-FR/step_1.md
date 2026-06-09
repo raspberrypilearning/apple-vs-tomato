@@ -22,10 +22,11 @@ title: Où sont stockées mes images ?
 
 --- collapse ---
 ---
-title: Pas de YouTube ? Télécharge les vidéos !
+title: Pas de YouTube ? Télécharge les vidéos !
 ---
 
 Tu peux [télécharger l'ensemble des vidéos de ce projet](https://rpf.io/p/fr-FR/apple-vs-tomato-go){:target="_blank"}.
+
 
 --- /collapse ---
 

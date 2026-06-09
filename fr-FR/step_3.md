@@ -24,7 +24,7 @@ Clique sur **Modèle d'entraînement**.
 
 --- task ---
 
-Tiens ta pomme **verte** devant ta webcam.
+Tiens ta pomme \*_verte_ devant ta webcam.
 
 Le modèle devrait produire une prédiction avec un **score de confiance élevé** qu'il s'agit d'une **pomme**.
 
@@ -32,7 +32,7 @@ Le modèle devrait produire une prédiction avec un **score de confiance élevé
 
 --- task ---
 
-Tiens ta tomate **rouge** devant ta webcam.
+Tiens ta tomate \*_rouge_ devant ta webcam.
 
 Le modèle devrait produire une prédiction avec un **score de confiance élevé** qu'il s'agit d'une **tomate**.
 
