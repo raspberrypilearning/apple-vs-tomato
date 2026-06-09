@@ -47,25 +47,21 @@ title: Comment décompresser
 ---
 
 **Microsoft Windows**
-
 - Ouvre ton dossier « Téléchargements ».
 - Fais un clic droit sur le fichier zip et sélectionne **Extraire tout**.
 
 **ChromeOS**
-
 - Ouvre les fichiers.
 - Double-clique sur le fichier zip.
 - À gauche, tu trouveras le fichier zip.
 - Glisse et dépose les fichiers/dossiers dans un nouveau dossier de ton choix.
 
 **macOS**
-
 - Ouvre ton dossier « Téléchargements ».
 - Double-clique sur le fichier zip.
 - Un nouveau dossier contenant les fichiers/dossiers décompressés sera créé.
 
 **Linux**
-
 - Ouvre ton dossier « Téléchargements ».
 - Fais un clic droit sur le fichier zip et sélectionne **Extraire ici**.
 
