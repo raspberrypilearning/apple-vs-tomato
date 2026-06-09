@@ -1,0 +1,68 @@
+1
+00:00:03,360 --> 00:00:06,480
+Farklı elma türlerinin resimlerini içeren bir klasör indirin
+
+2
+00:00:06,480 --> 00:00:08,000
+Klasörü ayıklayın
+
+3
+00:00:08,000 --> 00:00:09,320
+'Elma' sınıfında
+
+4
+00:00:09,320 --> 00:00:10,880
+bazı resim örnekleri ekleyin
+
+5
+00:00:10,880 --> 00:00:14,240
+az önce indirdiğiniz klasörlerden birinden
+
+6
+00:00:14,240 --> 00:00:18,120
+Kırmızı elmanıza en çok benzeyen görselleri seçin
+
+7
+00:00:18,120 --> 00:00:21,720
+Modeli eğitin
+
+8
+00:00:21,720 --> 00:00:24,440
+Kırmızı elmanızı kaldırarak modeli tekrar test edin
+
+9
+00:00:24,440 --> 00:00:26,040
+web kameranıza
+
+10
+00:00:26,040 --> 00:00:28,160
+Model daha güvenilir bir tahmin yapmalıdır
+
+11
+00:00:28,160 --> 00:00:30,400
+bunun bir elma olduğu
+
+12
+00:00:30,400 --> 00:00:32,720
+Domatesinizi web kameranıza doğru tutun
+
+13
+00:00:32,720 --> 00:00:34,840
+Model daha az güvenilir bir tahmin yapabilir
+
+14
+00:00:34,840 --> 00:00:37,000
+bunun bir domates olduğu
+
+15
+00:00:37,000 --> 00:00:39,000
+Bunun nedeni, eğitim verilerini eklemiş olmanızdır
+
+16
+00:00:39,000 --> 00:00:40,240
+'Elma' sınıfına
+
+17
+00:00:40,240 --> 00:00:47,000
+domatese daha çok benzeyen görüntüleri
+

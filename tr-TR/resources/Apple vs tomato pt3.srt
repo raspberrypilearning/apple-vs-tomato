@@ -1,0 +1,17 @@
+1
+00:00:02,920 --> 00:00:06,920
+Modeli test etmek için 
+kırmızı elmanızı web kameranıza doğru tutun
+
+2
+00:00:06,920 --> 00:00:09,200
+Model güvenilir bir tahminde bulunmamalıdır
+
+3
+00:00:09,200 --> 00:00:10,680
+bunun bir elma olduğu
+
+4
+00:00:10,680 --> 00:00:17,200
+Büyük ihtimalle bunun bir domates olduğunu tahmin edecektir!
+
