@@ -10,30 +10,19 @@ Hyfforddwch fodel i ganfod yr hyn rydych chi'n ei ddal.
 
 ### Hyfforddwch y model
 
---- task ---
-
 Cliciwch ar **Train Model**.
 
 **Sylwer:** Byddwch yn amyneddgar! Gall gymryd 10 i 20 eiliad i'w gwblhau.
 
 ![Y botwm 'Train Model'.](images/train_model.png)
 
---- /task ---
-
 ### Profwch y model
-
---- task ---
 
 Daliwch eich afal gwyrdd i fyny at eich gwe-gamera.
 
 Dylai'r model gynhyrchu rhagfynegiad gyda **sgôr hyder uchel** mai **afal** ydyw.
 
---- /task ---
-
---- task ---
-
 Daliwch eich tomato **coch** i fyny at eich gwe-gamera.
 
 Dylai'r model gynhyrchu rhagfynegiad gyda **sgôr hyder uchel** mai **tomato** ydyw.
 
---- /task ---

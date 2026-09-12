@@ -10,41 +10,23 @@ Elma ve domates örnek resimlerini ekleyin.
 
 ### Modeli kurun
 
---- task ---
-
 [Öğretilebilir Makineyi](https://rpf.io/tm){:target="_blank"} açın.
-
---- /task ---
-
---- task ---
 
 `Sınıf 1`'i `Elma` olarak yeniden adlandırın.
 
 `Sınıf 2`'yi `Domates` olarak yeniden adlandırın.
 
---- /task ---
-
 ### Örnek görselleri indirin
-
---- task ---
 
 [Başlangıç resimlerini içeren klasörü](https://rpf.io/tams){:target="_blank"} indirin.
 
---- /task ---
-
 Klasör zip dosyası olarak indirilecektir.
-
---- task ---
 
 Klasörü ayıklayın.
 
---- /task ---
-
---- collapse ---
-
 ---
-title: Nasıl ayıklanır
----
+
+## title: Nasıl ayıklanır
 
 **Microsoft Windows**
 
@@ -69,18 +51,9 @@ title: Nasıl ayıklanır
 - 'İndirilenler' klasörünüzü açın.
 - Zip dosyasına sağ tıklayın ve **Buraya Çıkart** seçeneğini seçin.
 
---- /collapse ---
-
 ### Örnek resimler ekleyin
-
---- task ---
 
 Yeşil elma resimlerini 'Elma' sınıfına yükleyin.
 
---- /task ---
-
---- task ---
-
 Kırmızı domates resimlerini 'Domates' sınıfına yükleyin.
 
---- /task ---
