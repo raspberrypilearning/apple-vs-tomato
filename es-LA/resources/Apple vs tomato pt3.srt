@@ -1,0 +1,17 @@
+1
+00:00:02,920 --> 00:00:06,920
+Prueba el modelo sosteniendo 
+tu manzana roja frente a la cámara web
+
+2
+00:00:06,920 --> 00:00:09,200
+El modelo no debería realizar una predicción segura
+
+3
+00:00:09,200 --> 00:00:10,680
+de que eso es una manzana
+
+4
+00:00:10,680 --> 00:00:17,200
+¡Es probable que prediga que es un tomate!
+
