@@ -10,30 +10,19 @@ Train een model om te detecteren wat je vasthoudt.
 
 ### Train het model
 
---- task ---
-
 Klik op **Model trainen**.
 
 **Let op:** Heb geduld! Het kan 10 tot 20 seconden duren om te voltooien.
 
 ![De 'Train Model' knop.](images/train_model.png)
 
---- /task ---
-
 ### Test het model
-
---- task ---
 
 Houd je **groene** appel voor je webcam.
 
 Het model moet een voorspelling met een **hoge betrouwbaarheidsscore** produceren dat het een **appel** is.
 
---- /task ---
-
---- task ---
-
 Houd je **rode** tomaat voor je webcam.
 
 Het model moet een voorspelling met een **hoge betrouwbaarheidsscore** produceren dat het een **tomaat** is.
 
---- /task ---
