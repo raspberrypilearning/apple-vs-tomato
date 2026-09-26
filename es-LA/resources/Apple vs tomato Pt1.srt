@@ -1,0 +1,24 @@
+1
+00:00:02,880 --> 00:00:04,120
+Dirígete a rpf.io/tm
+
+2
+00:00:06,600 --> 00:00:09,560
+Cambia el nombre de las clases a 'Manzana' y 'Tomate'
+
+3
+00:00:09,560 --> 00:00:11,720
+Descarga las imágenes de entrenamiento inicial
+
+4
+00:00:11,720 --> 00:00:15,280
+Descomprime la carpeta
+
+5
+00:00:15,280 --> 00:00:18,480
+Sube las imágenes de manzanas verdes a la clase 'Manzana'
+
+6
+00:00:18,480 --> 00:00:24,520
+Sube las imágenes de tomates rojos a la clase 'Tomate'
+

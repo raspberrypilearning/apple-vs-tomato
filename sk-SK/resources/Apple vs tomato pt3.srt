@@ -1,0 +1,16 @@
+1
+00:00:02,920 --> 00:00:06,920
+Otestuj model tým, že podržíš tvoje červené jablko pred tvojou webkamerou
+
+2
+00:00:06,920 --> 00:00:09,200
+Model by nemal urobiť sebaistý úsudok
+
+3
+00:00:09,200 --> 00:00:10,680
+to je jablko
+
+4
+00:00:10,680 --> 00:00:17,200
+Asi usúdi, že je to paradajka!
+

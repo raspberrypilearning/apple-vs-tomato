@@ -10,20 +10,9 @@ Die Trainingsdaten sind einseitig, weil sie nur grüne Äpfel enthalten.
 
 Um die Einseitigkeit zu reduzieren, musst du der Klasse „Apple“ zusätzliche Beispiele von Äpfeln hinzufügen.
 
---- task ---
-
-
 Lade einen [Ordner mit weiteren Bildern von Äpfeln](https://drive.google.com/drive/folders/1OIuoG7go72c7QririIpykJ4tW-arrtfA){:target="_blank"} herunter.
 
---- /task ---
-
---- task ---
-
 Entpacke den neuen Ordner.
-
---- /task ---
-
---- task ---
 
 Füge der Klasse „Apple“ einige Beispielbilder aus einem der Ordner hinzu, die du gerade heruntergeladen hast.
 
@@ -33,29 +22,17 @@ Wähle Bilder aus, die deinem **roten** Apfel am ähnlichsten sehen.
 
 **Tipp:** Du musst nur ein paar zusätzliche Beispiele zu deiner 'Apfel'-Klasse hinzufügen.
 
---- /task ---
-
 ### Trainiere das Modell erneut
-
---- task ---
 
 Klicke auf **Modell trainieren**.
 
 ![Die Schaltfläche „Modell trainieren“.](images/train_model.png)
 
---- /task ---
-
 Wenn das Modell trainiert ist, wird das Vorschaufenster geöffnet.
-
---- task ---
 
 Halte deinen **roten** Apfel vor deine Webcam, um das Modell erneut zu testen.
 
 Das Modell sollte die Vorhersage mit einer **höheren Sicherheit** treffen, dass es sich um einen **Apfel** handelt.
-
---- /task ---
-
---- task ---
 
 Halte deine Tomate vor deine Webcam.
 
@@ -63,13 +40,9 @@ Das Modell könnte die Vorhersage mit einer **niedrigeren Sicherheit** treffen, 
 
 Dies liegt daran, dass Du der Bildklasse „Apple“ Trainingsdaten hinzugefügt hast, die eher wie Tomaten aussehen.
 
---- /task ---
+---
 
---- collapse ---
----
-title: Hinweis für Lehrer
----
+## title: Hinweis für Lehrer
 
 Sie könnten den Lernenden das Konzept der ethischen Voreingenommenheit näherbringen, die sich aus der Verwendung verzerrter Trainingsdaten ergeben kann.
 
---- /collapse ---
