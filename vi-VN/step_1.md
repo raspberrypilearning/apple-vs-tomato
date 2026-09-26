@@ -8,33 +8,23 @@ Bạn sẽ cần một **webcam**, một **quả táo đỏ**, một **quả tá
 
 Bạn sẽ cần có khả năng tải xuống và lưu tệp vào máy tính của mình.
 
---- collapse ---
+---
 
----
-title: Hình ảnh của tôi được lưu trữ ở đâu?
----
+## title: Where are my images stored?
 
 - Dự án này sử dụng công nghệ có tên gọi là 'học máy'. Hệ thống máy học được đào tạo bằng cách sử dụng một lượng lớn dữ liệu.
 - Dự án này không yêu cầu bạn phải tạo tài khoản hoặc đăng nhập. Đối với dự án này, các ví dụ hình ảnh bạn sử dụng để tạo mô hình chỉ được lưu trữ tạm thời trong trình duyệt của bạn (chỉ trên máy của bạn).
 - Không có hình ảnh nào từ webcam của bạn được gửi tới trang web này hoặc bất kỳ trang web nào khác.
 
---- /collapse ---
+---
 
---- collapse ---
----
-title: Không có YouTube? Tải video xuống!
----
+## title: No YouTube? Download the videos!
 
 Bạn có thể [tải xuống tất cả video cho dự án này](https://rpf.io/p/vi-VN/apple-vs-tomato-go){:target="_blank"}.
 
---- /collapse ---
-
---- collapse ---
-
 ---
-title: Giấy phép
----
+
+## title: Licence
 
 Chúng tôi muốn cảm ơn [Samuel Cortinhas](https://www.kaggle.com/datasets/samuelcortinhas/apples-or-tomatoes-image-classification/data){:target="_blank"} vì ý tưởng và hình ảnh cho dự án này.
 
---- /collapse ---

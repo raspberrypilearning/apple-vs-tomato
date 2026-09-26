@@ -8,12 +8,9 @@ Defnyddiwch afal gwahanol i brofi'r model.
   </div>
 </html>
 
---- task ---
-
 Daliwch eich afal **coch** i fyny i'ch gwe-gamera i brofi'r model.
 
 **Ni** ddylai'r model gynhyrchu rhagfynegiad gyda sgôr hyder uchel mai afal ydyw.
 
 Byddai siwr o fod yn darogan mai **tomato** ydyw!
 
---- /task ---

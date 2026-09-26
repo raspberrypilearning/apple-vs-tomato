@@ -10,30 +10,19 @@
 
 ### Đào tạo mô hình
 
---- task ---
-
 Nhấp vào **Đào tạo mô hình**.
 
 **Lưu ý:** Hãy kiên nhẫn! Có thể mất từ 10 đến 20 giây để hoàn tất.
 
 ![Nút 'Đào tạo mô hình'.](images/train_model.png)
 
---- /task ---
-
 ### Kiểm tra mô hình
-
---- task ---
 
 Đưa quả táo **xanh** của bạn lên trước webcam.
 
 Mô hình sẽ đưa ra dự đoán với **điểm tin cậy cao** rằng đó là một **quả táo**.
 
---- /task ---
-
---- task ---
-
 Đưa quả cà chua **đỏ** của bạn lên trước webcam.
 
 Mô hình sẽ đưa ra dự đoán với **điểm tin cậy cao** rằng đó là **quả cà chua**.
 
---- /task ---
