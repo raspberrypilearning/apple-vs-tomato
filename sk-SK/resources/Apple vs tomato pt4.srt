@@ -1,0 +1,68 @@
+1
+00:00:03,360 --> 00:00:06,480
+Stiahnite priečinok obrázkov rôznych jabĺk
+
+2
+00:00:06,480 --> 00:00:08,000
+Extrahujte všetky súbory z priečinku
+
+3
+00:00:08,000 --> 00:00:09,320
+V triede 'Jablko'
+
+4
+00:00:09,320 --> 00:00:10,880
+pridaj nejaké vzorky obrázkov
+
+5
+00:00:10,880 --> 00:00:14,240
+z jedného z tých priečinkov ktoré si práve stiahol
+
+6
+00:00:14,240 --> 00:00:18,120
+Vyber obrázky, ktoré vyzerajú najviac ako tvoje červené jablko
+
+7
+00:00:18,120 --> 00:00:21,720
+Trénuj model
+
+8
+00:00:21,720 --> 00:00:24,440
+Znova otestuj model tým, že podržíš tvoje červené jablko
+
+9
+00:00:24,440 --> 00:00:26,040
+pred tvojou webkamerou
+
+10
+00:00:26,040 --> 00:00:28,160
+Model by mal spraviť viac sebaistejší úsudok
+
+11
+00:00:28,160 --> 00:00:30,400
+to je jablko
+
+12
+00:00:30,400 --> 00:00:32,720
+Podrž tvoju paradajku pred tvojou webkamerou
+
+13
+00:00:32,720 --> 00:00:34,840
+Model by mal spraviť menej sebaistejší úsudok
+
+14
+00:00:34,840 --> 00:00:37,000
+to je paradajka
+
+15
+00:00:37,000 --> 00:00:39,000
+Toto sa stalo, pretože si pridal tréningové dáta
+
+16
+00:00:39,000 --> 00:00:40,240
+do triedy 'Jablko'
+
+17
+00:00:40,240 --> 00:00:47,000
+obrázkov vyzerajú viac ako paradajky
+
