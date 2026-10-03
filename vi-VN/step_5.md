@@ -10,19 +10,9 @@ Dữ liệu đào tạo có tính thiên vị vì nó chỉ bao gồm những qu
 
 Để giảm sự thiên vị, bạn cần thêm các ví dụ bổ sung về táo vào lớp 'Apple'.
 
---- task ---
-
 Tải xuống [thư mục chứa nhiều hình ảnh về táo hơn](https://drive.google.com/drive/folders/1OIuoG7go72c7QririIpykJ4tW-arrtfA){:target="_blank"}.
 
---- /task ---
-
---- task ---
-
 Giải nén thư mục mới.
-
---- /task ---
-
---- task ---
 
 Trong lớp 'Apple', hãy thêm một số mẫu hình ảnh từ một trong các thư mục bạn vừa tải xuống.
 
@@ -32,29 +22,17 @@ Chọn những hình ảnh trông giống quả táo **đỏ** của bạn nhấ
 
 **Mẹo:** Bạn chỉ cần thêm một vài mẫu bổ sung vào lớp 'Apple' của mình.
 
---- /task ---
-
 ### Đào tạo lại mô hình
-
---- task ---
 
 Nhấp vào **Đào tạo mô hình**.
 
 ![Nút 'Đào tạo mô hình'.](images/train_model.png)
 
---- /task ---
-
 Khi mô hình được đào tạo, bảng xem trước sẽ mở ra.
-
---- task ---
 
 Đưa quả táo **đỏ** của bạn lên webcam để kiểm tra lại mô hình.
 
 Mô hình sẽ đưa ra dự đoán với **điểm tin cậy cao hơn** rằng đó là một **quả táo**.
-
---- /task ---
-
---- task ---
 
 Đưa quả cà chua của bạn lên trước webcam.
 
@@ -62,13 +40,9 @@ Mô hình có thể đưa ra dự đoán với **điểm tin cậy thấp hơn**
 
 Điều này là do bạn đã thêm dữ liệu đào tạo vào lớp 'Apple' những hình ảnh trông giống quả cà chua hơn.
 
---- /task ---
+---
 
---- collapse ---
----
-title: Lưu ý cho các nhà giáo dục
----
+## title: Note to educators
 
 Bạn có thể chọn giới thiệu cho người học khái niệm về thành kiến đạo đức có thể phát sinh do sử dụng dữ liệu đào tạo có thành kiến.
 
---- /collapse ---
