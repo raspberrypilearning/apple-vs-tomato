@@ -11,10 +11,10 @@ steps:
   - title: Ne yapacaksınız
   - title: Model oluşturma
     completion:
-    - engaged
+      - engaged
   - title: Eğitim ve test
   - title: Farklı bir elma
   - title: Modeli iyileştirme
     completion:
-    - internal
-    - external
+      - internal
+      - external
