@@ -2,19 +2,19 @@
 title: Apple vs tomato
 hero_image: images/banner.png
 description: Hyfforddwch fodel dysgu peiriant i ganfod a ydych chi'n dal afal neu domato, yna ei wella trwy gynnwys data hyfforddi mwy amrywiol
+pdf: resources/rpfi-apple-vs-tomato.pdf
 version: 4
-listed: false
+listed: true
 copyedit: false
 last_tested: "2024-07-19"
 steps:
   - title: Beth fyddwch chi'n ei wneud
   - title: Creu model
     completion:
-    - engaged
+      - engaged
   - title: Hyfforddi a phrofi
   - title: Afal gwahanol
   - title: Gwella'r model
     completion:
-    - internal
-    completion:
-    - external
+      - internal
+      - external
