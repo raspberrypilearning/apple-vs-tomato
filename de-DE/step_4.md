@@ -8,12 +8,9 @@ Verwende einen anderen Apfel, um das Modell zu testen.
   </div>
 </html>
 
---- task ---
-
 Halte deinen **roten** Apfel vor deine Webcam, um das Modell zu testen.
 
 Das Modell sollte **nicht** mit hoher Sicherheit erkennen, dass es sich um einen **Apfel** handelt.
 
 Es wird wahrscheinlich die Vorhersage treffen, dass es sich um eine **Tomate** handelt!
 
---- /task ---

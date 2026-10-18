@@ -10,30 +10,19 @@ Elinizde tuttuğunuz şeyi algılayacak bir model eğitin.
 
 ### Modelin eğitin
 
---- task ---
-
 **Modeli eğitin**e tıklayın.
 
 **Not:** Sabırlı olun! Tamamlanması 10 ila 20 saniye sürebilir.
 
 !['Modeli Eğitin' düğmesi.](images/train_model.png)
 
---- /task ---
-
 ### Modeli test edin
-
---- task ---
 
 Yeşil elmanızı web kameranıza doğru tutun.
 
 Model, bunun bir **elma** olduğuna dair **yüksek güven skoru** ile bir tahmin üretmelidir.
 
---- /task ---
-
---- task ---
-
 **Kırmızı** domatesinizi web kameranıza doğru tutun.
 
 Model, bunun bir **domates** olduğuna dair **yüksek güven skoru** ile bir tahmin üretmelidir.
 
---- /task ---

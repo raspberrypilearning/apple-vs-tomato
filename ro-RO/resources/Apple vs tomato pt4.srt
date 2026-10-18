@@ -1,0 +1,68 @@
+1
+00:00:03,360 --> 00:00:06,480
+Download a folder of images of different apples
+
+2
+00:00:06,480 --> 00:00:08,000
+Dezarhivați folderul
+
+3
+00:00:08,000 --> 00:00:09,320
+In the ‘Apple’ class
+
+4
+00:00:09,320 --> 00:00:10,880
+add some samples of images
+
+5
+00:00:10,880 --> 00:00:14,240
+dintr-unul dintre folderele pe care tocmai le-ați descărcat
+
+6
+00:00:14,240 --> 00:00:18,120
+Alege imagini care seamănă cel mai mult cu mărul tău roșu
+
+7
+00:00:18,120 --> 00:00:21,720
+Antrenează modelul
+
+8
+00:00:21,720 --> 00:00:24,440
+Testează din nou modelul ținând în sus mărul roșu
+
+9
+00:00:24,440 --> 00:00:26,040
+la camera web
+
+10
+00:00:26,040 --> 00:00:28,160
+Modelul ar trebui să facă o predicție mai sigură
+
+11
+00:00:28,160 --> 00:00:30,400
+că este un măr
+
+12
+00:00:30,400 --> 00:00:32,720
+Ridică roșia ta în fața camerei web
+
+13
+00:00:32,720 --> 00:00:34,840
+Modelul ar putea face o predicție mai puțin sigură
+
+14
+00:00:34,840 --> 00:00:37,000
+că este o roșie
+
+15
+00:00:37,000 --> 00:00:39,000
+Acest lucru se datorează faptului că ați adăugat date de antrenament
+
+16
+00:00:39,000 --> 00:00:40,240
+la clasa cu mere
+
+17
+00:00:40,240 --> 00:00:47,000
+de imagini care seamănă mai mult cu roșii
+
