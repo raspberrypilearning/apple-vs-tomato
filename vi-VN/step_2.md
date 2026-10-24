@@ -10,41 +10,23 @@ Thêm hình ảnh mẫu về táo và cà chua.
 
 ### Thiết lập mô hình
 
---- task ---
-
 Mở [Teachable Machine](https://rpf.io/tm){:target="_blank"}.
-
---- /task ---
-
---- task ---
 
 Đổi tên `Class 1` thành `Apple`.
 
 Đổi tên `Class 2` thành `Tomato`.
 
---- /task ---
-
 ### Tải xuống hình ảnh mẫu
-
---- task ---
 
 Tải xuống [thư mục chứa những hình ảnh bắt đầu](https://rpf.io/tams){:target="_blank"}.
 
---- /task ---
-
 Thư mục sẽ được tải xuống dưới dạng tệp zip.
-
---- task ---
 
 Giải nén thư mục.
 
---- /task ---
-
---- collapse ---
-
 ---
-title: Cách giải nén
----
+
+## title: How to unzip
 
 **Microsoft Windows**
 
@@ -69,18 +51,9 @@ title: Cách giải nén
 - Mở thư mục 'Tải xuống' của bạn.
 - Nhấp chuột phải vào tệp zip và chọn **Giải nén tại đây**.
 
---- /collapse ---
-
 ### Thêm hình ảnh mẫu
-
---- task ---
 
 Tải hình ảnh **quả táo** màu xanh lá cây lên lớp 'Táo'.
 
---- /task ---
-
---- task ---
-
 Tải hình ảnh **cà chua** màu đỏ lên lớp 'Cà chua'.
 
---- /task ---

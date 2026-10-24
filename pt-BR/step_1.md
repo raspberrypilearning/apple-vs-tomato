@@ -8,33 +8,23 @@ Você precisará de uma **câmera**, uma **maçã vermelha**, uma **maçã verde
 
 Você precisará fazer o download e salvar arquivos no seu computador.
 
---- collapse ---
+---
 
----
-title: Onde minhas imagens estão armazenadas?
----
+## title: Where are my images stored?
 
 - Este projeto usa uma tecnologia chamada "aprendizado de máquina". Os sistemas de aprendizado de máquina são treinados usando uma grande quantidade de dados.
 - Este projeto não exige que você crie uma conta ou faça login. Para este projeto, os exemplos de imagem que você usa para criar o modelo são armazenados apenas temporariamente no seu navegador (somente na sua máquina).
 - Nenhuma imagem da sua câmera é enviada para este site ou qualquer outro site.
 
---- /collapse ---
+---
 
---- collapse ---
----
-title: Sem YouTube? Baixe os vídeos!
----
+## title: No YouTube? Download the videos!
 
 Você pode [baixar todos os vídeos deste projeto](https://rpf.io/p/pt-BR/apple-vs-tomato-go){:target="_blank"}.
 
---- /collapse ---
-
---- collapse ---
-
 ---
-title: Licença
----
+
+## title: Licence
 
 Gostaríamos de agradecer a [Samuel Cortinhas](https://www.kaggle.com/datasets/samuelcortinhas/apples-or-tomatoes-image-classification/data){:target="_blank"} pelo conceito e imagens para este projeto.
 
---- /collapse ---
