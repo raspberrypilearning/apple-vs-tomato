@@ -10,30 +10,19 @@ Træn en model for at finde ud af, hvad du besidder.
 
 ### Træn modellen
 
---- task ---
-
 Klik på **Træn Model**.
 
 **Bemærk:** Vær tålmodig! Det kan tage 10 til 20 sekunder at fuldføre.
 
 ![Knappen 'Træn Model'.](images/train_model.png)
 
---- /task ---
-
 ### Træn modellen
-
---- task ---
 
 Hold op dit grønne æble op mod kameraet.
 
 Modellen skal producere en forudsigelse med en **høj konfidensscore** om, at det er et **æble**.
 
---- /task ---
-
---- task ---
-
 Hold op din røde tomat op mod kameraet.
 
 Modellen skal give en forudsigelse med en **høj konfidensscore**, at det er en **tomat**.
 
---- /task ---
