@@ -1,0 +1,28 @@
+1
+00:00:03,320 --> 00:00:06,840
+Trénuj model
+
+2
+00:00:06,840 --> 00:00:10,440
+Podrž tvoje zelené jablko pred tvojou web kamerou
+
+3
+00:00:10,440 --> 00:00:12,440
+Model by mal spraviť sebaistý úsudok
+
+4
+00:00:12,440 --> 00:00:14,360
+to je jablko
+
+5
+00:00:14,360 --> 00:00:17,320
+Podrž tvoju červenú paradajku pred tvojou web kamerou
+
+6
+00:00:17,320 --> 00:00:19,120
+Model by mal urobiť sebaistý úsudok
+
+7
+00:00:19,120 --> 00:00:24,120
+to je paradajka
+
