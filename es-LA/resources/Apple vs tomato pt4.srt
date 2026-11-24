@@ -1,0 +1,68 @@
+1
+00:00:03,360 --> 00:00:06,480
+Descarga la carpeta con imágenes de diferentes manzanas
+
+2
+00:00:06,480 --> 00:00:08,000
+Descomprime la carpeta
+
+3
+00:00:08,000 --> 00:00:09,320
+En la clase 'Manzana'
+
+4
+00:00:09,320 --> 00:00:10,880
+agrega algunas imágenes de muestra
+
+5
+00:00:10,880 --> 00:00:14,240
+de una de las carpetas que acabas de descargar
+
+6
+00:00:14,240 --> 00:00:18,120
+Elige imágenes que se parezcan lo más posible a tu manzana roja
+
+7
+00:00:18,120 --> 00:00:21,720
+Entrena el modelo
+
+8
+00:00:21,720 --> 00:00:24,440
+Prueba nuevamente el modelo sosteniendo tu manzana roja
+
+9
+00:00:24,440 --> 00:00:26,040
+frente a la cámara web
+
+10
+00:00:26,040 --> 00:00:28,160
+El modelo debería hacer una predicción un poco más segura
+
+11
+00:00:28,160 --> 00:00:30,400
+de que eso es una manzana
+
+12
+00:00:30,400 --> 00:00:32,720
+Sostén tu tomate frente a la cámara web
+
+13
+00:00:32,720 --> 00:00:34,840
+El modelo debería hacer una predicción menos segura
+
+14
+00:00:34,840 --> 00:00:37,000
+de que eso es un tomate
+
+15
+00:00:37,000 --> 00:00:39,000
+Esto se debe a que has agregado información de entrenamiento
+
+16
+00:00:39,000 --> 00:00:40,240
+a la clase manzana
+
+17
+00:00:40,240 --> 00:00:47,000
+de imágenes que se parecen más a tomates
+

@@ -11,11 +11,10 @@ steps:
   - title: Hvad du vil lave
   - title: Lav en model
     completion:
-    - engaged
+      - engaged
   - title: Træn og test
   - title: Et andet æble
   - title: Forbedre modellen
     completion:
-    - internal
-    completion:
-    - external
+      - internal
+      - external
